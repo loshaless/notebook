@@ -1,0 +1,578 @@
+{
+  "ATM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CDM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CRM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Debit Card": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "OCTO Clicks": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "OCTO Mobile": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "OCTO Pay": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "QRIS": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Credit Card": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request",
+    "Campaign/ Sales"
+  ],
+  "Deposito": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Funding": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Giro": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Obligasi": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Reksa Dana": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Tabungan": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "KPM": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "KPR": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request",
+    "Campaign/ Sales"
+  ],
+  "KTA/ PL": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Refinancing (Multi Guna)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Xtra Kasbon": [
+    "Complain",
+    "Inquiry",
+    "Request",
+    "Campaign/ Sales"
+  ],
+  "Asuransi": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Beasiswa": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Collection": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Poin Xtra": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Restrukturisasi Kredit": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Telesales": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Vending Machine": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Biz Channel": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Biz Channel OCTO Merchant": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Branch": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Chatbot": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Digital Lounge": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "EDC": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "E-mail": [
+    "Complain",
+    "Compliment",
+    "Inquiry",
+    "Request"
+  ],
+  "Live Chat": [
+    "Complain",
+    "Compliment",
+    "Inquiry",
+    "Request"
+  ],
+  "Services": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Phone Banking": [
+    "Complain",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Preferred": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Social Media": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Transaksi 1500800": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Website": [
+    "Complain",
+    "Compliment",
+    "Report Status",
+    "Inquiry",
+    "Request"
+  ],
+  "Whatsapp": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Cakupan Layanan": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Interaksi": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Other": [
+    "Complain",
+    "Compliment",
+    "Inquiry",
+    "Request",
+    "Other"
+  ],
+  "Aktivasi CC by Bank": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Card Delivery": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "PCL": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Pengkinian Data": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Promo": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "TCL": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "PVI (Program Green Lane)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Personal Credit Line (PCL)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Birthday": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Goal Savers Gift": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Top Up Preferred (CPTOPUP)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "New To Invest/ Insurance": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Program TGIF": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Customer Preferred Valas": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "WM (Reksadana/ Obligasi)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "UPGRADE": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "UPGRADENTB": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CNAF": [
+    "Complain",
+    "Inquiry",
+    "Request",
+    "Campaign/ Sales"
+  ],
+  "GSCUAN": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "NTPCS": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CATHAYTOPUP/ CATHAYUPGRADE": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Fall Below Fee (FBF)": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "MLDREKPON": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "SLAMAN": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Customer Preferred Dormant": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "SLCERMAT": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "SLXPR": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "NEWPVI": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "VALAS50": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "SOMPOCP": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "GSUSD": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "RBP": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CPXS500": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "MLDCASHBACK": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "UPGRADESTAFF": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "GSDIGITAL": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "UPGRADEKM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "CPCXTF": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Customer Preferred Blast": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Special Invitee": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Qualified Invitee": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Qualified Invitee OCTO": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Qualified Invitee PSRM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "NTP Reward": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "MGM": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Customer Preferred Staff": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "RTE": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "Preferred Assistant": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "GSNTP": [
+    "Complain",
+    "Inquiry",
+    "Request"
+  ],
+  "ATM/ CDM/ CRM": [
+    "Compliment",
+    "Report Status",
+    "Inquiry"
+  ],
+  "Rekpon": [
+    "Compliment",
+    "Report Status",
+    "Request"
+  ],
+  "Contact Center": [
+    "Compliment"
+  ],
+  "Telesales Dok KTP Supplement": [
+    "Campaign/ Sales"
+  ],
+  "Contact Center Dok KTP Supplement": [
+    "Campaign/ Sales"
+  ],
+  "Kejar Mimpi Parentime": [
+    "Campaign/ Sales"
+  ],
+  "Mapan Grab": [
+    "Campaign/ Sales"
+  ],
+  "OCTO Friends": [
+    "Campaign/ Sales"
+  ],
+  "Personal Loan": [
+    "Campaign/ Sales"
+  ],
+  "Fraud Awareness": [
+    "Campaign/ Sales"
+  ],
+  "Qurban": [
+    "Campaign/ Sales"
+  ],
+  "Cash Plus": [
+    "Campaign/ Sales"
+  ],
+  "Credit Protector": [
+    "Campaign/ Sales"
+  ],
+  "KTA": [
+    "Campaign/ Sales"
+  ],
+  "Eskalasi": [
+    "Eskalasi"
+  ]
+}

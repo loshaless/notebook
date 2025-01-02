@@ -1,0 +1,1866 @@
+{
+  "Complain|ATM": [
+    "Barang Jatuh Di Area",
+    "Gagal Tarik",
+    "Gagal Transaksi",
+    "Jumlah Uang Tidak Sesuai",
+    "Kebersihan/ Kelengkapan",
+    "Mesin Lambat",
+    "Other",
+    "Penipuan",
+    "Uang Palsu",
+    "Uang Rusak"
+  ],
+  "Complain|CDM": [
+    "Barang Jatuh Di Area",
+    "Gagal Setor",
+    "Gagal Transaksi",
+    "Kebersihan/ Kelengkapan",
+    "Other",
+    "Penipuan"
+  ],
+  "Complain|CRM": [
+    "Barang Jatuh Di Area",
+    "Gagal Setor",
+    "Gagal Tarik",
+    "Gagal Transaksi",
+    "Kebersihan/ Kelengkapan",
+    "Mesin Lambat",
+    "Other",
+    "Penipuan",
+    "Uang Palsu",
+    "Uang Rusak"
+  ],
+  "Complain|Debit Card": [
+    "Tidak Terima PIN",
+    "Kendala Replace/ Renewal",
+    "Kendala Transaksi",
+    "Other",
+    "Pengiriman",
+    "Promo",
+    "Terblokir",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|OCTO Clicks": [
+    "Blokir",
+    "Kendala Login",
+    "Kendala Transaksi",
+    "Other",
+    "Pemulihan Password",
+    "Pemulihan User ID",
+    "Promo",
+    "Release",
+    "RFP",
+    "Terblokir",
+    "Tidak Terima OTP",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|OCTO Mobile": [
+    "Blokir",
+    "E-Mandate",
+    "Fitur",
+    "Kendala Login",
+    "Kendala Registrasi Perangkat Baru",
+    "Kendala Transaksi",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Promo",
+    "Release",
+    "Terblokir",
+    "Tidak Terima Passcode",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|OCTO Pay": [
+    "Kendala Login",
+    "Kendala Transaksi",
+    "Kupon",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Promo",
+    "Terblokir"
+  ],
+  "Complain|QRIS": [
+    "Fitur",
+    "Other",
+    "Promo",
+    "Transaksi"
+  ],
+  "Complain|Credit Card": [
+    "Airport Pick up and Services",
+    "Aktivasi dan PIN",
+    "Tidak Terima Credit Card",
+    "Biaya/ Bunga/ Denda",
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "3D Secure (Release,Daftar,dan Unblok)",
+    "Accor",
+    "Annual Fee",
+    "Blokir/ Buka Blokir",
+    "Cash Plus",
+    "Cek Dokumen",
+    "Cinta",
+    "Sanggahan Transaksi",
+    "Kirim Ulang e-Statement dan Statement",
+    "Kirim Ulang Kartu",
+    "Limit",
+    "Naik/ Turun Limit Permanen",
+    "Naik/ Turun Limit Sementara",
+    "Pelunasan Cicilan",
+    "Pembatalan",
+    "Pendaftaran dan Pembatalan E-Statement",
+    "Pengajuan  Corporate",
+    "Penutupan Kartu",
+    "Pergantian Kartu",
+    "Perhitungan Bunga",
+    "Permohonan Pengiriman Dokumen",
+    "Perubahan Data",
+    "Perubahan Prosentase Autodebet (SI)",
+    "Quick Pay",
+    "Redeem Cash Back",
+    "Reservasi Golf",
+    "Reversal Payment",
+    "SLIK",
+    "Status Pengajuan Aplikasi",
+    "Surat Lancar",
+    "Surat Penutupan Kartu",
+    "Tagihan",
+    "Transaksi",
+    "Unprint Statement",
+    "Credit Protector",
+    "DSE",
+    "Kendala Transaksi",
+    "Kurs",
+    "Other",
+    "Pelunasan",
+    "Pembayaran Tagihan Credit Card",
+    "Pengajuan",
+    "Penipuan",
+    "Promo",
+    "Reaktivasi Kartu",
+    "SMS Blast",
+    "SMS Blast/ Whatsapp/ email Blast",
+    "Standing Instruction",
+    "Tagihan (Tidak Terima/ Selisih)",
+    "Terblokir"
+  ],
+  "Complain|Deposito": [
+    "Aktifkan ARO/ NON ARO",
+    "Biaya/ Bunga/ Denda",
+    "Kendala Break Lebih Awal",
+    "Kendala Penempatan/ Pembukaan",
+    "Kendala Stop ARO",
+    "Other",
+    "Pencairan Tidak Tepat Waktu",
+    "Promo"
+  ],
+  "Complain|Funding": [
+    "Downgrade Nasabah Preferred"
+  ],
+  "Complain|Giro": [
+    "Biaya/ Denda",
+    "Cek dan Bilyet",
+    "Kendala Transaksi",
+    "Other",
+    "Penutupan",
+    "Promo",
+    "Tidak Terima Statement atau E-statement"
+  ],
+  "Complain|Obligasi": [
+    "Other"
+  ],
+  "Complain|Reksa Dana": [
+    "Other"
+  ],
+  "Complain|Tabungan": [
+    "Biaya/ Denda",
+    "Fitur",
+    "Gagal Autodebet",
+    "Kendala Pembukaan Rekening",
+    "Kendala Transaksi",
+    "Other",
+    "Penipuan",
+    "Penutupan",
+    "Promo",
+    "SMS Blast",
+    "Tidak Terima Combined Statement"
+  ],
+  "Complain|KPM": [
+    "Bunga/ Biaya/ Denda",
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "Other",
+    "Pelunasan",
+    "Promo"
+  ],
+  "Complain|KPR": [
+    "Bunga/ Biaya/ Denda",
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Promo",
+    "Tidak Terima E-Statement",
+    "Top Up"
+  ],
+  "Complain|KTA/ PL": [
+    "Bunga/ Biaya/ Denda",
+    "Cek Dokumen",
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Promo",
+    "SMS Blast",
+    "Tidak Terima Welcome Pack",
+    "Top Up"
+  ],
+  "Complain|Refinancing (Multi Guna)": [
+    "Other"
+  ],
+  "Complain|Xtra Kasbon": [
+    "Other"
+  ],
+  "Complain|Asuransi": [
+    "Tidak Terima Polis",
+    "Tidak Terima Tagihan",
+    "Biaya/ Denda/ Premi/ Tenor",
+    "Kendala Klaim",
+    "Other",
+    "Pembatalan",
+    "Penawaran Tidak Sesuai",
+    "Promo"
+  ],
+  "Complain|Beasiswa": [
+    "Other"
+  ],
+  "Complain|Collection": [
+    "Cara Penagihan",
+    "Other",
+    "Selisih Jumlah/ Tenor Tagihan",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|Poin Xtra": [
+    "Tidak Terima",
+    "Fitur",
+    "Jumlah",
+    "Kendala Redeem",
+    "Other",
+    "Promo/ Voucher/ Mileage"
+  ],
+  "Complain|Restrukturisasi Kredit": [
+    "Biaya/ Denda saat pengajuan",
+    "Blokir",
+    "Info tidak jelas/ tidak lengkap/ salah",
+    "Other",
+    "Pengajuan Ditolak",
+    "Program yang disetujui berbeda",
+    "Proses Lama/ Sulit",
+    "Tidak Ada Follow Up"
+  ],
+  "Complain|Telesales": [
+    "Penawaran Tidak Sesuai",
+    "Tidak Berkenan Dihubungi",
+    "Other"
+  ],
+  "Complain|Vending Machine": [
+    "Kendala Transaksi",
+    "Other",
+    "Tidak Berfungsi"
+  ],
+  "Complain|Biz Channel": [
+    "Cakupan Layanan/ Kendala Transaksi",
+    "Cara Penggunaan",
+    "Kendala Menghubungi",
+    "Other"
+  ],
+  "Complain|Biz Channel OCTO Merchant": [
+    "Kendala Pendaftaran",
+    "Transaksi Dalam Proses",
+    "Transaksi Gagal"
+  ],
+  "Complain|Branch": [
+    "Cakupan Layanan",
+    "Kebersihan/ Kelengkapan/ Kenyamanan",
+    "Keramahan Staff",
+    "Ketidaksesuaian Jam Operasional",
+    "Other",
+    "SWIFT Code",
+    "Telepon Cabang"
+  ],
+  "Complain|Chatbot": [
+    "Other"
+  ],
+  "Complain|Digital Lounge": [
+    "Cakupan Layanan",
+    "Kebersihan/ Kelengkapan/ Kenyamanan",
+    "Keramahan Staff",
+    "Other",
+    "Telepon Cabang",
+    "Tidak Tersedia Digital Branch Manager"
+  ],
+  "Complain|EDC": [
+    "Biaya",
+    "Kendala Transaksi",
+    "Other",
+    "Tidak Berfungsi/ Kendala Jaringan"
+  ],
+  "Complain|E-mail": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Complain|Live Chat": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Complain|Services": [
+    "Notifikasi SMS CRM tidak sesuai kondisi",
+    "Permintaan informasi dari RM/ Cabang"
+  ],
+  "Complain|Phone Banking": [
+    "Cakupan Layanan/ Kendala Transaksi",
+    "Interaksi",
+    "Other",
+    "Tidak Dapat Terhubung"
+  ],
+  "Complain|Preferred": [
+    "Layanan CIMB"
+  ],
+  "Complain|Social Media": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Complain|Transaksi 1500800": [
+    "Other"
+  ],
+  "Complain|Website": [
+    "Cakupan informasi/ Layanan",
+    "Informasi Tidak Sesuai",
+    "Kendala Akses",
+    "Other"
+  ],
+  "Complain|Whatsapp": [
+    "Blast"
+  ],
+  "Complain|Cakupan Layanan": [
+    "Whatsapp"
+  ],
+  "Complain|Interaksi": [
+    "Whatsapp"
+  ],
+  "Complain|Other": [
+    "Whatsapp",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|Aktivasi CC by Bank": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|Card Delivery": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|PCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|Pengkinian Data": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|Promo": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|TCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Complain|PVI (Program Green Lane)": [
+    "Other"
+  ],
+  "Complain|Personal Credit Line (PCL)": [
+    "Other"
+  ],
+  "Complain|Birthday": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Goal Savers Gift": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Top Up Preferred (CPTOPUP)": [
+    "Program Preferred Blast"
+  ],
+  "Complain|New To Invest/ Insurance": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Program TGIF": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Customer Preferred Valas": [
+    "Other",
+    "Chinese Yuan"
+  ],
+  "Complain|WM (Reksadana/ Obligasi)": [
+    "Program Preferred Blast"
+  ],
+  "Complain|UPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Complain|UPGRADENTB": [
+    "Program Preferred Blast"
+  ],
+  "Complain|CNAF": [
+    "Program Preferred Blast"
+  ],
+  "Complain|GSCUAN": [
+    "Program Preferred Blast"
+  ],
+  "Complain|NTPCS": [
+    "Program Preferred Blast"
+  ],
+  "Complain|CATHAYTOPUP/ CATHAYUPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Fall Below Fee (FBF)": [
+    "Program Preferred Blast"
+  ],
+  "Complain|MLDREKPON": [
+    "Program Preferred Blast"
+  ],
+  "Complain|SLAMAN": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Customer Preferred Dormant": [
+    "Program Preferred Blast"
+  ],
+  "Complain|SLCERMAT": [
+    "Program Preferred Blast"
+  ],
+  "Complain|SLXPR": [
+    "Program Preferred Blast"
+  ],
+  "Complain|NEWPVI": [
+    "Program Preferred Blast"
+  ],
+  "Complain|VALAS50": [
+    "Program Preferred Blast"
+  ],
+  "Complain|SOMPOCP": [
+    "Program Preferred Blast"
+  ],
+  "Complain|GSUSD": [
+    "Program Preferred Blast"
+  ],
+  "Complain|RBP": [
+    "Program Preferred Blast"
+  ],
+  "Complain|CPXS500": [
+    "Program Preferred Blast"
+  ],
+  "Complain|MLDCASHBACK": [
+    "Program Preferred Blast"
+  ],
+  "Complain|UPGRADESTAFF": [
+    "Program Preferred Blast"
+  ],
+  "Complain|GSDIGITAL": [
+    "Program Preferred Blast"
+  ],
+  "Complain|UPGRADEKM": [
+    "Program Preferred Blast"
+  ],
+  "Complain|CPCXTF": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Customer Preferred Blast": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Special Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Qualified Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Qualified Invitee OCTO": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Qualified Invitee PSRM": [
+    "Program Preferred Blast"
+  ],
+  "Complain|NTP Reward": [
+    "Program Preferred Blast"
+  ],
+  "Complain|MGM": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Customer Preferred Staff": [
+    "Program Preferred Blast"
+  ],
+  "Complain|RTE": [
+    "Program Preferred Blast"
+  ],
+  "Complain|Preferred Assistant": [
+    "Program Preferred Blast"
+  ],
+  "Complain|GSNTP": [
+    "Program Preferred Blast"
+  ],
+  "Compliment|ATM/ CDM/ CRM": [
+    "Other"
+  ],
+  "Compliment|Debit Card": [
+    "Other"
+  ],
+  "Compliment|OCTO Clicks": [
+    "Other"
+  ],
+  "Compliment|OCTO Mobile": [
+    "Other"
+  ],
+  "Compliment|QRIS": [
+    "Other"
+  ],
+  "Compliment|Rekpon": [
+    "Other"
+  ],
+  "Compliment|Credit Card": [
+    "Other"
+  ],
+  "Compliment|Deposito": [
+    "Other"
+  ],
+  "Compliment|Giro": [
+    "Other"
+  ],
+  "Compliment|Tabungan": [
+    "Other"
+  ],
+  "Compliment|KPM": [
+    "Other"
+  ],
+  "Compliment|KPR": [
+    "Other"
+  ],
+  "Compliment|KTA/ PL": [
+    "Other"
+  ],
+  "Compliment|Asuransi": [
+    "Other"
+  ],
+  "Compliment|Beasiswa": [
+    "Other"
+  ],
+  "Compliment|Collection": [
+    "Other"
+  ],
+  "Compliment|Poin Xtra": [
+    "Other"
+  ],
+  "Compliment|Restrukturisasi Kredit": [
+    "Other"
+  ],
+  "Compliment|Telesales": [
+    "Other"
+  ],
+  "Compliment|Vending Machine": [
+    "Other"
+  ],
+  "Compliment|Biz Channel": [
+    "Other"
+  ],
+  "Compliment|Branch": [
+    "Other"
+  ],
+  "Compliment|Contact Center": [
+    "Agent",
+    "Services"
+  ],
+  "Compliment|Digital Lounge": [
+    "Other"
+  ],
+  "Compliment|EDC": [
+    "Other"
+  ],
+  "Compliment|E-mail": [
+    "Other"
+  ],
+  "Compliment|Live Chat": [
+    "Other"
+  ],
+  "Compliment|Social Media": [
+    "Other"
+  ],
+  "Compliment|Website": [
+    "Other"
+  ],
+  "Compliment|Other": [
+    "Whatsapp"
+  ],
+  "Report Status|ATM/ CDM/ CRM": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Debit Card": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|OCTO Clicks": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|OCTO Mobile": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|QRIS": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Rekpon": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Credit Card": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Deposito": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Giro": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Tabungan": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|KPM": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|KPR": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|KTA/ PL": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Asuransi": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Beasiswa": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Collection": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Poin Xtra": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Restrukturisasi Kredit": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Telesales": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Vending Machine": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Biz Channel": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Branch": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Digital Lounge": [
+    "Status Closed"
+  ],
+  "Report Status|EDC": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Phone Banking": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Social Media": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Report Status|Website": [
+    "Status Closed",
+    "Status Open"
+  ],
+  "Inquiry|ATM": [
+    "Barang Jatuh Di Area",
+    "Jumlah Uang Tidak Sesuai"
+  ],
+  "Inquiry|ATM/ CDM/ CRM": [
+    "Fitur",
+    "Lokasi",
+    "Other"
+  ],
+  "Inquiry|CDM": [
+    "Barang Jatuh Di Area"
+  ],
+  "Inquiry|CRM": [
+    "Barang Jatuh Di Area"
+  ],
+  "Inquiry|Debit Card": [
+    "Fitur",
+    "Other",
+    "Penerbitan/ Penggantian",
+    "Pengiriman",
+    "Promo",
+    "Terblokir"
+  ],
+  "Inquiry|OCTO Clicks": [
+    "Gangguan",
+    "Blokir",
+    "Fitur",
+    "Other",
+    "Pemulihan Password",
+    "Pemulihan User ID",
+    "Promo",
+    "Release",
+    "RFP",
+    "Terblokir",
+    "Tidak Terima OTP"
+  ],
+  "Inquiry|OCTO Mobile": [
+    "Gangguan",
+    "Blokir",
+    "E-Mandate",
+    "Fitur",
+    "Registrasi Perangkat Baru",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Promo",
+    "Registrasi",
+    "Release",
+    "Terblokir",
+    "Tidak Terima Passcode"
+  ],
+  "Inquiry|OCTO Pay": [
+    "Fitur",
+    "Gangguan",
+    "Kendala Login",
+    "Kendala Transaksi",
+    "Kupon",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Promo",
+    "Registrasi",
+    "Terblokir"
+  ],
+  "Inquiry|QRIS": [
+    "Fitur",
+    "Other",
+    "Promo",
+    "Transaksi"
+  ],
+  "Inquiry|Credit Card": [
+    "Airport Pick up and Services",
+    "Aktivasi dan PIN",
+    "Tidak Terima Credit Card",
+    "3D Secure (Release,Daftar,dan Unblok)",
+    "Accor",
+    "Annual Fee",
+    "Blokir/ Buka Blokir",
+    "Cash Plus",
+    "Cek Dokumen",
+    "Cinta",
+    "Fitur",
+    "Form Sanggahan Transaksi",
+    "Kirim Ulang e-Statement dan Statement",
+    "Kirim Ulang Kartu",
+    "Limit",
+    "Naik/ Turun Limit Permanen",
+    "Naik/ Turun Limit Sementara",
+    "Other",
+    "Pelunasan Cicilan",
+    "Pembatalan",
+    "Pendaftaran dan Pembatalan E-Statement",
+    "Pengajuan  Corporate",
+    "Penutupan Kartu",
+    "Pergantian Kartu",
+    "Perhitungan Bunga",
+    "Permohonan Pengiriman Dokumen",
+    "Perubahan Data",
+    "Perubahan Prosentase Autodebet (SI)",
+    "Promo",
+    "Quick Pay",
+    "Redeem Cash Back",
+    "Reservasi Golf",
+    "Reversal Payment",
+    "SLIK",
+    "Status",
+    "Status Pengajuan Aplikasi",
+    "Surat Lancar",
+    "Surat Penutupan Kartu",
+    "Tagihan",
+    "Transaksi",
+    "Unprint Statement",
+    "Credit Protector",
+    "DSE",
+    "Kurs",
+    "Pelunasan",
+    "Pembayaran Tagihan Credit Card",
+    "Pengajuan",
+    "Reaktivasi Kartu",
+    "SMS Blast",
+    "SMS Blast/ Whatsapp/ email Blast",
+    "Standing Instruction",
+    "Terblokir"
+  ],
+  "Inquiry|Deposito": [
+    "Aktifkan ARO/ NON ARO",
+    "Fitur",
+    "Kendala Penempatan/ Pembukaan",
+    "Other",
+    "Promo",
+    "Status"
+  ],
+  "Inquiry|Funding": [
+    "Downgrade Nasabah Preferred"
+  ],
+  "Inquiry|Giro": [
+    "Cek dan Bilyet",
+    "Fitur",
+    "Other",
+    "Penutupan",
+    "Promo",
+    "Status",
+    "Tidak Terima Statement atau E-statement"
+  ],
+  "Inquiry|Obligasi": [
+    "Other"
+  ],
+  "Inquiry|Reksa Dana": [
+    "Other"
+  ],
+  "Inquiry|Tabungan": [
+    "Fitur",
+    "Gagal Autodebet",
+    "Kendala Pembukaan Rekening",
+    "Other",
+    "Penutupan",
+    "Promo",
+    "SMS Blast",
+    "Status",
+    "Tidak Terima Combined Statement"
+  ],
+  "Inquiry|KPM": [
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "Fitur",
+    "Other",
+    "Pelunasan",
+    "Promo",
+    "Status"
+  ],
+  "Inquiry|KPR": [
+    "Fitur",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Promo",
+    "Status",
+    "Tidak Terima E-Statement",
+    "Top Up"
+  ],
+  "Inquiry|KTA/ PL": [
+    "Cek Dokumen",
+    "Fitur",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Promo",
+    "SMS Blast",
+    "Status",
+    "Tidak Terima Welcome Pack",
+    "Top Up"
+  ],
+  "Inquiry|Refinancing (Multi Guna)": [
+    "Other"
+  ],
+  "Inquiry|Xtra Kasbon": [
+    "Other"
+  ],
+  "Inquiry|Asuransi": [
+    "Fitur",
+    "Other",
+    "Pembatalan",
+    "Penawaran Tidak Sesuai",
+    "Promo",
+    "Status"
+  ],
+  "Inquiry|Beasiswa": [
+    "Other"
+  ],
+  "Inquiry|Collection": [
+    "Kontak",
+    "Other",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|Poin Xtra": [
+    "Tidak Terima",
+    "Fitur",
+    "Jumlah",
+    "Other",
+    "Promo/ Voucher/ Mileage"
+  ],
+  "Inquiry|Restrukturisasi Kredit": [
+    "Blokir",
+    "Fitur/ Informasi",
+    "Other",
+    "Status"
+  ],
+  "Inquiry|Telesales": [
+    "Kontak",
+    "Other",
+    "Penawaran Tidak Sesuai",
+    "Tidak Berkenan Dihubungi"
+  ],
+  "Inquiry|Vending Machine": [
+    "Fitur",
+    "Lokasi",
+    "Other"
+  ],
+  "Inquiry|Services": [
+    "Airport lounge",
+    "Permintaan informasi dari RM/ Cabang"
+  ],
+  "Inquiry|Biz Channel": [
+    "Fitur",
+    "Kendala Menghubungi",
+    "Other",
+    "Registrasi",
+    "Status/ Gangguan"
+  ],
+  "Inquiry|Biz Channel OCTO Merchant": [
+    "Kendala Pendaftaran",
+    "Transaksi Dalam Proses",
+    "Transaksi Gagal"
+  ],
+  "Inquiry|Branch": [
+    "Cakupan Layanan",
+    "Jadwal/ Status Operasional",
+    "Ketidaksesuaian Jam Operasional",
+    "Kontak/ Lokasi",
+    "SWIFT Code"
+  ],
+  "Inquiry|Chatbot": [
+    "Other"
+  ],
+  "Inquiry|Digital Lounge": [
+    "Cakupan Layanan",
+    "Jadwal/ Status Operasional",
+    "Kontak/ Lokasi",
+    "Tidak Tersedia Digital Branch Manager"
+  ],
+  "Inquiry|EDC": [
+    "Fitur",
+    "Other",
+    "Status/ Gangguan",
+    "Tidak Berfungsi/ Kendala Jaringan"
+  ],
+  "Inquiry|E-mail": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Inquiry|Live Chat": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Inquiry|Phone Banking": [
+    "Fitur/ Cakupan Layanan",
+    "Other",
+    "Tidak Dapat Terhubung"
+  ],
+  "Inquiry|Preferred": [
+    "Fitur dan Benefit CIMB",
+    "Program/ Promo"
+  ],
+  "Inquiry|Social Media": [
+    "Fitur/ Cakupan Layanan",
+    "Other"
+  ],
+  "Inquiry|Transaksi 1500800": [
+    "Other"
+  ],
+  "Inquiry|Website": [
+    "Fitur/ Cakupan Layanan",
+    "Informasi Tidak Sesuai",
+    "Other"
+  ],
+  "Inquiry|Whatsapp": [
+    "Blast"
+  ],
+  "Inquiry|Cakupan Layanan": [
+    "Whatsapp"
+  ],
+  "Inquiry|Interaksi": [
+    "Whatsapp"
+  ],
+  "Inquiry|Other": [
+    "Whatsapp",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|Aktivasi CC by Bank": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|Card Delivery": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|PCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|Pengkinian Data": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|Promo": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|TCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Inquiry|PVI (Program Green Lane)": [
+    "Other"
+  ],
+  "Inquiry|Personal Credit Line (PCL)": [
+    "Other"
+  ],
+  "Inquiry|Birthday": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Goal Savers Gift": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Top Up Preferred (CPTOPUP)": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|New To Invest/ Insurance": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Program TGIF": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Customer Preferred Valas": [
+    "Other",
+    "Chinese Yuan"
+  ],
+  "Inquiry|WM (Reksadana/ Obligasi)": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|UPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|UPGRADENTB": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|CNAF": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|GSCUAN": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|NTPCS": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|CATHAYTOPUP/ CATHAYUPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Fall Below Fee (FBF)": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|MLDREKPON": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|SLAMAN": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Customer Preferred Dormant": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|SLCERMAT": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|SLXPR": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|NEWPVI": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|VALAS50": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|SOMPOCP": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|GSUSD": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|RBP": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|CPXS500": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|MLDCASHBACK": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|UPGRADESTAFF": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|GSDIGITAL": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|UPGRADEKM": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|CPCXTF": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Customer Preferred Blast": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Special Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Qualified Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Qualified Invitee OCTO": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Qualified Invitee PSRM": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|NTP Reward": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|MGM": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Customer Preferred Staff": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|RTE": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|Preferred Assistant": [
+    "Program Preferred Blast"
+  ],
+  "Inquiry|GSNTP": [
+    "Program Preferred Blast"
+  ],
+  "Request|ATM": [
+    "Barang Jatuh Di Area",
+    "Fitur",
+    "Jumlah Uang Tidak Sesuai",
+    "Other",
+    "Pembersihan/ Pengisian/ Perbaikan",
+    "Penambahan"
+  ],
+  "Request|CDM": [
+    "Barang Jatuh Di Area",
+    "Fitur",
+    "Other",
+    "Pembersihan/ Perbaikan",
+    "Penambahan"
+  ],
+  "Request|CRM": [
+    "Barang Jatuh Di Area",
+    "Fitur",
+    "Other",
+    "Pembersihan/ Pengisian/ Perbaikan",
+    "Penambahan"
+  ],
+  "Request|Debit Card": [
+    "Blokir",
+    "Fitur",
+    "Other",
+    "Penerbitan/ Penggantian",
+    "Pengiriman",
+    "PIN",
+    "Terblokir"
+  ],
+  "Request|OCTO Clicks": [
+    "Blokir",
+    "Fitur",
+    "Other",
+    "Pemulihan Password",
+    "Pemulihan User ID",
+    "Registrasi",
+    "Release",
+    "RFP",
+    "Terblokir",
+    "Tidak Terima OTP",
+    "Transaksi"
+  ],
+  "Request|OCTO Mobile": [
+    "Blokir",
+    "E-Mandate",
+    "Fitur",
+    "Kendala Registrasi Perangkat Baru",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Registrasi",
+    "Release",
+    "Terblokir",
+    "Tidak Terima Passcode",
+    "Transaksi"
+  ],
+  "Request|OCTO Pay": [
+    "Kendala Login",
+    "Kendala Transaksi",
+    "Kupon",
+    "Other",
+    "Pemulihan PIN",
+    "Pemulihan User ID",
+    "Promo",
+    "Terblokir"
+  ],
+  "Request|QRIS": [
+    "Fitur",
+    "Other",
+    "Promo",
+    "Transaksi"
+  ],
+  "Request|Rekpon": [
+    "Fitur",
+    "Other",
+    "Registrasi",
+    "Transaksi"
+  ],
+  "Request|Credit Card": [
+    "Airport Pick up and Services",
+    "Aktivasi dan PIN",
+    "Tidak Terima Credit Card",
+    "3D Secure (Release,Daftar,dan Unblok)",
+    "Accor",
+    "Annual Fee",
+    "Blokir/ Buka Blokir",
+    "Cash Plus",
+    "Cek Dokumen",
+    "Cinta",
+    "Form Sanggahan Transaksi",
+    "Kirim Ulang e-Statement dan Statement",
+    "Kirim Ulang Kartu",
+    "Naik/ Turun Limit Permanen",
+    "Naik/ Turun Limit Sementara",
+    "Pelunasan Cicilan",
+    "Pembatalan",
+    "Pendaftaran dan Pembatalan E-Statement",
+    "Pengajuan  Corporate",
+    "Penutupan Kartu",
+    "Pergantian Kartu",
+    "Perhitungan Bunga",
+    "Permohonan Pengiriman Dokumen",
+    "Perubahan Data",
+    "Perubahan Prosentase Autodebet (SI)",
+    "Quick Pay",
+    "Redeem Cash Back",
+    "Reservasi Golf",
+    "Reversal Payment",
+    "SLIK",
+    "Status Pengajuan Aplikasi",
+    "Surat Lancar",
+    "Surat Penutupan Kartu",
+    "Tagihan",
+    "Transaksi",
+    "Unprint Statement",
+    "Credit Protector",
+    "DSE",
+    "Kurs",
+    "Other",
+    "Pelunasan Tagihan",
+    "Pembayaran Tagihan Credit Card",
+    "Pengajuan",
+    "Reaktivasi Kartu",
+    "Standing Instruction"
+  ],
+  "Request|Deposito": [
+    "Aktifkan ARO/ NON ARO",
+    "Fitur",
+    "Kendala Penempatan/ Pembukaan",
+    "Other",
+    "Pembukaan",
+    "Penutupan"
+  ],
+  "Request|Funding": [
+    "Downgrade Nasabah Preferred"
+  ],
+  "Request|Giro": [
+    "Cek dan Bilyet",
+    "Fitur",
+    "Other",
+    "Pembukaan",
+    "Penutupan",
+    "Tidak Terima Statement atau E-statement"
+  ],
+  "Request|Obligasi": [
+    "Other"
+  ],
+  "Request|Reksa Dana": [
+    "Other"
+  ],
+  "Request|Tabungan": [
+    "Blokir",
+    "Fitur",
+    "Gagal Autodebet",
+    "Kendala Pembukaan Rekening",
+    "Other",
+    "Pembukaan",
+    "Penutupan",
+    "Tidak Terima Combined Statement"
+  ],
+  "Request|KPM": [
+    "Cicilan (Bunga/ Jumlah/ Tenor)",
+    "Fitur",
+    "Other",
+    "Pelunasan",
+    "Pengajuan",
+    "Penutupan"
+  ],
+  "Request|KPR": [
+    "Fitur",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Pengajuan",
+    "E-Statement",
+    "Top Up"
+  ],
+  "Request|KTA/ PL": [
+    "Cek Dokumen",
+    "Fitur",
+    "New",
+    "Other",
+    "Pelunasan Keseluruhan",
+    "Pelunasan Sebagian",
+    "Pengajuan",
+    "SMS Blast",
+    "Welcome Pack",
+    "Top Up"
+  ],
+  "Request|Refinancing (Multi Guna)": [
+    "Other"
+  ],
+  "Request|Xtra Kasbon": [
+    "Other"
+  ],
+  "Request|Asuransi": [
+    "Fitur",
+    "Other",
+    "Pembatalan",
+    "Pembukaan",
+    "Penawaran Tidak Sesuai",
+    "Penutupan",
+    "Perubahan"
+  ],
+  "Request|Beasiswa": [
+    "Other"
+  ],
+  "Request|Collection": [
+    "Kontak/ Dihubungi",
+    "Other",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|Poin Xtra": [
+    "Tidak Terima",
+    "Fitur",
+    "Jumlah",
+    "Kendala Redeem",
+    "Other",
+    "Promo/ Voucher/ Mileage"
+  ],
+  "Request|Restrukturisasi Kredit": [
+    "Blokir",
+    "Form/ Pengajuan",
+    "Other"
+  ],
+  "Request|Telesales": [
+    "Kontak/ Dihubungi",
+    "Other",
+    "Penawaran Tidak Sesuai",
+    "Tidak Berkenan Dihubungi"
+  ],
+  "Request|Vending Machine": [
+    "Pemindahan/ Penambahan/ Pengurangan",
+    "Pengisian",
+    "Other"
+  ],
+  "Request|Biz Channel": [
+    "Fitur",
+    "Kendala Menghubungi",
+    "Other"
+  ],
+  "Request|Biz Channel OCTO Merchant": [
+    "Kendala Pendaftaran",
+    "Transaksi Dalam Proses",
+    "Transaksi Gagal"
+  ],
+  "Request|Branch": [
+    "Cakupan Layanan",
+    "Ketidaksesuaian Jam Operasional",
+    "Operasional",
+    "Other",
+    "SWIFT Code"
+  ],
+  "Request|Chatbot": [
+    "Other"
+  ],
+  "Request|Digital Lounge": [
+    "Cakupan Layanan",
+    "Operasional",
+    "Other",
+    "Digital Branch Manager"
+  ],
+  "Request|EDC": [
+    "Other",
+    "Penambahan/ Pengurangan",
+    "Penerbitan/ Penggantian",
+    "Tidak Berfungsi/ Kendala Jaringan"
+  ],
+  "Request|E-mail": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Request|Live Chat": [
+    "Cakupan Layanan",
+    "Interaksi",
+    "Other"
+  ],
+  "Request|Services": [
+    "Permintaan informasi dari RM/ Cabang"
+  ],
+  "Request|Phone Banking": [
+    "Fitur/ Cakupan Layanan",
+    "Kontak Other",
+    "Kontak/ Dihubungi",
+    "Tidak Dapat Terhubung"
+  ],
+  "Request|Preferred": [
+    "Layanan CIMB"
+  ],
+  "Request|Social Media": [
+    "Other"
+  ],
+  "Request|Transaksi 1500800": [
+    "Other"
+  ],
+  "Request|Website": [
+    "Informasi Tidak Sesuai",
+    "Other"
+  ],
+  "Request|Whatsapp": [
+    "Blast"
+  ],
+  "Request|Cakupan Layanan": [
+    "Whatsapp"
+  ],
+  "Request|Interaksi": [
+    "Whatsapp"
+  ],
+  "Request|Other": [
+    "Whatsapp",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|Aktivasi CC by Bank": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|Card Delivery": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|PCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|Pengkinian Data": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|Promo": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|TCL": [
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast"
+  ],
+  "Request|PVI (Program Green Lane)": [
+    "Other"
+  ],
+  "Request|Personal Credit Line (PCL)": [
+    "Other"
+  ],
+  "Request|Birthday": [
+    "Program Preferred Blast"
+  ],
+  "Request|Goal Savers Gift": [
+    "Program Preferred Blast"
+  ],
+  "Request|Top Up Preferred (CPTOPUP)": [
+    "Program Preferred Blast"
+  ],
+  "Request|New To Invest/ Insurance": [
+    "Program Preferred Blast"
+  ],
+  "Request|Program TGIF": [
+    "Program Preferred Blast"
+  ],
+  "Request|Customer Preferred Valas": [
+    "Other",
+    "Chinese Yuan"
+  ],
+  "Request|WM (Reksadana/ Obligasi)": [
+    "Program Preferred Blast"
+  ],
+  "Request|UPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Request|UPGRADENTB": [
+    "Program Preferred Blast"
+  ],
+  "Request|CNAF": [
+    "Program Preferred Blast"
+  ],
+  "Request|GSCUAN": [
+    "Program Preferred Blast"
+  ],
+  "Request|NTPCS": [
+    "Program Preferred Blast"
+  ],
+  "Request|CATHAYTOPUP/ CATHAYUPGRADE": [
+    "Program Preferred Blast"
+  ],
+  "Request|Fall Below Fee (FBF)": [
+    "Program Preferred Blast"
+  ],
+  "Request|MLDREKPON": [
+    "Program Preferred Blast"
+  ],
+  "Request|SLAMAN": [
+    "Program Preferred Blast"
+  ],
+  "Request|Customer Preferred Dormant": [
+    "Program Preferred Blast"
+  ],
+  "Request|SLCERMAT": [
+    "Program Preferred Blast"
+  ],
+  "Request|SLXPR": [
+    "Program Preferred Blast"
+  ],
+  "Request|NEWPVI": [
+    "Program Preferred Blast"
+  ],
+  "Request|VALAS50": [
+    "Program Preferred Blast"
+  ],
+  "Request|SOMPOCP": [
+    "Program Preferred Blast"
+  ],
+  "Request|GSUSD": [
+    "Program Preferred Blast"
+  ],
+  "Request|RBP": [
+    "Program Preferred Blast"
+  ],
+  "Request|CPXS500": [
+    "Program Preferred Blast"
+  ],
+  "Request|MLDCASHBACK": [
+    "Program Preferred Blast"
+  ],
+  "Request|UPGRADESTAFF": [
+    "Program Preferred Blast"
+  ],
+  "Request|GSDIGITAL": [
+    "Program Preferred Blast"
+  ],
+  "Request|UPGRADEKM": [
+    "Program Preferred Blast"
+  ],
+  "Request|CPCXTF": [
+    "Program Preferred Blast"
+  ],
+  "Request|Customer Preferred Blast": [
+    "Program Preferred Blast"
+  ],
+  "Request|Special Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Request|Qualified Invitee": [
+    "Program Preferred Blast"
+  ],
+  "Request|Qualified Invitee OCTO": [
+    "Program Preferred Blast"
+  ],
+  "Request|Qualified Invitee PSRM": [
+    "Program Preferred Blast"
+  ],
+  "Request|NTP Reward": [
+    "Program Preferred Blast"
+  ],
+  "Request|MGM": [
+    "Program Preferred Blast"
+  ],
+  "Request|Customer Preferred Staff": [
+    "Program Preferred Blast"
+  ],
+  "Request|RTE": [
+    "Program Preferred Blast"
+  ],
+  "Request|Preferred Assistant": [
+    "Program Preferred Blast"
+  ],
+  "Request|GSNTP": [
+    "Program Preferred Blast"
+  ],
+  "Other|Other": [
+    "Spam",
+    "Chat lanjutan",
+    "Info belum lengkap",
+    "Salah layanan",
+    "Salah Nama",
+    "Test"
+  ],
+  "Campaign/ Sales|CNAF": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Credit Card": [
+    "[Credit Card General] No Respond",
+    "[Credit Card General] Other Respond",
+    "[Credit Card General] Setuju",
+    "[Credit Card General] Tidak Setuju",
+    "[Credit Card General] Wrong Number",
+    "[Credit Card Aktivasi Accor Platinum] No Respond",
+    "[Credit Card Aktivasi Accor Platinum] Other Respond",
+    "[Credit Card Aktivasi Accor Platinum] Setuju",
+    "[Credit Card Aktivasi Accor Platinum] Tidak Setuju",
+    "[Credit Card Aktivasi Accor Platinum] Wrong Number",
+    "[Credit Card Aktivasi Accor World] No Respond",
+    "[Credit Card Aktivasi Accor World] Other Respond",
+    "[Credit Card Aktivasi Accor World] Setuju",
+    "[Credit Card Aktivasi Accor World] Tidak Setuju",
+    "[Credit Card Aktivasi Accor World] Wrong Number",
+    "[Credit Card Tendency Card] No Respond",
+    "[Credit Card Tendency Card] Other Respond",
+    "[Credit Card Tendency Card] Setuju",
+    "[Credit Card Tendency Card] Tidak Setuju",
+    "[Credit Card Tendency Card] Wrong Number",
+    "[Credit Card Stickiness CPROT] No Respond",
+    "[Credit Card Stickiness CPROT] Other Respond",
+    "[Credit Card Stickiness CPROT] Setuju",
+    "[Credit Card Stickiness CPROT] Tidak Setuju",
+    "[Credit Card Stickiness CPROT] Wrong Number",
+    "[Credit Card Stickiness Non-Activated] No Respond",
+    "[Credit Card Stickiness Non-Activated] Other Respond",
+    "[Credit Card Stickiness Non-Activated] Setuju",
+    "[Credit Card Stickiness Non-Activated] Tidak Setuju",
+    "[Credit Card Stickiness Non-Activated] Wrong Number",
+    "[Credit Card Inactive & Dormant] No Respond",
+    "[Credit Card Inactive & Dormant] Other Respond",
+    "[Credit Card Inactive & Dormant] Setuju",
+    "[Credit Card Inactive & Dormant] Tidak Setuju",
+    "[Credit Card Inactive & Dormant] Wrong Number",
+    "[Credit Card Basic] Sales No Respond",
+    "[Credit Card Basic] Sales Ongoing",
+    "[Credit Card Basic] Sales Other Respond",
+    "[Credit Card Basic] Sales Req Dihubungi Kembali",
+    "[Credit Card Basic] Sales Setuju",
+    "[Credit Card Basic] Sales Tidak Mau Dihubungi Lagi",
+    "[Credit Card Basic] Sales Tidak Setuju",
+    "[Credit Card Basic] Sales Wrong Number",
+    "[Credit Card Supplementary] Sales No Respond",
+    "[Credit Card Supplementary] Sales Ongoing",
+    "[Credit Card Supplementary] Sales Other Respond",
+    "[Credit Card Supplementary] Sales Req Dihubungi Kembali",
+    "[Credit Card Supplementary] Sales Setuju",
+    "[Credit Card Supplementary] Sales Tidak Mau Dihubungi Lagi",
+    "[Credit Card Supplementary] Sales Tidak Setuju",
+    "[Credit Card Supplementary] Sales Wrong Number"
+  ],
+  "Campaign/ Sales|Telesales Dok KTP Supplement": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number",
+    "Done"
+  ],
+  "Campaign/ Sales|Contact Center Dok KTP Supplement": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number",
+    "Done"
+  ],
+  "Campaign/ Sales|Xtra Kasbon": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Kejar Mimpi Parentime": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Mapan Grab": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|OCTO Friends": [
+    "Other",
+    "Respond",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Personal Loan": [
+    "No Respond",
+    "Other Respond",
+    "Setuju",
+    "Tidak Setuju",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Fraud Awareness": [
+    "Other",
+    "Respond"
+  ],
+  "Campaign/ Sales|Qurban": [
+    "Other",
+    "Respond",
+    "Wrong Number"
+  ],
+  "Campaign/ Sales|Cash Plus": [
+    "Sales No Respond",
+    "Sales Ongoing",
+    "Sales Other Respond",
+    "Sales Req Dihubungi Kembali",
+    "Sales Setuju",
+    "Sales Tidak Mau Dihubungi Lagi",
+    "Sales Tidak Setuju",
+    "Sales Wrong Number"
+  ],
+  "Campaign/ Sales|Credit Protector": [
+    "Sales No Respond",
+    "Sales Ongoing",
+    "Sales Other Respond",
+    "Sales Req Dihubungi Kembali",
+    "Sales Setuju",
+    "Sales Tidak Mau Dihubungi Lagi",
+    "Sales Tidak Setuju",
+    "Sales Wrong Number"
+  ],
+  "Campaign/ Sales|KPR": [
+    "Sales No Respond",
+    "Sales Ongoing",
+    "Sales Other Respond",
+    "Sales Req Dihubungi Kembali",
+    "Sales Setuju",
+    "Sales Tidak Mau Dihubungi Lagi",
+    "Sales Tidak Setuju",
+    "Sales Wrong Number"
+  ],
+  "Campaign/ Sales|KTA": [
+    "Sales No Respond",
+    "Sales Ongoing",
+    "Sales Other Respond",
+    "Sales Req Dihubungi Kembali",
+    "Sales Setuju",
+    "Sales Tidak Mau Dihubungi Lagi",
+    "Sales Tidak Setuju",
+    "Sales Wrong Number",
+    "Sales CC KTP Non Leads",
+    "Sales Done CC KTP Non Leads",
+    "Sales Unidentified"
+  ],
+  "Eskalasi|Eskalasi": [
+    "Kontak  VDN Staff",
+    "Kontak POH/ SPV",
+    "Kontak Other Places"
+  ]
+}
