@@ -1,0 +1,108 @@
+{
+  "Complain (General Customer)": [
+    "Branchless",
+    "Credit Card",
+    "Funding",
+    "Lending",
+    "Other",
+    "Services",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast",
+    "Program Preferred Blast"
+  ],
+  "Compliment (General Customer)": [
+    "Branchless",
+    "Credit Cards",
+    "Funding",
+    "Lending",
+    "Others",
+    "Services"
+  ],
+  "Feedback/Report (General Customer)": [
+    "Branchless",
+    "Credit Cards",
+    "Funding",
+    "Lending",
+    "Others",
+    "Services"
+  ],
+  "Inquiry (General Customer)": [
+    "Branchless",
+    "Credit Card",
+    "Funding",
+    "Lending",
+    "Others",
+    "Services",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast",
+    "Program Preferred Blast"
+  ],
+  "Request (General Customer)": [
+    "Branchless",
+    "Credit Cards",
+    "Funding",
+    "Lending",
+    "Others",
+    "Services",
+    "SMS Blast",
+    "WhatsApp Blast",
+    "Email Blast",
+    "Program Preferred Blast"
+  ],
+  "Spam (General Customer)": [
+    "Spam"
+  ],
+  "Report Status Checking": [
+    "Branchless",
+    "Credit Cards",
+    "Funding",
+    "Lending",
+    "Others",
+    "Services"
+  ],
+  "Campaign": [
+    "CNAF",
+    "Credit Cards General",
+    "Telesales Dok KTP Supplement",
+    "Done Telesales Dok KTP Supplement",
+    "Contact Center Dok KTP Supplement",
+    "Done Contact Center Dok KTP Supplement",
+    "Credit Cards Aktivasi Accor Platinum",
+    "Credit Cards Aktivasi Accor World",
+    "Credit Cards Tendency Card",
+    "Credit Cards Stickiness CPROT",
+    "Credit Cards Stickiness Non-Activated",
+    "Credit Cards Inactive & Dormant",
+    "Xtra Kasbon",
+    "Kejar Mimpi Parentime",
+    "Mapan Grab",
+    "OCTO Friends",
+    "Personal Loan",
+    "Fraud Awareness",
+    "Qurban"
+  ],
+  "Ongoing": [
+    "Chat lanjutan",
+    "Info belum lengkap",
+    "Salah layanan"
+  ],
+  "Miscellaneous": [
+    "Salah Nama"
+  ],
+  "Test": [
+    "Test"
+  ],
+  "Sales": [
+    "Cash Plus",
+    "Credit Card Basic",
+    "Credit Card Suppl",
+    "Credit Protector",
+    "KPR",
+    "KTA"
+  ],
+  "Eskalasi": [
+    "Eskalasi"
+  ]
+}

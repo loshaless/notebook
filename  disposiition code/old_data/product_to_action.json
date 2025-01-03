@@ -1,0 +1,170 @@
+{
+  "Branchless": [
+    "Complain (General Customer)",
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "Credit Card": [
+    "Complain (General Customer)",
+    "Inquiry (General Customer)"
+  ],
+  "Funding": [
+    "Complain (General Customer)",
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "Lending": [
+    "Complain (General Customer)",
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "Other": [
+    "Complain (General Customer)"
+  ],
+  "Services": [
+    "Complain (General Customer)",
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "SMS Blast": [
+    "Complain (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)"
+  ],
+  "WhatsApp Blast": [
+    "Complain (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)"
+  ],
+  "Email Blast": [
+    "Complain (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)"
+  ],
+  "Program Preferred Blast": [
+    "Complain (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)"
+  ],
+  "Credit Cards": [
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "Others": [
+    "Compliment (General Customer)",
+    "Feedback/Report (General Customer)",
+    "Inquiry (General Customer)",
+    "Request (General Customer)",
+    "Report Status Checking"
+  ],
+  "Spam": [
+    "Spam (General Customer)"
+  ],
+  "CNAF": [
+    "Campaign"
+  ],
+  "Credit Cards General": [
+    "Campaign"
+  ],
+  "Telesales Dok KTP Supplement": [
+    "Campaign"
+  ],
+  "Done Telesales Dok KTP Supplement": [
+    "Campaign"
+  ],
+  "Contact Center Dok KTP Supplement": [
+    "Campaign"
+  ],
+  "Done Contact Center Dok KTP Supplement": [
+    "Campaign"
+  ],
+  "Credit Cards Aktivasi Accor Platinum": [
+    "Campaign"
+  ],
+  "Credit Cards Aktivasi Accor World": [
+    "Campaign"
+  ],
+  "Credit Cards Tendency Card": [
+    "Campaign"
+  ],
+  "Credit Cards Stickiness CPROT": [
+    "Campaign"
+  ],
+  "Credit Cards Stickiness Non-Activated": [
+    "Campaign"
+  ],
+  "Credit Cards Inactive & Dormant": [
+    "Campaign"
+  ],
+  "Xtra Kasbon": [
+    "Campaign"
+  ],
+  "Kejar Mimpi Parentime": [
+    "Campaign"
+  ],
+  "Mapan Grab": [
+    "Campaign"
+  ],
+  "OCTO Friends": [
+    "Campaign"
+  ],
+  "Personal Loan": [
+    "Campaign"
+  ],
+  "Fraud Awareness": [
+    "Campaign"
+  ],
+  "Qurban": [
+    "Campaign"
+  ],
+  "Chat lanjutan": [
+    "Ongoing"
+  ],
+  "Info belum lengkap": [
+    "Ongoing"
+  ],
+  "Salah layanan": [
+    "Ongoing"
+  ],
+  "Salah Nama": [
+    "Miscellaneous"
+  ],
+  "Test": [
+    "Test"
+  ],
+  "Cash Plus": [
+    "Sales"
+  ],
+  "Credit Card Basic": [
+    "Sales"
+  ],
+  "Credit Card Suppl": [
+    "Sales"
+  ],
+  "Credit Protector": [
+    "Sales"
+  ],
+  "KPR": [
+    "Sales"
+  ],
+  "KTA": [
+    "Sales"
+  ],
+  "Eskalasi": [
+    "Eskalasi"
+  ]
+}
