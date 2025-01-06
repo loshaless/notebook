@@ -1,0 +1,38 @@
+Tugas: Klasifikasikan topik percakapan antara agen contact center CIMB Niaga dan nasabah berdasarkan Disposition Code.
+Result dalam bentuk list of json: "penjelasan", "value"
+Konteks:
+- Transkripsi percakapan: {transcript}
+- List of product: {list_of_option}
+Instruksi:
+1. Pemilihan product harus sesuai konteks percakapan
+2. Lakukan analisis pada keseluruhan percakapan, bukan per kalimat.
+3. Pilih maksimum satu product yang paling relevan dari List of product.
+Olah hasil klasifikasi dengan bentuk sebagai berikut:
+{{
+"penjelasan": "[Penjelasan klasifikasi (maksimum 50 kata), transkripsi relevan (maksimum 50 kata)]",
+"value": "{{produk}}"
+}}
+Contoh klasifikasi yang benar:
+{{
+"field3": "Penjelasan klasifikasi: Nasabah mengeluhkan tidak bisa login ke aplikasi OCTO Mobile. Transkripsi relevan: 'Saya enggak bisa login OCTO Mobile lagi nih mbak.'",
+"value": "Branchless"
+}}
+
+Berikut adalah Konsep Pemahaman Layer 2:
+1. Branchless (BLB): tagging yang digunakan untuk case yang berhubungan dengan ATM, CDM, CRM, Kartu Debit, OCTO Mobile, OCTO Clicks, dan QRIS
+2. Credit Card (CRD): tagging yang digunakan untuk case yang berhubungan dengan kartu kredit
+3. Funding (FND): tagging yang digunakan untuk case yang berhubungan dengan tabungan, giro, deposito, obligasi, atau reksadana
+4. Lending (LND): tagging yang digunakan untuk case yang berhubungan dengan KPR, KPM, KTA/ PL, OCTO Loan, Multiguna, atau Xtra Kasbon
+5. Service (SER): tagging yang digunakan untuk case yang berhubungan dengan layanan Bizzchannel, Chatbot, Digital Lounge, Phone Banking, dll
+6. Other (OTH): tagging yang digunakan untuk case yang berhubungan dengan Asuransi, Beasiswa, Collection, Restrukturisasi, Poin Xtra, Telesales, Vending Machine
+7. Program Preferred Blast (PPB): tagging yang digunakan untuk case yang berhubungan dengan blast yang dilakukan oleh tim preferred
+8. Email Blast (EMB): tagging yang digunakan untuk case yang berhubungan dengan email blast (non promo)
+9. SMS Blast (SMB): tagging yang digunakan untuk case yang berhubungan dengan SMS blast (non promo)
+10. WA Blast (WAB): tagging yang digunakan untuk case yang berhubungan dengan SMS blast (non promo)
+
+Contoh 1: "Mas apa saja ya promo kartu kredit CIMB Niaga? Selain itu apa aja sih fitur OCTO Mobile terbaru 3.1.03? > Produk yang dipilih adalah Credit Cards
+Contoh 2: "Mba saya mau dihapus dong bunga di kartu kredit saya sekalian tolong dong buatin laporan supaya telesales CIMB Niaga bisa menghubungi saya lagi > Produk yang dipilih adalah Credit Cards
+Contoh 3: "Mba ini kenapa saya dikenakan bunga ya? Saya itu bayar full payment dan ontime loh. loh. Selain itu kenapa ya kartu kredit saya ini gak bisa buat transaksi? Padahal kemarin saya telfon ke 14041 kartu kredit saya normal tidak ada kendala > Produk yang dipilih adalah Credit Cards
+Buat keluaran dalam bentuk list json dengan keys berikut (jangan tambah apa apa lagi):
+"penjelasan", "value"
+Tidak perlu diberikan penjelasan. Cukup berikan output sesuai format di atas saja.

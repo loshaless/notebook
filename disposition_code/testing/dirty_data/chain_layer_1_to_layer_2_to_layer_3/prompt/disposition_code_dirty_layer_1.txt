@@ -1,0 +1,51 @@
+Tugas: Klasifikasikan topik percakapan antara agen contact center CIMB Niaga dan nasabah berdasarkan Disposition Code.
+Result dalam bentuk list of json: "penjelasan", "value"
+Konteks:
+- Transkripsi percakapan: {transcript}
+- List of Action: {list_of_option}
+Instruksi:
+1. Pemilihan Action harus sesuai konteks percakapan
+2. Lakukan analisis pada keseluruhan percakapan, bukan per kalimat.
+3. Pilih maksimum satu action yang paling relevan dari List of Action.
+Olah hasil klasifikasi dengan bentuk sebagai berikut:
+{{
+"penjelasan": "[Penjelasan klasifikasi (maksimum 50 kata), transkripsi relevan (maksimum 50 kata)]",
+"value": "{{action}}"
+}}
+Contoh klasifikasi yang benar:
+{{
+"penjelasan": "Penjelasan klasifikasi: Nasabah mengeluhkan tidak bisa login ke aplikasi OCTO Mobile. Transkripsi relevan: 'Saya enggak bisa login OCTO Mobile lagi nih mbak.'",
+"value": "Complain (General Customer)"
+}}
+
+Berikut adalah Konsep Pemahaman Layer 1 (Khusus Complaint, Request, dan Inquiry):
+1. Complaint: Ketidaksesuaian atau Gap (kontradiksi, perbedaan, discrepancy, ketidaksesuaian)
+2. Request: Ketidakmampuan (Ketidakpunyaan kemampuan akan
+suatu hal yang dimilikinya tidak bisa dilakukan sendiri)
+3. Inquiry: Ketidaktahuan
+Berikut adalah Contoh Kalimat (Khusus Complaint, Request, dan Inquiry):
+1. Complaint:
+- "Saya kok dikenakan bunga ya? Padahal saya bayar full payment dan ontime loh"
+- "Saya tidak mendapatkan informasi yang jelas tentang perubahan biaya yang ada, kok malah dikenakan denda, padahal saya bayar ontime"
+- "Kok bunga KPR saya tinggi ya? Beda loh sama yang tercantum di perjanjian kredit"
+- "Saya kok tidak pernah terima lembar tagihan ya? Padahal e mail saya aktif"
+- "Kenapa ya kartu kredit saya tidak bisa digunakan"
+- "Heh, dengar baik baik ya omongan saya ini!!!! Bank kalian itu buruk!!"
+2. Request:
+- "Kenapa saya dikenakan bunga ya ? Tolong dihapuskan dong"
+- "Apakah bisa dikirimkan lembar tagihan ? Tolong dikirimkan ya"
+- "Saya mau kenaikan limit dong"
+- "Tolong diturunkan dong suku bunga KPR saya"
+3. Inquiry:
+- "Kenapa saya dikenakan bunga ya?"
+- "Apakah bisa dikirimkan lembar tagihan?"
+- "Katanya bisa transfer BI Fast lewat OCTO Mobile, apakah benar? Caranya bagaimana?"
+- "Gimana ya caranya kalau mau kenaikan limit?"
+- "Mbak ini kartu kredit saya kenapa ya"
+
+Contoh 1: "Mas apa saja ya promo kartu kredit CIMB Niaga? Selain itu apa aja sih fitur OCTO Mobile terbaru 3.1.03? > Action yang dipilih adalah Inquiry (General Customer)
+Contoh 2: "Mba saya mau dihapus dong bunga di kartu kredit saya sekalian tolong dong buatin laporan supaya telesales CIMB Niaga bisa menghubungi saya lagi > Action yang dipilih adalah Request (General Customer)
+Contoh 3: "Mba ini kenapa saya dikenakan bunga ya? Saya itu bayar full payment dan ontime loh. loh. Selain itu kenapa ya kartu kredit saya ini gak bisa buat transaksi? Padahal kemarin saya telfon ke 14041 kartu kredit saya normal tidak ada kendala > Action yang dipilih adalah Complain (General Customer)
+Buat keluaran dalam bentuk list json dengan keys berikut (jangan tambah apa apa lagi):
+"penjelasan", "value"
+Tidak perlu diberikan penjelasan. Cukup berikan output sesuai format di atas saja.

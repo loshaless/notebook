@@ -1,0 +1,77 @@
+Tugas: Klasifikasikan topik percakapan antara agen contact center CIMB Niaga dan nasabah berdasarkan Disposition Code.
+Berikut adalah result_reference dalam bentuk list json: "interaction_id", "field1", "field2", "field3", "field4", "field5", "value"
+Konteks:
+- Transkripsi percakapan: {transcript}
+- Tabel referensi Disposition Code: {disposition_code_ref_table}
+Instruksi:
+1. Pemilihan Disposition Code harus sesuai konteks percakapan
+2. Tabel referensi Disposition Code memilik 4 kolom:
+   a. Layer 1: Pemilihan interaksi berdasarkan apa yang disampaikan nasabah
+   b. Layer 2: Pilih kategori yang sesuai dengan produk atau layanan yang disampaikan nasabah
+   c. Layer 3: Detail atau spesifik case untuk produk dan layanan yang disampaikan nasabah
+   d. [Konkatenasi_Layer123]: gabungan dari Layer 1, 2, dan 3 yang merupakan kolom acuan dalam klasifikasi Disposition Code
+2. Lakukan analisis pada keseluruhan percakapan, bukan per kalimat.
+3. Identifikasi maksimum 3 [Konkatenasi_Layer123] yang paling relevan dari transkripsi percakapan.
+Olah hasil klasifikasi dengan bentuk sebagai berikut:
+{{
+"interaction_id": "9151919416110000055",
+"field1": "disposition_code",
+"field2": null,
+"field3": "[Penjelasan klasifikasi (maksimum 50 kata), transkripsi relevan (maksimum 50 kata)]",
+"field4": null,
+"field5": null,
+"value": "[Konkatenasi_Layer123]"
+}}
+Contoh klasifikasi yang benar:
+{{
+"interaction_id": "9151919416110000055",
+"field1": "disposition_code",
+"field2": null,
+"field3": "Penjelasan klasifikasi: Nasabah mengeluhkan tidak bisa login ke aplikasi OCTO Mobile. Transkripsi relevan: 'Saya enggak bisa login OCTO Mobile lagi nih mbak.'",
+"field4": null,
+"field5": null,
+"value": "Complain|OCTO Mobile|Kendala Login"
+}}
+Contoh klasifikasi yang salah (hindari):
+{{
+"interaction_id": "9151919416110000055",
+"field1": "disposition_code",
+"field2": null,
+"field3": "Penjelasan klasifikasi: Nasabah mengeluhkan tidak bisa login ke aplikasi OCTO Mobile. Transkripsi relevan: 'Saya enggak bisa login OCTO Mobile lagi nih mbak.'",
+"field4": null,
+"field5": null,
+"value": "Inquiry|KPR|Promo"
+}}
+(Salah karena tidak ada pembahasan tentang KPR Promo di percakapan)
+Berikut adalah Konsep Pemahaman Layer 1 (Khusus Complaint, Request, dan Inquiry):
+1. Complaint: Ketidaksesuaian atau Gap (kontradiksi, perbedaan, discrepancy, ketidaksesuaian)
+2. Request: Ketidakmampuan (Ketidakpunyaan kemampuan akan
+suatu hal yang dimilikinya tidak bisa dilakukan sendiri)
+3. Inquiry: Ketidaktahuan
+Berikut adalah Contoh Kalimat (Khusus Complaint, Request, dan Inquiry):
+1. Complaint:
+- "Saya kok dikenakan bunga ya? Padahal saya bayar full payment dan ontime loh"
+- "Saya tidak mendapatkan informasi yang jelas tentang perubahan biaya yang ada, kok malah dikenakan denda, padahal saya bayar ontime"
+- "Kok bunga KPR saya tinggi ya? Beda loh sama yang tercantum di perjanjian kredit"
+- "Saya kok tidak pernah terima lembar tagihan ya? Padahal e mail saya aktif"
+- "Kenapa ya kartu kredit saya tidak bisa digunakan"
+- "Heh, dengar baik baik ya omongan saya ini!!!! Bank kalian itu buruk!!"
+2. Request:
+- "Kenapa saya dikenakan bunga ya ? Tolong dihapuskan dong"
+- "Apakah bisa dikirimkan lembar tagihan ? Tolong dikirimkan ya"
+- "Saya mau kenaikan limit dong"
+- "Tolong diturunkan dong suku bunga KPR saya"
+3. Inquiry:
+- "Kenapa saya dikenakan bunga ya?"
+- "Apakah bisa dikirimkan lembar tagihan?"
+- "Katanya bisa transfer BI Fast lewat OCTO Mobile, apakah benar? Caranya bagaimana?"
+- "Gimana ya caranya kalau mau kenaikan limit?"
+- "Mbak ini kartu kredit saya kenapa ya"
+
+Jika nasabah incoming dengan > 1 case dan kategorinya sama, maka pilihan Disposition Code adalah CASE YANG PERTAMA.
+Contoh 1: "Mas apa saja ya promo kartu kredit CIMB Niaga? (Inquiry 1). Selain itu apa aja sih fitur OCTO Mobile terbaru 3.1.03? (Inquiry 2) > Disposition Code yang dipilih adalah Inquiry 1 (L1: Inquiry, L2: Credit Card, L3: Promo)
+Contoh 2: "Mba saya mau dihapus dong bunga di kartu kredit saya (Request 1) sekalian tolong dong buatin laporan supaya telesales CIMB Niaga bisa menghubungi saya lagi (Request 2) > Disposition Code yang dipilih adalah Request 1 (L1: Request, L2: Credit Card, L3: Other)
+Contoh 3: "Mba ini kenapa saya dikenakan bunga ya? Saya itu bayar full payment dan ontime loh. loh.(Complaint 1) Selain itu kenapa ya kartu kredit saya ini gak bisa buat transaksi? Padahal kemarin saya telfon ke 14041 kartu kredit saya normal tidak ada kendala (Complaint 2) > Disposition Code yang dipilih adalah Complain 1 (L1: Complaint, L2: Credit Card, L3: Biaya/ Bunga/ Denda)
+Buat keluaran dalam bentuk list json dengan keys berikut (jangan tambah apa apa lagi):
+"interaction_id", "field1", "field2", "field3", "field4", "field5", "value"
+Tidak perlu diberikan penjelasan. Cukup berikan output sesuai format di atas saja.

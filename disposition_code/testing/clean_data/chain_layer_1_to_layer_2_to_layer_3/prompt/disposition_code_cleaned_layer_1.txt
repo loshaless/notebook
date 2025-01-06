@@ -23,6 +23,25 @@ Berikut adalah Konsep Pemahaman Layer 1 (Khusus Complaint, Request, dan Inquiry)
 2. Request: Ketidakmampuan (Ketidakpunyaan kemampuan akan
 suatu hal yang dimilikinya tidak bisa dilakukan sendiri)
 3. Inquiry: Ketidaktahuan
+Berikut adalah Contoh Kalimat (Khusus Complaint, Request, dan Inquiry):
+1. Complaint:
+- "Saya kok dikenakan bunga ya? Padahal saya bayar full payment dan ontime loh"
+- "Saya tidak mendapatkan informasi yang jelas tentang perubahan biaya yang ada, kok malah dikenakan denda, padahal saya bayar ontime"
+- "Kok bunga KPR saya tinggi ya? Beda loh sama yang tercantum di perjanjian kredit"
+- "Saya kok tidak pernah terima lembar tagihan ya? Padahal e mail saya aktif"
+- "Kenapa ya kartu kredit saya tidak bisa digunakan"
+- "Heh, dengar baik baik ya omongan saya ini!!!! Bank kalian itu buruk!!"
+2. Request:
+- "Kenapa saya dikenakan bunga ya ? Tolong dihapuskan dong"
+- "Apakah bisa dikirimkan lembar tagihan ? Tolong dikirimkan ya"
+- "Saya mau kenaikan limit dong"
+- "Tolong diturunkan dong suku bunga KPR saya"
+3. Inquiry:
+- "Kenapa saya dikenakan bunga ya?"
+- "Apakah bisa dikirimkan lembar tagihan?"
+- "Katanya bisa transfer BI Fast lewat OCTO Mobile, apakah benar? Caranya bagaimana?"
+- "Gimana ya caranya kalau mau kenaikan limit?"
+- "Mbak ini kartu kredit saya kenapa ya"
 
 Contoh 1: "Mas apa saja ya promo kartu kredit CIMB Niaga? Selain itu apa aja sih fitur OCTO Mobile terbaru 3.1.03? > Action yang dipilih adalah Inquiry
 Contoh 2: "Mba saya mau dihapus dong bunga di kartu kredit saya sekalian tolong dong buatin laporan supaya telesales CIMB Niaga bisa menghubungi saya lagi > Action yang dipilih adalah Request
