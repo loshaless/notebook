@@ -1,0 +1,91 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasela, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.0,1
+Customer,"Iya selamat sore Mbak, eh ini loh saya kan lagi request pin yang lewat SMS nih tapi kok saya enggak terima-terima ya?",negative,rising,middle,2.0,6.7,1
+Agent,"Begitu, dengan Bapak siapa saya berbicara?",neutral,falling,middle,6.7,8.4,1
+Customer,Saya dengan Doni Mbak,neutral,falling,middle,8.4,9.6,1
+Agent,"Bapak Doni, Bapak request pin-nya ini kartu debit atau kartu kredit Pak?",neutral,falling,middle,9.6,13.4,1
+Customer,Kartu kredit,neutral,falling,middle,13.4,14.3,1
+Agent,"Kartu kredit, tadi untuk format yang Bapak lakukan seperti apa?",neutral,falling,middle,14.3,17.2,1
+Customer,"Kirim pas, eh nomor kartu ya?",neutral,rising,middle,17.2,19.1,1
+Agent,"Iya, kemudian tanggal lahir",neutral,falling,middle,19.1,20.6,1
+Customer,"Iya tanggal lahir, betul, sudah",neutral,falling,middle,20.6,22.7,1
+Agent,"Sudah kok, sudah terima-terima ini, begitu, saya akan perizinankan terlebih dahulu, silakan disebutkan nomor kartu kreditnya Pak",neutral,falling,middle,22.7,29.3,1
+Customer,5336,neutral,falling,middle,29.3,30.3,1
+Agent,Iya,neutral,falling,middle,30.3,30.8,1
+Customer,9516,neutral,falling,middle,30.8,31.8,1
+Agent,Iya,neutral,falling,middle,31.8,32.2,1
+Customer,3214,neutral,falling,middle,32.2,33.3,1
+Agent,Iya,neutral,falling,middle,33.3,33.7,1
+Customer,"7697, 7897",neutral,falling,middle,33.7,35.7,1
+Agent,5336 9516 3214,neutral,falling,middle,35.7,38.3,1
+Customer,Iya,neutral,falling,middle,38.3,38.9,1
+Customer,47897,neutral,normal,middle,0.0,0.5,2
+Agent,Iya,neutral,normal,middle,0.5,0.8,2
+Agent,"Baik, kalau kamu merasa data terlebih dahulu, mohon ditunggu ya, Pak.",neutral,falling,middle,0.8,2.5,2
+Customer,Iya,neutral,normal,middle,2.5,2.8,2
+silence,,neutral,none,none,2.8,3.6,2
+Agent,"Bapak terima kasih atas kesabaran yang menunggu, kalau kamu verifikasi data terlebih dahulu, silakan disebutkan tanggal lahir.",neutral,falling,middle,3.6,7.1,2
+Customer,"Eh, 19 eh Desember tahun 88.",neutral,normal,middle,7.1,9.3,2
+Agent,Pengiriman tagihan Bapak melalui apa?,neutral,falling,middle,9.3,10.8,2
+Customer,Saya dikirim lewat email.,neutral,normal,middle,10.8,11.8,2
+Agent,"Lewat email, terima kasih. Bapak, jika untuk permintaan PIN melalui SMS sudah dipastikan untuk dari pulsa-nya tersedia ya, Pak?",neutral,falling,middle,11.8,15.8,2
+Customer,Pulsa ya?,neutral,rising,middle,15.8,16.3,2
+Customer,"Iya, ada Pak, pulsa saya banyak.",neutral,normal,middle,16.3,17.7,2
+Agent,"Tersedia. Bapak menggunakan prabayar atau pascabayar, Mas?",neutral,falling,middle,17.7,19.8,2
+Customer,Pasca,neutral,normal,middle,19.8,20.2,2
+Agent,"Pascabayar. Jika pascabayar dipastikan untuk limit SMS premium-nya juga tersedia ya, Pak?",neutral,falling,middle,20.2,23.8,2
+Customer,"Eh, lebar tadi, tersedia ya.",neutral,normal,middle,23.8,25.3,2
+Agent,"Baik. Kalau kamu merasa data terlebih dahulu, mohon ditunggu kembali.",neutral,falling,middle,25.3,28.1,2
+Agent,Bapak Doni terima kasih atas kesabarannya menunggu,neutral,falling,middle,0.0,1.8,3
+Agent,Ini dikarenakan pemeriksaan di sistem untuk dari permintaan PIN dan eh sudah diajukan namun keterangannya Bapak tadi tidak menerima ya sedangkan Bapak tersedia pulsa,neutral,falling,middle,1.8,6.1,3
+Agent,maka kami bantu buat kan laporan untuk dari penerimaan PIN sementara nya,neutral,falling,middle,6.1,8.7,3
+Agent,Sudah saya buat kan laporan hari ini dengan saya Gracella tanggal 8 Januari 2025,neutral,falling,middle,8.7,13.2,3
+Customer,Oh,neutral,falling,middle,13.2,13.5,3
+Agent,Penerimaan atau permintaan Bapak dikarenakan Bapak tidak menerima untuk dari PIN kartu kredit,neutral,falling,middle,13.5,18.3,3
+Agent,Sudah saya buat kan laporan dengan nomor laporannya di Charlie Bravo Golf Romeo Echo 081120253421,neutral,falling,middle,18.3,25.7,3
+Agent,Proses pelaporan ini membutuhkan waktu maksimal sampai tanggal 9 Januari 2025 di jam kerja ya Pak,neutral,falling,middle,25.7,32.8,3
+Customer,Oh,neutral,falling,middle,32.8,33.3,3
+Customer,Iya,neutral,falling,middle,33.3,33.9,3
+Customer,Mbak sekalian dong eh saya tolong eh otomobil saya diblokir nih,neutral,falling,middle,33.9,39.4,3
+Agent,Pemblokiran otomobilnya karena apa Pak,neutral,falling,middle,39.4,42.3,3
+Customer,Eh kayanya PIN nya tadi ketahuan deh sama orang,negative,falling,middle,42.3,47.1,3
+Agent,Begitu Baik Untuk nomor handphone yang terdaftar silakan disebutkan,neutral,falling,middle,0.0,2.04,4
+Customer,Nomor handphone-nya ya 0811,neutral,falling,middle,2.04,3.16,4
+Agent,Iya,neutral,rising,middle,3.16,3.32,4
+Customer,223,neutral,falling,middle,3.32,3.64,4
+Agent,Iya,neutral,rising,middle,3.64,3.8,4
+Customer,7784,neutral,falling,middle,3.8,4.24,4
+Agent,08112237784,neutral,falling,middle,4.24,5.08,4
+Customer,Iya,neutral,rising,middle,5.08,5.24,4
+Agent,Silakan diblokir ditunggu sebentar ya Pak,neutral,falling,middle,5.24,6.4,4
+silence,,neutral,none,none,6.4,10.6,4
+Agent,Bapak terima kasih atas kesabaran yang menunggu Silakan konfirmasi hari ini dengan saya Grasella tanggal 8 Januari 2025 melakukan pemblokiran otomobil Bapak Doni Dikarenakan ada yang mengetahui data Bapak Maka ini untuk pemblokiran untuk keamanan,neutral,falling,middle,10.6,20.36,4
+Agent,Saya konfirmasi ya untuk transaksi yang terjadi sebelum pemblokiran dilakukan merupakan tanggung jawab nasabah ya Pak,neutral,falling,middle,20.36,26.36,4
+Customer,Ehm iya Pak kalau di saldo saya,neutral,falling,middle,26.36,28.36,4
+Agent,Iya,neutral,rising,middle,28.36,28.52,4
+Customer,Itu terakhir itu 4 juta 356 ribu,neutral,falling,middle,28.52,31.24,4
+Agent,4 juta 356,neutral,falling,middle,31.24,32.24,4
+Customer,600.000 iya,neutral,falling,middle,0.0,0.8,5
+Agent,Masuk ya Mbak?,neutral,rising,middle,0.8,1.4,5
+Customer,Iya,neutral,falling,middle,1.4,1.7,5
+Agent,Untuk pengecekan saldo saya tanyakan beberapa hal silakan disebutkan tanggal lahir,neutral,falling,middle,1.8,4.4,5
+Customer,19 Desember 88,neutral,falling,middle,4.5,5.6,5
+Agent,Apakah Bapak memiliki jenis rekening lain di CIMB Niaga selain yang Bapak sebutkan tadi?,neutral,falling,middle,5.7,9.0,5
+Customer,Cuma satu itu aja rekeningnya sama kartu kredit tadi yang baru,neutral,falling,middle,9.1,12.8,5
+Agent,Nominal transaksi terakhir Bapak berapa salah satunya?,neutral,falling,middle,12.9,15.4,5
+Customer,100.000,neutral,falling,middle,15.5,16.2,5
+Agent,100.000 Untuk saldo Bapak saat ini jika saya cek masih sesuai Pak di 4.356.000,neutral,falling,middle,16.3,21.7,5
+Customer,Oh enggak ada transaksi apa-apa kan Mbak ya setelah itu ya?,neutral,rising,middle,21.8,26.2,5
+Agent,Iya setelah itu tidak ada transaksi,neutral,falling,middle,26.3,29.0,5
+Customer,Ee nanti kalau misalnya nih Mbak ternyata ya udah aman nih ee saya pikir enggak enggak enggak bahaya gitu saya aktifin lagi boleh atau saya hapus saja ya Pak?,neutral,rising,middle,29.1,38.6,5
+Agent,Iya,neutral,falling,middle,38.7,39.2,5
+Agent,Baik disarankan jika misalnya untuk dear Bapak ingin mengaktifkan kembali untuk auto mobile-nya Bapak bisa langsung ke counter cabang terdekat nanti dengan membawa KTP asli buku tabungannya jika ada kemudian disarankan Bapak,neutral,falling,middle,39.3,52.6,5
+Customer,tetap melakukan perubahan user ID ataupun PIN ATM-nya secara berkala ya Pak untuk keamanan data,neutral,falling,middle,0.0,3.6,6
+Agent,"Eh, begitu ya. Tapi bisa diaktifkan lagi atau saya bisa daftar lagi baru gitu ya.",neutral,falling,middle,3.6,7.3,6
+Customer,"Iya, nanti kan diproses di kantor cabang terdekat ya Pak.",neutral,falling,middle,7.3,10.8,6
+Agent,"Oh, jadi kalau kayak gitu",neutral,falling,middle,10.8,12.7,6
+Customer,Baik. Ada lagi yang bisa saya bantu Bapak Doni?,neutral,falling,middle,12.7,15.8,6
+Agent,Itu aja sih Mbak,neutral,falling,middle,15.8,17.4,6
+Customer,"Terima kasih Bapak Doni telah menghubungi Miniaga. Selamat sore, sehat selalu.",positive,falling,middle,17.4,22.8,6
+Agent,Iya.,neutral,falling,middle,22.8,23.8,6
+silence,,neutral,none,none,23.8,25.9,6

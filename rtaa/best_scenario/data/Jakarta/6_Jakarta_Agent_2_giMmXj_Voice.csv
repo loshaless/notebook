@@ -1,0 +1,70 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fira, bagaimana saya membantu?",neutral,falling,middle,0.0,1.72,1
+Customer,Mbak Fira,neutral,falling,middle,1.72,2.06,1
+Customer,Mbak Fira,neutral,falling,middle,2.06,2.44,1
+Customer,Ee ini saya terima notifikasi ada transaksi yang bukan saya lakukan Mbak,negative,falling,middle,2.44,5.2,1
+Agent,Baik sebelumnya saya berbicara dengan Ibu siapa?,neutral,falling,middle,5.2,6.32,1
+Customer,Ee saya dengan Nina,neutral,falling,middle,6.32,6.96,1
+Agent,Ibu Nina ya,neutral,falling,middle,6.96,7.4,1
+Customer,Heeem,neutral,falling,middle,7.4,7.6,1
+Agent,Untuk ee nom nom untuk nomor kartunya boleh disebutkan Ibu? Ada nih 5244,neutral,falling,middle,7.6,9.36,1
+Customer,Iya,neutral,falling,middle,9.36,9.56,1
+Agent,2600,neutral,falling,middle,9.56,10.0,1
+Customer,Iya,neutral,falling,middle,10.0,10.2,1
+Agent,5160,neutral,falling,middle,10.2,10.6,1
+Customer,Iya,neutral,falling,middle,10.6,10.8,1
+Agent,9332,neutral,falling,middle,10.8,11.2,1
+Customer,Iya,neutral,falling,middle,11.2,11.4,1
+Agent,Saya ulang ya Ibu 5244 2600 5160,neutral,falling,middle,11.4,13.2,1
+Customer,Heeem,neutral,falling,middle,13.2,13.4,1
+Agent,9332,neutral,falling,middle,13.4,13.8,1
+Customer,Iya betul,neutral,falling,middle,13.8,14.32,1
+Customer,Ini nominalnya gede juga ya Mbak saya enggak pernah transaksi segini sih itu nominalnya itu 24 juta Iya,negative,falling,middle,14.32,18.4,1
+Agent,500 ribu,neutral,falling,middle,18.4,19.0,1
+Customer,Iya,neutral,falling,middle,19.0,19.2,1
+Agent,750,neutral,falling,middle,19.2,19.6,1
+Customer,Heeem,neutral,falling,middle,19.6,19.8,1
+Agent,24.500.750 Ibu mendapat konfirmasinya transaksi di mana Ibu?,neutral,rising,middle,0.0,2.12,2
+Customer,Iya,neutral,normal,middle,2.12,2.3,2
+Customer,Eh ada di eh ini eh email eh email apa SMS Pak?,neutral,rising,middle,2.3,4.2,2
+Agent,Dari SMS,neutral,normal,middle,4.2,4.5,2
+Customer,Dari SMS,neutral,normal,middle,4.5,4.8,2
+Agent,Nama tokonya Ibu atau merchant-nya?,neutral,rising,middle,4.8,6.0,2
+Customer,Aduh tokonya apa ini ya kayaknya online-online gitu kayaknya Mbak,neutral,rising,middle,6.0,8.2,2
+Agent,Baik,neutral,normal,middle,8.2,8.4,2
+Customer,Budapest Budapest apa itu?,neutral,rising,middle,8.4,9.8,2
+Agent,Tapi ini kartunya kartu debit ya Mbak?,neutral,rising,middle,9.8,11.6,2
+Customer,Kartunya kartu debit?,neutral,rising,middle,11.6,12.3,2
+Customer,Iya,neutral,normal,middle,12.3,12.5,2
+Agent,Baik mau ditunggu dulu ya kartu debit saya,neutral,rising,middle,12.5,14.7,2
+Customer,Oh iya ya kartu debit saya,neutral,rising,middle,14.7,16.0,2
+Agent,Sangat aja Mbak,neutral,normal,middle,16.0,16.8,2
+Customer,Baik,neutral,normal,middle,16.8,17.0,2
+Agent,Bentar ya Mbak mau ditunggu Ibu,neutral,rising,middle,17.0,18.3,2
+Customer,Iya,neutral,normal,middle,18.3,18.5,2
+silence,,neutral,none,none,18.5,20.0,2
+Agent,Mohon diinformasikan Ibu transaksinya di tanggal berapa?,neutral,rising,middle,20.0,22.4,2
+Customer,Eh hari ini baru aja tadi saya terima eh notifnya di tanggal 8 Januari 20,neutral,rising,middle,22.4,27.0,2
+Agent,Baik,neutral,normal,middle,27.0,27.2,2
+Customer,2025,neutral,falling,middle,0.0,0.4,3
+Agent,Baik sebelumnya untuk keamanan kartunya saya lakukan pemblokiran terlebih dahulu Ibu mau ditunggu?,neutral,rising,middle,0.4,2.7,3
+Customer,Heeh,neutral,falling,middle,2.7,3.1,3
+Agent,Ibu Nina terima kasih atas kesediaannya menunggu saat ini untuk kartu debit Ibu sudah saya lakukan pemblokiran kemudian untuk formulir sanggahan sudah saya kirim ke email Ibu yang terdaftar boleh diinformasikan alamat emailnya Ibu saya bantu cocokan terlebih dahulu,neutral,rising,middle,3.1,10.2,3
+Customer,Eee alamat email saya dinina@gmail.com,neutral,falling,middle,10.2,13.4,3
+Agent,Jadi tanggal transaksinya eee bisa langsung ya eee maksudnya saya lapor langsung via email atau saya saya harus datang ke cabang ya,neutral,rising,middle,13.4,20.1,3
+Agent,Baik untuk pelaporan eee di sini Ibu bisa langsung kirim email ke kami nanti prosesnya kurang lebih 140 hari kerja Ibu,neutral,rising,middle,20.1,27.0,3
+Customer,Oh gitu oke sih ya soalnya belum pernah sih Mbak lapor sanggahan kartu debit berarti prosesnya sama ya eee kayak kartu kredit ya,neutral,rising,middle,27.0,36.3,3
+Agent,Iya betul Ibu,neutral,falling,middle,36.3,38.1,3
+Customer,Oke Mbak,neutral,falling,middle,0.0,0.5,4
+Agent,Baik sebelumnya ada lagi Ibu yang bisa saya bantu,neutral,falling,middle,0.5,2.1,4
+Customer,Ee tapi sudah di san ee kartu saya sudah diblokir atau belum ya Mbak,neutral,rising,middle,2.1,4.0,4
+Agent,Ini sudah saya lakukan pemblokiran Ibu untuk yang ee surat surat permohonan nya juga sudah saya kirimkan email silakan nanti Ibu bisa cek berkala ya,neutral,falling,middle,4.0,8.3,4
+Customer,Oh oke ee tapi oh kartu itu sendiri nya dong ya tapi kalau kartunya saya mau ganti bisa lapor juga di Mbak atau gimana ya,neutral,rising,middle,8.3,13.2,4
+Agent,Baik kalau untuk pergantian kartu silakan nanti Ibu bisa langsung datang ke cabang dengan membawa buku ee KTP dan buku tabungan kemudian nanti ee akan dikenakan biaya penggantian kartunya Rp30.000 Ibu,neutral,falling,middle,13.2,23.1,4
+Customer,Oh gitu oh iya sudah Mbak oke Mbak,neutral,falling,middle,23.1,26.3,4
+Agent,Iya iya gitu,neutral,falling,middle,26.3,27.5,4
+Agent,Baik sebelumnya ada lagi Ibu yang bisa saya bantu,neutral,falling,middle,27.5,29.9,4
+Customer,Itu aja Mbak,neutral,falling,middle,29.9,31.2,4
+Agent,Baik terima kasih Ibu sudah menghubungi Syariah Mandiri selamat sore sehat selalu ya Ibu,positive,falling,middle,31.2,36.6,4
+Customer,Iya terima kasih,positive,falling,middle,36.6,38.2,4
+silence,,neutral,none,none,38.2,40.2,4

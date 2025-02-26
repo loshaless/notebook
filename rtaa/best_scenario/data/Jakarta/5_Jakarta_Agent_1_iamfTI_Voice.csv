@@ -1,0 +1,100 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasella, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.0,1
+Customer,"Iya, selamat sore Mbak.",neutral,falling,middle,2.0,2.8,1
+Agent,"Sore, silakan Pak.",neutral,falling,middle,2.8,3.6,1
+Customer,Ini saya mau tutup kartu kredit saya Mbak.,neutral,falling,middle,3.6,5.6,1
+Agent,"Begitu, dengan Bapak siapa terbicaranya?",neutral,falling,middle,5.6,7.0,1
+Customer,Doni.,neutral,falling,middle,7.0,7.4,1
+Agent,Bapak Doni.,neutral,falling,middle,7.4,8.0,1
+Agent,Nomor kartu kreditnya berapa Pak?,neutral,falling,middle,8.0,9.2,1
+Customer,Nomor kartu kreditnya 5244,neutral,falling,middle,9.2,10.6,1
+Agent,Iya.,neutral,falling,middle,10.6,10.8,1
+Customer,6543,neutral,falling,middle,10.8,11.4,1
+Agent,Iya.,neutral,falling,middle,11.4,11.6,1
+Customer,10000,neutral,falling,middle,11.6,12.2,1
+Agent,Iya.,neutral,falling,middle,12.2,12.4,1
+Customer,8214,neutral,falling,middle,12.4,13.0,1
+Agent,"Saya ulangi ya Pak, 5244 6543 10000 8214.",neutral,falling,middle,13.0,15.4,1
+Customer,Iya.,neutral,falling,middle,15.4,15.6,1
+Agent,"Untuk pin kartu kreditnya apakah masih diingat, namun jangan disebutkan?",neutral,falling,middle,15.6,18.6,1
+Customer,Pin-nya masih masih ingat.,neutral,falling,middle,18.6,20.4,1
+Agent,"Baik, saya alihkan Bapak ke sistem untuk verifikasi pin.",neutral,falling,middle,20.4,23.2,1
+Agent,"Silakan nanti tekan pin kartu kreditnya, diakhiri dengan tanda pagar ya Pak.",neutral,falling,middle,23.2,26.6,1
+Customer,"Iya, boleh.",neutral,falling,middle,26.6,27.6,1
+Agent,"Baik, saya alihkan.",neutral,falling,middle,27.6,28.6,1
+silence,,neutral,none,none,28.6,30.6,1
+Agent,Terima kasih.,neutral,falling,middle,30.6,31.6,1
+Agent,"Baik Bapak Doni ini kita sudah lakukan pemeriksaan untuk di bulan ini memang sudah tidak ada tagihan yang eh kartung gab, maka bisa kita langsungkan penutupan kartu kreditnya ya Pak.",neutral,falling,middle,0.0,5.08,2
+Customer,Oke,neutral,falling,middle,5.08,5.34,2
+Agent,Saya konfirmasi hari ini dengan saya Grace Ella tanggal 8 Januari 2025 melakukan pemblokiran ataupun penutupan kartu kredit Bapak maaf.,neutral,falling,middle,5.34,11.45,2
+Agent,Untuk kartu kreditnya saat ini sudah eh ditutup.,neutral,falling,middle,11.45,13.62,2
+Agent,Untuk dari prosesnya ini membutuhkan waktu sampai tanggal 9 Januari 2025 ya Pak.,neutral,falling,middle,13.62,18.42,2
+Customer,Oh heeh heeh.,neutral,falling,middle,18.42,19.42,2
+Customer,Iya Mbak eh saya kan ada satu kartu lagi tuh Mbak.,neutral,falling,middle,19.42,22.94,2
+Agent,Iya,neutral,falling,middle,22.94,23.21,2
+Customer,Heeh saya minta ini dong saya mau daftarin pengiriman tagihannya jadi lewat email.,neutral,falling,middle,23.21,28.57,2
+Agent,Pengiriman tagihan kartu kreditnya ingin menjadi melalui email ya?,neutral,rising,middle,28.57,32.62,2
+Customer,Iya yang kartu saya yang satu.,neutral,falling,middle,32.62,35.55,2
+Agent,Nomor kartu kreditnya berapa?,neutral,falling,middle,35.55,38.08,2
+Customer,Nomor kartu kreditnya 5336,neutral,falling,middle,38.08,40.67,2
+Agent,Iya,neutral,falling,middle,40.67,40.94,2
+Customer,40000,neutral,falling,middle,40.94,42.71,2
+Agent,Iya,neutral,falling,middle,42.71,42.97,2
+Customer,1224,neutral,falling,middle,42.97,44.53,2
+Agent,Iya,neutral,falling,middle,44.53,44.8,2
+Customer,155 eh 1995,neutral,falling,middle,44.8,47.35,2
+Agent,5336 4000 1224 1995,neutral,normal,middle,0.0,1.13,3
+Customer,Iya,neutral,normal,middle,1.13,1.35,3
+Agent,Nomor handphone silakan disebutkan,neutral,normal,middle,1.35,2.37,3
+Customer,0811,neutral,normal,middle,2.37,2.76,3
+Agent,Iya,neutral,normal,middle,2.76,2.92,3
+Customer,9877,neutral,normal,middle,2.92,3.29,3
+Agent,Iya,neutral,normal,middle,3.29,3.46,3
+Customer,322,neutral,normal,middle,3.46,3.78,3
+Agent,"Akan saya kirimkan kode verifikasi ke nomor handphone yang terdaftar, silakan cek di SMS-nya, apakah sudah terima atau belum?",neutral,normal,middle,3.78,6.64,3
+Customer,Sudah Pak,neutral,normal,middle,6.64,7.09,3
+Agent,"Baik, saya alihkan Bapak kembali ke sistem, silakan nanti tekan password-nya setelah instruksi ini ya Pak",neutral,normal,middle,7.09,9.57,3
+Customer,Iya,neutral,normal,middle,9.57,9.79,3
+Agent,"Baik, saya alihkan",neutral,normal,middle,9.79,10.39,3
+silence,,neutral,none,none,10.39,11.73,3
+Agent,"Terima kasih, untuk alamat email Bapak silakan disebutkan",neutral,normal,middle,11.73,13.55,3
+Customer,doni@gmail.com,neutral,normal,middle,13.55,14.54,3
+Agent,doni@gmail.com,neutral,normal,middle,14.54,15.35,3
+Customer,Betul,neutral,normal,middle,15.35,15.67,3
+Agent,"Baik, mohon ditunggu",neutral,normal,middle,15.67,16.33,3
+Agent,Bapak Dani terima kasih atas kesabarannya telah menunggu,neutral,falling,middle,0.0,2.18,4
+Agent,Saya konfirmasi hari ini dengan saya Grasela tanggal 8 Januari 2025,neutral,falling,middle,2.18,5.14,4
+Agent,Melakukan untuk dari Pak Ambo tadi untuk pengiriman tagihan Bapak ingin dikirim melalui email ya,neutral,falling,middle,5.14,8.38,4
+Customer,Iya,neutral,normal,middle,8.38,8.65,4
+Agent,Sudah saya buat kan laporannya dengan nomor laporan Charlie Bravo Golf Romeo Echo 0801 2025 1284,neutral,falling,middle,8.65,13.48,4
+Agent,Proses pelaporan ini membutuhkan waktu maksimal sampai tanggal 9 Januari 2025 di jam kerja ya Pak,neutral,falling,middle,13.48,18.53,4
+Customer,Mbak sekalian nanya dong eh kemarin itu kan saya bayar tuh eh Rp1.735.500,neutral,falling,middle,18.53,24.83,4
+Agent,Iya,neutral,normal,middle,24.83,25.06,4
+Customer,Itu bayar ke kartu saya yang yang enggak ditutup nih yang ini itu udah masuk belum ya Mbak,neutral,falling,middle,25.06,31.72,4
+Agent,Baik jadi untuk nominalnya Rp1.735.500 ya Pak,neutral,falling,middle,31.72,36.56,4
+Customer,Iya,neutral,normal,middle,36.56,36.81,4
+Agent,Segera akan pemeriksaan mohon ditunggu,neutral,falling,middle,36.81,39.81,4
+Customer,Bapak terima kasih atas kabar yang menungggu untuk transaksi Rp17.335.500. Ini sudah masuk ke dalam perbankan ya?,neutral,rising,middle,0.0,5.31,5
+Agent,"Sudah masuk ya, Mbak ya?",neutral,rising,middle,5.31,6.38,5
+Customer,"Iya, sudah masuk.",neutral,falling,middle,6.38,7.21,5
+Customer,"Oh gitu. Mbak, eh kalau misalnya saya bayar gitu",neutral,rising,middle,7.21,10.26,5
+Agent,Iya.,neutral,falling,middle,10.26,10.53,5
+Customer,"Itu bisa dari mana aja sih, Mbak?",neutral,rising,middle,10.53,11.79,5
+Agent,Untuk pembayaran kartu kredit?,neutral,rising,middle,11.79,12.65,5
+Customer,Iya.,neutral,falling,middle,12.65,12.94,5
+Agent,"Bapak bisa dari i-channel, OctoMobile ataupun OctoClick atau juga bisa dari mesin ATM, Pak.",neutral,falling,middle,12.94,18.32,5
+Customer,Dari mesin ATM bisa ya?,neutral,rising,middle,18.32,19.34,5
+Agent,Iya.,neutral,falling,middle,19.34,19.62,5
+Customer,"Itu pakai menu pembayaran. Kalau saya dari bank lain pakai menu transfer itu bisa juga ya, Mbak?",neutral,rising,middle,19.62,24.55,5
+Agent,"Disarankan jika misalnya dari bank lain, Bapak melakukan transaksinya memang dari menu transfer.",neutral,falling,middle,24.55,30.76,5
+Agent,Jadi langsung real time terbayar ke kartu kreditnya begitu.,neutral,falling,middle,30.76,35.09,5
+Customer,"Oh gitu ya. Hmm. Tapi ini kartu saya yang satu tadi sudah ditutup ya, Mbak?",neutral,rising,middle,35.09,40.37,5
+Customer,Sudah Pak? Bapak dari kartu yang pertama tadi sudah kami lakukan penutupan?,neutral,falling,middle,0.0,2.56,6
+Agent,"Ooh, oke. Berarti saya sudah enggak perlu ngapa-ngapain lagi kan ya? Sudah beres ya Pak ya? Yang itu ya?",neutral,falling,middle,2.56,6.25,6
+Customer,Benar.,neutral,falling,middle,6.25,6.69,6
+Customer,"Oke, kalau gitu, Pak.",neutral,falling,middle,6.69,7.55,6
+Customer,Ada lagi misal saya ingin Bapak Doni?,neutral,falling,middle,7.55,8.95,6
+Agent,"Eh, itu aja sih Mbak.",neutral,falling,middle,8.95,9.67,6
+Customer,"Terima kasih Bapak Doni telah membantu saya. Selamat sore ya, sehat selalu.",positive,falling,middle,9.67,13.68,6
+Agent,"Iya, sama-sama. Jangan lupa untuk",neutral,falling,middle,13.68,15.22,6
+Agent,P-p-,neutral,falling,middle,15.22,15.62,6

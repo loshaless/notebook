@@ -1,0 +1,107 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Sudah.,neutral,falling,middle,0.0,0.3,1
+Agent,"Selamat sore dengan Fira, bagaimana terus membantu?",neutral,rising,middle,0.3,1.5,1
+Customer,"Iya, halo Mbak Fira, Mbak Fira saya mau naik limit dong Mbak, Arden nih.",neutral,falling,middle,1.6,4.0,1
+Agent,"Baik, sebelumnya dengan Ibu siapa saya berbicara?",neutral,rising,middle,4.0,5.1,1
+Customer,Eh saya dengan Nina.,neutral,falling,middle,5.2,5.9,1
+Agent,Ibu Nina ya?,neutral,rising,middle,6.0,6.5,1
+Agent,Nomor kartunya boleh disebutkan Ibu?,neutral,rising,middle,6.6,7.8,1
+Customer,Di 5244,neutral,falling,middle,7.9,8.5,1
+Agent,Iya.,neutral,falling,middle,8.6,8.8,1
+Customer,6218,neutral,falling,middle,8.9,9.4,1
+Agent,Iya.,neutral,falling,middle,9.5,9.7,1
+Customer,1124,neutral,falling,middle,9.8,10.4,1
+Agent,Iya.,neutral,falling,middle,10.5,10.7,1
+Customer,3453.,neutral,falling,middle,10.8,11.4,1
+Agent,"Saya ulangi Ibu, 5244 6218 1124 3453.",neutral,falling,middle,11.5,13.6,1
+Customer,Iya.,neutral,falling,middle,13.7,13.9,1
+Agent,Kartunya apakah sudah dilengkapi dengan PIN Ibu?,neutral,rising,middle,14.0,15.4,1
+Customer,Sudah.,neutral,falling,middle,15.5,15.8,1
+Agent,"Baik, saya alihkan Ibu Nina ke sistem untuk verifikasi data, silakan tekan # di samping Ibu, diakhiri dengan tanda pagar ya.",neutral,falling,middle,15.9,20.1,1
+Customer,Oke.,neutral,falling,middle,20.2,20.5,1
+Agent,"Saya alihkan Ibu, silakan.",neutral,falling,middle,20.6,21.8,1
+silence,,neutral,none,none,21.8,23.0,1
+Agent,PIN yang Anda masukkan benar.,neutral,falling,middle,23.0,24.8,1
+Agent,Terima kasih Ibu Nina.,positive,falling,middle,24.9,26.4,1
+Customer,Iya.,neutral,falling,middle,26.5,26.7,1
+Agent,"Untuk kartunya saya lakukan pengecekan terlebih dahulu ya Ibu, mohon ditunggu.",neutral,falling,middle,26.8,30.2,1
+Customer,Heeh.,neutral,falling,middle,30.3,30.7,1
+silence,,neutral,none,none,30.7,31.8,1
+Agent,Untuk limit saat ini eh yang tersedia berapa Ibu yang diberikan,neutral,rising,middle,31.8,34.7,1
+Agent,Eh sekarang itu limit saya sekitar 30 juta,neutral,normal,middle,0.0,2.0,2
+Agent,Eh rencananya saya mau naik itu sekitar 50 Mbak karena transaksinya eh mungkin sekitaran itu antara 30 sampai 50 juta,neutral,normal,middle,2.0,7.5,2
+Customer,Naik montok gitu?,neutral,rising,middle,7.5,8.7,2
+Agent,Iya,neutral,normal,middle,8.7,9.1,2
+Customer,Ibu Nina terima kasih atas waktunya,positive,falling,middle,9.1,11.7,2
+Agent,Eh ini untuk maksimal kenaikan limitnya di 50% Ibu dari limit sebelumnya,neutral,normal,middle,11.7,16.8,2
+Agent,Eh jadi kita saat ini untuk limit Ibu di 30 juta jadi nanti maksimal naiknya di 15 juta Ibu jadi nanti eh limit Ibu menjadi 45 juta,neutral,normal,middle,16.8,25.2,2
+Customer,Oh 45 ya,neutral,rising,middle,25.2,26.7,2
+Customer,Oh 45 45 kayaknya masih di sih boleh deh Mbak proses saja,positive,falling,middle,26.7,32.7,2
+Agent,Baik sebelumnya di sini untuk proses lebih lanjut Ibu akan saya kirimkan,neutral,normal,middle,32.7,38.2,2
+Agent,Kan kode verifikasi melalui SMS ya Ibu?,neutral,rising,middle,0.0,1.28,3
+Customer,Iya,neutral,normal,middle,1.28,1.56,3
+Agent,Untuk ee nomor teleponnya masih aktif Ibu?,neutral,rising,middle,1.56,2.78,3
+Customer,Nomor teleponnya masih aktif?,neutral,rising,middle,2.78,3.44,3
+Agent,"Baik, dan dipastikan ke setiap pulsa reguler ya. Ini sudah saya kirimkan Ibu melalui SMS, apakah sudah Ibu terima?",neutral,falling,middle,3.44,5.72,3
+Customer,Iya,neutral,normal,middle,5.72,5.96,3
+Customer,"Mmm sebentar, iya sudah Mbak",neutral,falling,middle,5.96,6.84,3
+Agent,"Baik, saya alihkan Ibu kembali ke sistem, setelah ada instruksi, ditekan enam kode paspor tanpa pagar Ibu, silakan",neutral,falling,middle,6.84,9.36,3
+Customer,Iya,neutral,normal,middle,9.36,9.6,3
+Customer,Oke,neutral,normal,middle,9.6,9.84,3
+Agent,Paspor yang Anda masukkan benar?,neutral,rising,middle,9.84,11.08,3
+Customer,"Terima kasih Ibu Nina, ee sebelumnya saya tanyakan Ibu untuk penggunaan kenaikan limitnya ee untuk apa?",neutral,falling,middle,11.08,14.28,3
+Customer,Ee ini Mbak ee saya kebetulan mau rumah sakit,neutral,falling,middle,14.28,16.04,3
+Customer,"Jadi saya itu rencananya mau transaksi misalkan nanti ee boleh dinaikkan ya limitnya itu kurang lebih transaksi yang mau saya lakukan itu sekitar 35 juta, iya",neutral,falling,middle,16.04,20.64,3
+Agent,3.500.000?,neutral,rising,middle,20.64,21.76,3
+Customer,Iya,neutral,normal,middle,21.76,22.0,3
+Agent,650?,neutral,rising,middle,22.0,22.52,3
+Customer,Baik,neutral,normal,middle,22.52,22.8,3
+Agent,Di 35.565.000?,neutral,rising,middle,22.8,24.0,3
+Customer,Iya betul. Nah itu kalau misalkan naik,neutral,falling,middle,24.0,25.6,3
+Customer,bisa jadi 45 juta harusnya masih bisa ya Mbak ya,neutral,rising,middle,0.0,2.0,4
+Agent,Ini kalau untuk limit saat ini yang tersedia nanti ditambah dengan ee kenaikan limit yang sudah diproses masih bisa Ibu,positive,normal,middle,2.0,6.5,4
+Customer,Oh masih bisa ya Oke Mbak,positive,falling,middle,6.5,8.2,4
+Agent,Iya,neutral,normal,middle,8.2,8.7,4
+Agent,Baik sebelumnya saya konfirmasi kan terlebih dahulu Ibu hari ini tanggal 8 Januari 2025 dengan saya viral Ini sudah saya proses kan untuk ee permintaan Ibu kenaikan limit sementara Ibu menjadi dari 30 juta menjadi 45 juta untuk penggunaannya kebutuhan rumah sakit Nanti untuk proses ee kenaikan limit sementaranya menunggu persetujuan tim terkait Ibu nanti Ibu tunggu 1 kali 24 jam ya Lalu,neutral,normal,middle,8.7,25.1,4
+Customer,Iya,neutral,normal,middle,14.8,15.4,4
+Customer,Iya,neutral,normal,middle,19.3,19.8,4
+Customer,Ee,neutral,normal,middle,25.1,25.4,4
+Customer,Oh enggak bisa hari ini ya berarti ya,neutral,rising,middle,25.4,28.5,4
+Agent,Iya Ibu karena ee tetap menunggu persetujuan terlebih dahulu,neutral,normal,middle,28.5,33.3,4
+Customer,Oh oke,neutral,falling,middle,33.3,34.7,4
+Agent,Betul Kemudian nanti untuk kenaikan limitnya ini masa berlakunya sampai 2 bulan setelah pengajuan Ibu,neutral,normal,middle,34.7,41.6,4
+Customer,Oh 2 bulan ya,neutral,rising,middle,41.6,43.5,4
+Agent,Iya betul Ibu,neutral,normal,middle,43.5,45.9,4
+Customer,Oke Mbak sama ini Mbak saya takut nih kira-kira ee,negative,rising,middle,45.9,51.4,4
+Agent,Iya,neutral,normal,middle,51.4,52.0,4
+Customer,Dimana di kartu kredit saya itu bisa enggak sih ada perlindungan gitu Mbak? Kalau enggak salah saya pernah dengar nama produknya itu Kredit Protekto ya?,neutral,rising,middle,0.0,4.25,5
+Agent,Iya betul Ibu.,positive,normal,middle,4.25,5.25,5
+Customer,Iya saya bisa enggak sih Mbak eh didaftarin Kredit Protekto Mbak?,neutral,rising,middle,5.25,7.75,5
+Agent,"Baik sebelumnya untuk pendaftaran Kredit Protekto di sini juga di kartu kredit Ibu memang belum terdaftar eh perihal pendaftarannya di sini Ibu eh nanti untuk kartunya dikenakan premi-nya itu di 0,65% ya Ibu jika ada total tagihannya.",neutral,normal,middle,7.75,16.0,5
+Customer,Heeh.,neutral,normal,middle,16.0,16.5,5
+Agent,Betul.,positive,normal,middle,16.5,17.0,5
+Customer,Oh iya boleh Bu tapi kalau ada tagihan doang kan ya saat itu?,neutral,rising,middle,17.0,20.0,5
+Agent,Iya betul.,positive,normal,middle,20.0,21.0,5
+Customer,Oh iya boleh boleh Mbak daftarin Mbak.,positive,rising,middle,21.0,24.25,5
+Agent,Baik saat ini saya tanyakan beberapa hal terlebih dahulu ya Ibu untuk usia Ibu saat ini berapa?,neutral,normal,middle,24.25,30.0,5
+Customer,Iya.,positive,normal,middle,30.0,30.75,5
+Customer,Eh baru 30 Mbak.,neutral,normal,middle,30.75,33.5,5
+Agent,Baik mohon ditunggu ya Ibu.,neutral,normal,middle,33.5,36.0,5
+Customer,Iya.,positive,normal,middle,36.0,36.5,5
+silence,,neutral,none,none,36.5,40.0,5
+Agent,Ibu Rina terima kasih atas kesediaan menunggu saya konfirmasi kan ya Ibu hari ini tanggal 8 Januari 2025 dengan saya Vira eh sesuai permintaan Ibu Rina untuk,positive,normal,middle,40.0,53.0,5
+Customer,Iya.,positive,normal,middle,53.0,53.5,5
+Agent,eh pendaftaran asuransi Generali Protector ini sudah saya buatkan laporan nanti Ibu akan terima eh konfirmasi surat menyuratnya dari emailnya Jika sudah aktif terdaftar kurang lebih 2 hari kerja sampai dengan tanggal 10 Januari 2025 Ibu eh efektifnya di tagihan ini eh,neutral,normal,middle,0.0,12.37,6
+Customer,Di tagihan bulan berikutnya Ibu,neutral,normal,middle,12.37,14.24,6
+Agent,Oh bulan berikutnya ya berarti bulan Februari ya,neutral,rising,middle,14.24,16.17,6
+Customer,Iya,neutral,normal,middle,16.17,16.52,6
+Agent,Iya betul,neutral,normal,middle,16.52,17.03,6
+Customer,Oh gitu Oke oke oke,positive,normal,middle,17.03,18.08,6
+Agent,Baik Ibu untuk info eh untuk informasinya apakah sudah jelas,neutral,normal,middle,18.08,19.71,6
+Customer,Sudah itu aja Mbak,neutral,normal,middle,19.71,20.79,6
+Agent,Ada lagi Ibu yang bisa saya bantu,neutral,normal,middle,20.79,22.05,6
+Customer,Eh sudah Mbak,neutral,normal,middle,22.05,22.69,6
+Agent,Baik terima kasih Ibu Nina sudah menghubungi kami di Niagara selamat sore saya salui Ibu,positive,normal,middle,22.69,26.36,6
+Customer,Iya terima kasih Mbak,positive,normal,middle,26.36,27.28,6
+Agent,Selamat sore Ibu,neutral,normal,middle,27.28,28.22,6
+silence,,neutral,none,none,28.22,28.72,6

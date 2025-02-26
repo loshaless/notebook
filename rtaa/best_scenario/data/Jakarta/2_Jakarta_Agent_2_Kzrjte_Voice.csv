@@ -1,0 +1,115 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Customer,Halo Mbak,neutral,falling,middle,0.0,0.5,1
+Agent,Halo,neutral,falling,middle,0.5,0.8,1
+Agent,Selamat siang dengan Vira bagaimana terus membantu,neutral,falling,middle,0.8,2.1,1
+Customer,Iya Halo halo halo Halo Mbak Vira Mbak Vira eh minta tolong dong diblokir dong kartu saya Mbak,neutral,rising,middle,2.1,5.8,1
+Agent,Baik nomor satunya berapa Ibu,neutral,falling,middle,5.8,7.0,1
+Customer,Eh nomor kartunya ini 5336,neutral,falling,middle,7.0,8.2,1
+Customer,Iya,neutral,falling,middle,8.2,8.5,1
+Customer,4000,neutral,falling,middle,8.5,9.0,1
+Customer,4400,neutral,falling,middle,9.0,9.5,1
+Customer,4000,neutral,falling,middle,9.5,10.0,1
+Customer,4000,neutral,falling,middle,10.0,10.5,1
+Customer,1224,neutral,falling,middle,10.5,11.0,1
+Customer,1224,neutral,falling,middle,11.0,11.5,1
+Customer,1995,neutral,falling,middle,11.5,12.0,1
+Customer,1995,neutral,falling,middle,12.0,12.5,1
+Agent,Dengan Ibu siapa saya berbicara,neutral,falling,middle,12.5,13.8,1
+Customer,Dengan Nina Mbak,neutral,falling,middle,13.8,14.8,1
+Agent,Ibu Nina ya,neutral,falling,middle,14.8,15.7,1
+Customer,Iya eh sudah dong Mbak aduh,negative,falling,middle,15.7,17.2,1
+Agent,Ya mau diitung dulu Ibu,neutral,falling,middle,17.2,18.3,1
+Customer,Hilang nih kartu saya,negative,falling,middle,18.3,19.3,1
+Agent,Baik hilang Ibu di Indonesia atau di luar negeri,neutral,falling,middle,19.3,20.9,1
+Customer,Heeh ini lagi di luar negeri Mbak,neutral,falling,middle,20.9,22.6,1
+Agent,Baik mau diitung dulu Ibu,neutral,falling,middle,22.6,23.9,1
+Customer,Heeh,neutral,falling,middle,23.9,24.4,1
+silence,,neutral,none,none,24.4,27.0,1
+Customer,Ay Mbak jangan lama-lama Mbak nanti ada urusan sih,neutral,rising,middle,27.0,29.4,1
+Agent,Sabar Ibu sebentar lagi dilakukan,neutral,falling,middle,29.4,31.2,1
+Agent,Lakukan analisis,neutral,falling,middle,31.2,32.2,1
+Agent,Pemblokiran,neutral,normal,middle,0.0,0.4,2
+Customer,"Ibu Nina, terima kasih atas kesediaan menunggu. Saat ini eh untuk kartunya sudah saya lakukan pemblokiran ya Ibu. Untuk transaksi sebelum pemblokiran akan tetap menjadi tanggung jawab Ibu Nina ya.",neutral,normal,middle,0.4,5.7,2
+Customer,"Aduh, dicek dulu Mbak transaksi saya ini. Aduh, ini transaksinya yang terakhir saya lakukan itu 34.677.750.",neutral,normal,middle,5.7,12.5,2
+Agent,Iya.,neutral,normal,middle,12.5,12.9,2
+Customer,34.677.750 Ibu. Di mana Ibu?,neutral,normal,middle,12.9,16.3,2
+Agent,Iya.,neutral,normal,middle,16.3,16.6,2
+Customer,Di ini eh dunia belanja.,neutral,normal,middle,16.6,19.8,2
+Agent,"Saya cek terlebih dahulu Ibu, mohon ditunggu. Sebelumnya untuk verifikasi data saya tanyakan beberapa hal terlebih dahulu. Nama lengkap Ibu kandung?",neutral,normal,middle,19.8,27.5,2
+Customer,Eh Maria.,neutral,normal,middle,27.5,29.2,2
+Agent,Nomor telepon Ibu yang terdaftar?,neutral,normal,middle,29.2,31.8,2
+Customer,08123456,neutral,normal,middle,31.8,34.2,2
+Agent,Iya.,neutral,normal,middle,34.2,34.6,2
+Customer,Iya,neutral,normal,middle,0.0,0.2,3
+Customer,789,neutral,normal,middle,0.3,0.6,3
+Agent,789,neutral,normal,middle,0.7,1.0,3
+Agent,Heeh,neutral,normal,middle,1.1,1.4,3
+silence,,neutral,none,none,1.4,2.6,3
+Customer,Sudah bisa belum Mbak kebuka?,neutral,rising,middle,2.6,3.6,3
+Agent,"Iya, mohon ditunggu Ibu, masih dalam pengecekan",neutral,normal,middle,3.7,5.0,3
+Customer,Aduh,negative,normal,middle,5.1,5.4,3
+silence,,neutral,none,none,5.4,6.1,3
+Customer,Kalau ada transaksi lain itu bukan transaksi saya loh Mbak,negative,normal,middle,6.1,7.8,3
+Agent,Nggak mohon ditunggu Ibu,neutral,normal,middle,7.9,8.8,3
+silence,,neutral,none,none,8.8,10.2,3
+Customer,"Ibu, nih",neutral,normal,middle,10.2,10.7,3
+silence,,neutral,none,none,10.7,11.2,3
+Agent,"Nah, terima kasih atas kesabaran menunggu. Ini untuk transaksi terakhir saya cek memang sudah betul ya Ibu, nominalnya Rp3.467.750 di dunia belanja",positive,normal,middle,11.2,17.5,3
+Customer,Dunia belanja oke,neutral,normal,middle,17.6,18.3,3
+Agent,"Iya, betul. Setelah itu jika saya lakukan pengecekan sudah tidak ada transaksi kembali ya Ibu",neutral,normal,middle,18.4,21.4,3
+Customer,"Oh, benar ya, sudah nggak ada ya?",neutral,rising,middle,21.5,22.7,3
+Agent,"Iya, betul",neutral,normal,middle,22.8,23.5,3
+Customer,"Oke, Mbak sama ini dong, aduh saya takut banget ini kalau kartu debit saya ilang eh otomobil saya juga diblokir juga deh",negative,normal,middle,23.6,29.2,3
+Agent,Blokir otomobil saya?,neutral,rising,middle,29.3,30.2,3
+Customer,Saya cek dulu,neutral,normal,middle,30.3,31.0,3
+Customer,"Ibu, mau saya Ibu.",neutral,falling,middle,0.0,0.7,4
+Agent,Hee.,neutral,falling,middle,0.7,0.9,4
+Customer,"Ibu Rina, saya konfirmasi kan untuk pemblokiran otomotif sudah saya lakukan ya Ibu. Saat ini untuk otomotifnya sudah tidak aktif.",neutral,falling,middle,0.9,4.3,4
+Agent,"Hee, iya.",neutral,falling,middle,4.3,4.7,4
+Customer,"Benar ya? Karena saya enggak mau ada transaksi lho ya. Kalau ada transaksi lagi, itu bukan punya saya. Dan saya enggak mau, enggak mau, eh, duit saya hilang gara-gara itu ya.",negative,falling,middle,4.7,10.6,4
+Agent,Iya.,neutral,falling,middle,10.6,10.9,4
+Customer,Ada beberapa,neutral,falling,middle,10.9,11.4,4
+Agent,"Baik Ibu, di sini sudah saya pastikan ya Ibu untuk pemblokirannya sudah saya proses dan tidak akan ada transaksi kembali yang baru seperti itu.",neutral,falling,middle,11.4,18.6,4
+Customer,"Benar ya? Berarti, iya.",neutral,falling,middle,18.6,19.7,4
+Customer,"Nanti kalau saya ada transaksi, saya harus lapor ke mana?",neutral,rising,middle,19.7,22.6,4
+Agent,Untuk pelaporan Ibu bisa langsung menghubungi kami ya.,neutral,falling,middle,22.6,26.6,4
+Customer,"Benar ya Mbak? Kalau misalkan dari kamu enggak bisa menyelesaikan masalah saya, nanti saya bisa lapor ke OJK ya?",neutral,rising,middle,26.6,33.6,4
+Agent,"Iya, baik Ibu. Nanti silakan bisa hubungi kami kembali ya. Seperti itu.",neutral,falling,middle,33.6,38.8,4
+Customer,Oke Ibu.,neutral,falling,middle,38.8,39.8,4
+silence,,neutral,none,none,39.8,40.5,4
+Customer,"Eh, oke oke.",neutral,falling,middle,40.5,41.8,4
+Customer,"Salam ini ya Mbak, satu lagi eh coba boleh eh rincian ini Mbak sebentar ya.",neutral,falling,middle,41.8,47.9,4
+Agent,Iya.,neutral,falling,middle,47.9,48.2,4
+Customer,"Oh ya, ganti kartunya gimana ya?",neutral,rising,middle,48.2,51.6,4
+Customer,Baik saya konfirmasi kartu debit dulu Ibu,neutral,falling,middle,0.0,1.3,5
+Agent,Untuk penggantian kartu debit silakan nanti Ibu bisa datang ke cabang dengan membawa dokumen KTP buku tabungan,neutral,falling,middle,1.3,4.3,5
+Customer,He eh,neutral,normal,middle,4.3,4.8,5
+Agent,jika ada tabungannya Ibu kemudian eh nanti akan dikenakan biaya penggantian kartu Rp30.000,neutral,falling,middle,4.8,8.3,5
+Customer,He eh,neutral,normal,middle,8.3,8.8,5
+Customer,Ah bayar Mbak Rp30.000,neutral,rising,middle,8.8,10.5,5
+Agent,Iya betul Ibu,neutral,falling,middle,10.5,11.7,5
+Customer,Kenapa harus bayar sih saya kan tabungannya banyak Mbak,negative,rising,middle,11.7,15.3,5
+Agent,Iya Ibu karena kan di sini eh kartu debit Ibu hilang seperti itu jadi di sini eh nanti akan dikenakan untuk biaya Rp30.000-nya,neutral,falling,middle,15.3,21.8,5
+Customer,Ooh enggak baik ya bukannya gratis Mbak,negative,rising,middle,21.8,25.0,5
+Customer,Enggak ada program gratis gitu,negative,falling,middle,25.0,27.5,5
+Agent,Belum ada Ibu tetap dikenakan seperti itu,neutral,falling,middle,27.5,30.5,5
+Customer,Haduh saya kartu debitnya eh di mana nih kamu kan seringnya kan di Malaysia banyak nih,negative,rising,middle,30.5,36.5,5
+Customer,Saya bisa ganti di Malaysia enggak,neutral,rising,middle,36.5,39.2,5
+Agent,Penggantian hanya bisa di eh cabang Indonesia Ibu,neutral,falling,middle,39.2,43.6,5
+Customer,Ooh haduh ribet dia padahal sama-sama sih ambil,negative,rising,middle,43.6,47.8,5
+Customer,Saya di Malaysia,neutral,falling,middle,47.8,49.8,5
+Agent,Iya mohon maaf Ibu,neutral,falling,middle,49.8,52.1,5
+Customer,Ah ya sudah,neutral,falling,middle,52.1,53.8,5
+silence,,neutral,none,none,53.8,55.2,5
+Customer,Udah lah,neutral,falling,middle,0.0,0.5,6
+silence,,neutral,none,none,0.5,0.8,6
+Agent,Oke baik,positive,falling,middle,0.8,1.3,6
+silence,,neutral,none,none,1.3,1.6,6
+Customer,Sebelum nya Ibu ada lagi yang bisa saya bantu,neutral,rising,middle,1.6,3.2,6
+Agent,Enggak ada itu aja Mbak,neutral,falling,middle,3.2,4.2,6
+silence,,neutral,none,none,4.2,4.5,6
+Customer,Baik terima kasih Bu Nina sudah menghubungi saya nih ya ga,positive,falling,middle,4.5,6.8,6
+silence,,neutral,none,none,6.8,7.1,6
+Customer,Selamat siang sehat selalu ya Bu,positive,falling,middle,7.1,8.5,6
+Agent,Iya,neutral,falling,middle,8.5,8.8,6
+silence,,neutral,none,none,8.8,9.1,6

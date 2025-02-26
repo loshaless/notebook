@@ -1,0 +1,81 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasela, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.16,1
+Customer,"Ya, selamat sore Mbak Grasela.",neutral,falling,middle,2.16,3.25,1
+Agent,"Sore, silakan Pak.",neutral,falling,middle,3.25,3.86,1
+Customer,"Ini Mbak Grasela, saya minta bantuannya saya mau eh cairkan deposito saya nih.",neutral,falling,middle,3.86,7.49,1
+Agent,"Begitu, dengan Bapak siapa tadi berbicara?",neutral,falling,middle,7.49,8.84,1
+Customer,Saya dengan Doni Mbak.,neutral,falling,middle,8.84,9.78,1
+Agent,"Bapak Doni, untuk jadi pencairan depositonya, ini tanggal jatuh temponya tanggal berapa Pak?",neutral,falling,middle,9.78,13.38,1
+Customer,Masih 2 minggu lagi Mbak.,neutral,falling,middle,13.38,14.44,1
+Agent,"Begitu, di daerah saya nanti dikenakan akan dikenakan penalti minimal Rp300.000 dan bunga berjalan tidak dibayarkan.",neutral,falling,middle,14.44,20.4,1
+Customer,"Biarkanlah Mbak, orang saya lagi butuh nih.",neutral,falling,middle,20.4,22.55,1
+Agent,"Begitu ya, baik. Silakan sebutkan untuk nomor KTP-nya Pak.",neutral,falling,middle,22.55,25.45,1
+Customer,"Eh, 3323",neutral,falling,middle,25.45,26.75,1
+Agent,Iya.,neutral,falling,middle,26.75,27.08,1
+Customer,0423,neutral,falling,middle,27.08,27.79,1
+Agent,Iya.,neutral,falling,middle,27.79,28.12,1
+Customer,0199,neutral,falling,middle,28.12,28.83,1
+Agent,Iya.,neutral,falling,middle,28.83,29.16,1
+Customer,0001,neutral,falling,middle,29.16,29.87,1
+Agent,3323 0423 0199 00,neutral,falling,middle,29.87,31.58,1
+Customer,Heeh.,neutral,falling,middle,31.58,31.91,1
+silence,,neutral,none,none,0.0,0.22,2
+Agent,01,neutral,normal,middle,0.22,0.38,2
+Customer,iya,neutral,normal,middle,0.38,0.55,2
+Agent,kalau kan pemeriksaan mohon ditunggu ya Pak,neutral,normal,middle,0.55,1.24,2
+Customer,Heeh,neutral,normal,middle,1.24,1.4,2
+Agent,Itu Mbak yang penempatannya 15.750.750 ya,neutral,normal,middle,1.4,2.61,2
+silence,,neutral,none,none,2.61,2.82,2
+Agent,"Baik,  total penempatannya 15.750.750 ya Pak",neutral,normal,middle,2.82,3.91,2
+Customer,Iya,neutral,normal,middle,3.91,4.08,2
+Agent,"Baik, ditunggu sebentar ya",neutral,normal,middle,4.08,4.63,2
+silence,,neutral,none,none,4.63,5.38,2
+Agent,"Bapak terima kasih atas kesabaran yang menunggu, saya klarifikasi terlebih dahulu untuk PIN ATM-nya apakah masih diingat namun jangan disebutkan",neutral,normal,middle,5.38,7.26,2
+Customer,Diingat,neutral,normal,middle,7.26,7.51,2
+Agent,"Saya alihkan ke sistem, silakan nanti tekan PIN ATM-nya diakhiri dengan tanda pagar ya Pak",neutral,normal,middle,7.51,8.75,2
+Customer,Iya boleh,neutral,normal,middle,8.75,9.03,2
+Agent,Saya alihkan,neutral,normal,middle,9.03,9.39,2
+silence,,neutral,none,none,9.39,10.38,2
+Agent,"Terima kasih, saya konfirmasi ini kan untuk penempatan eh deposito Bapak 15.750.750, kemudian akan dikenakan untuk",neutral,normal,middle,10.38,12.48,2
+Agent,penalti 100.000 bunga berjalannya di 5.000 rupiah sehingga yang Bapak terima nanti adalah 15.650.750 rupiah,neutral,falling,middle,0.0,5.04,3
+Customer,"Iya, betul Pak",neutral,falling,middle,5.04,5.88,3
+Agent,"Baik, mau di telepon dulu",neutral,falling,middle,5.88,6.6,3
+silence,,neutral,none,none,6.6,7.52,3
+Agent,Nomor handphone silakan disebutkan Pak,neutral,falling,middle,7.52,8.56,3
+Customer,08111,neutral,falling,middle,8.56,9.24,3
+Agent,Iya,neutral,falling,middle,9.24,9.48,3
+Customer,2324,neutral,falling,middle,9.48,10.08,3
+Agent,Iya,neutral,falling,middle,10.08,10.32,3
+Customer,116,neutral,falling,middle,10.32,10.72,3
+Agent,Saya kirimkan kode verifikasi ke nomor handphone yang terdaftar silakan cek di SMS Pak sudah diterima atau belum,neutral,falling,middle,10.72,16.16,3
+Customer,Sudah,neutral,falling,middle,16.16,16.56,3
+Agent,Saya alihkan ke sistem silakan nanti tekan passcode-nya setelah instruksinya ya Pak,neutral,falling,middle,16.56,21.2,3
+Customer,"Oke, iya Pak",neutral,falling,middle,21.2,22.0,3
+Agent,Saya alihkan,neutral,falling,middle,22.0,22.56,3
+silence,,neutral,none,none,22.56,24.16,3
+Agent,Terima kasih saya mohon maaf untuk dari pencairan depositnya terlebih dahulu di tunggu 1 menit ya Pak,neutral,falling,middle,24.16,29.44,3
+Customer,"Iya, Pak",neutral,falling,middle,29.44,30.08,3
+Agent,Terima kasih,neutral,falling,middle,30.08,30.64,3
+silence,,neutral,none,none,30.64,36.0,3
+Agent,Bapak terima kasih atas kesabarannya,neutral,falling,middle,36.0,37.44,3
+Customer,Menunggu.,neutral,normal,middle,0.0,0.52,4
+Agent,Saya tanyakan beberapa hal. Apakah Bapak memiliki jenis rekening lain di BCA selain yang disebutkan tadi?,neutral,normal,middle,0.52,2.77,4
+Customer,"Ya, cuman tabungan ya deposito ini saja sih Mbak.",neutral,normal,middle,2.77,4.44,4
+Agent,"Baik, verifikasi data sudah sesuai. Saya konfirmasi hari ini dengan Bapak, Grace Ella tanggal 18 Januari 2025 menerima untuk permintaan Bapak Domi diajukan pencairan deposito sebelum tanggal jatuh tempo.",neutral,normal,middle,4.44,10.73,4
+Agent,Dengan nomor KTP-nya 3323042301990001.,neutral,normal,middle,10.73,13.41,4
+Agent,Nominal penempatannya Rp15.750.000.,neutral,normal,middle,13.41,16.05,4
+Agent,"Maaf, Rp15.750.750.",neutral,normal,middle,16.05,17.87,4
+Agent,Dan dikenakan finalti Rp100.000 sehingga yang Bapak terima adalah Rp15.650.750.,neutral,normal,middle,17.87,22.42,4
+Agent,Untuk proses ini akan membutuhkan waktu di 2 hari kerja. Mohon sampaikan saya setuju dan saya bersedia.,neutral,normal,middle,22.42,28.27,4
+Customer,"Ya, saya setuju Mbak.",positive,normal,middle,28.27,29.84,4
+Agent,"Baik, terima kasih. Saya konfirmasi kembali hari ini dengan Bapak, Grace Ella tanggal 18 Januari 2025 dengan permintaan",neutral,normal,middle,29.84,36.56,4
+Agent,Lakukan analisis,neutral,normal,middle,36.56,38.2,4
+Customer,Bapak diajukan pemindahan cairan deposito sudah saya buat kan laporan dengan nomor laporan CBG R E 080102053027 prosesnya ini memakan waktu sampai tanggal 10 Januari 2025 di jam kerja,neutral,falling,middle,0.0,10.9,5
+Agent,Oke siap baik terima kasih,positive,falling,middle,10.9,13.7,5
+Agent,Nanti saya informasikan juga untuk prosesnya ini kan akan masuk ke rekening tabungan Bapak nanti boleh dicek secara berkala ya,neutral,falling,middle,13.7,21.6,5
+Customer,Oke siap,positive,falling,middle,21.6,23.3,5
+Agent,Ada lagi yang bisa saya bantu,neutral,rising,middle,23.3,26.1,5
+Customer,Itu saja,neutral,falling,middle,26.1,27.4,5
+Agent,Terima kasih Bapak Doni telah menghubungi kami selamat sore sehat selalu,positive,falling,middle,27.4,33.6,5
+Customer,Sayang,neutral,falling,middle,33.6,35.1,5
+silence,,neutral,none,none,35.1,36.1,5

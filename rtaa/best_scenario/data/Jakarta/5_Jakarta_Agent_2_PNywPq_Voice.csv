@@ -1,0 +1,102 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fira, bagaimana bisa membantu?",neutral,falling,middle,0.0,2.02,1
+Customer,"Halo Mbak Fira, Mbak Fira",neutral,falling,middle,2.02,3.06,1
+Customer,"Eh, ada aku tuh dapat tagihan kartu kreditnya",neutral,falling,middle,3.06,5.02,1
+Agent,Tulisannya itu iuran tahunan Mbak?,neutral,rising,middle,5.02,6.02,1
+Customer,Apa annual fee ya atau iuran tahunan tuh tulisannya,neutral,falling,middle,6.02,7.55,1
+Customer,"Tapi setahu saya tuh saya enggak pernah eh kena itu gitu, karena terakhir dapat informasi dari marketingnya juga gratis itu seumur hidup kartu saya",neutral,falling,middle,7.55,13.96,1
+Agent,"Baik, sebelumnya saya berbicara dengan Ibu siapa?",neutral,falling,middle,13.96,15.7,1
+Customer,"Eh, saya dengan Nina Mbak",neutral,falling,middle,15.7,17.07,1
+Agent,"Ibu Nina ya, boleh dituliskan nomor kartunya terlebih dahulu Ibu?",neutral,falling,middle,17.07,19.28,1
+Customer,Iya,neutral,falling,middle,19.28,19.64,1
+Customer,Boleh,neutral,falling,middle,19.64,19.96,1
+Customer,5244,neutral,falling,middle,19.96,20.68,1
+Agent,Iya,neutral,falling,middle,20.68,21.04,1
+Customer,6543,neutral,falling,middle,21.04,21.64,1
+Agent,6543,neutral,falling,middle,21.64,22.08,1
+Customer,1000,neutral,falling,middle,22.08,22.72,1
+Agent,Iya,neutral,falling,middle,22.72,23.08,1
+Customer,82,neutral,falling,middle,23.08,23.4,1
+Customer,164,neutral,normal,none,0.0,0.2,2
+silence,,neutral,none,none,0.2,0.8,2
+Agent,Saya konfirmasi ulang Ibu untuk nomor kartunya 5244 6543 10000 8214,neutral,normal,none,0.8,4.1,2
+Customer,Iya,neutral,normal,none,4.1,4.4,2
+Customer,Heeem,neutral,normal,none,4.4,4.7,2
+Customer,Heeem,neutral,normal,none,4.7,5.0,2
+Customer,Iya,neutral,normal,none,5.0,5.2,2
+Agent,"Baik, sebelumnya kartu Ibu apakah sudah di eh dilengkapi dengan PIN?",neutral,normal,none,5.2,7.2,2
+Customer,Ada Mbak,neutral,normal,none,7.2,7.7,2
+Agent,"Sudah ya saya alihkan terlebih dahulu Ibu ke sistem untuk verifikasi data, silakan tekan enam PIN Ibu diakhiri dengan tanda pagar ya, saya alihkan terlebih dahulu Ibu, silakan.",neutral,normal,none,7.7,13.4,2
+Customer,Iya,neutral,normal,none,13.4,13.7,2
+Customer,Iya,neutral,normal,none,13.7,14.0,2
+silence,,neutral,none,none,14.0,14.8,2
+Customer,PIN-nya Anda masukkan benar,neutral,normal,none,14.8,16.2,2
+Agent,"Terima kasih Ibu Nina, untuk bagian ulang tahunannya saya cek terlebih dahulu Ibu mohon ditunggu.",neutral,normal,none,16.2,20.4,2
+Customer,Heeem,neutral,normal,none,20.4,20.7,2
+Customer,Iya,neutral,normal,none,20.7,21.0,2
+silence,,neutral,none,none,21.0,24.1,2
+Agent,"Ibu Nina terima kasih atas kesediaan menunggu, eh ini saya telepon pengecekan ditagihannya memang betul Ibu muncul ulang tahunan seperti itu nominalnya 350.000.",neutral,normal,none,24.1,31.6,2
+Customer,Heeem,neutral,normal,none,31.6,31.9,2
+Agent,Jadi memang kalau untuk,neutral,normal,none,31.9,33.1,2
+Customer,350.000 ya?,neutral,rising,middle,0.0,0.6,3
+Agent,Iya betul,neutral,normal,middle,0.6,1.2,3
+Customer,Itu kan yang di bulan lalu tuh Mbak 350.000 nya,neutral,falling,middle,1.2,3.1,3
+Agent,Iya,neutral,normal,middle,3.1,3.5,3
+Customer,Nah jadinya eh ini eh yang terbaru saya terima itu ada tambahan dan dapat keterlambatan tuh Mbak,neutral,falling,middle,3.5,7.2,3
+Agent,Baik,neutral,normal,middle,7.2,7.6,3
+Agent,Sebabnya di sini kalau untuk penghapusannya sendiri eh saya lakukan pengecekan di bulan lalu itu kan Ibu eh di sebulan sebelumnya Ibu kan belum ada transaksi makanya di sini tertagih uang tahunan karena kalau untuk kartu Ibu itu hanya berarti 1 tahun pertama jika tidak ada pemakaian itu akan dikenakan uang tahunan Ibu seperti itu dan di sini karena eh dikenakannya di bulan lalu dan tidak terbaca ada pembayaran makanya Ibu dikenakan biaya keterlambatan seperti itu,neutral,falling,middle,7.6,21.8,3
+Customer,Oh gitu Mbak aku sih enggak ada dompet Mbak tapi ini entar 1 tahun tuh jadi cuma setaun yang tahun lalu saja gitu yang saya gratis ya,neutral,falling,middle,21.8,28.6,3
+Agent,Iya betul Ibu,neutral,normal,middle,28.6,29.8,3
+Customer,Tahun depannya saya harus bayar gitu,neutral,falling,middle,29.8,32.0,3
+Agent,Betul kalau tidak ada pemakaian seperti itu,neutral,normal,middle,32.0,35.0,3
+Customer,Oh gitu aduh saya jarang pakai,neutral,falling,middle,35.0,37.8,3
+Agent,Betul,neutral,normal,middle,37.8,38.4,3
+Customer,Lagi,neutral,normal,middle,0.0,0.3,4
+Customer,"Berarti nanti terus ke depannya, akan terus ketagih Rp350.000 itu ya?",neutral,rising,middle,0.3,2.2,4
+Agent,"Iya betul, kalau memang tidak ada transaksi yang mencakup eh sesuai programnya seperti itu, Ibu.",neutral,normal,middle,2.2,5.0,4
+Customer,"Oh gitu, aduh Mbak, kalau kayak gitu saya ini aja deh Mbak, ditutup aja deh kartu kreditnya Mbak.",negative,falling,middle,5.0,8.1,4
+Agent,"Tidak sayang Ibu, nanti benefitnya eh Ibu tidak bisa gunakan kembali seperti itu.",neutral,normal,middle,8.1,11.4,4
+Customer,"Enggak usah Mbak, soalnya saya lebih baik bank lainnya, bank lain sudah gratis seumur hidup, enggak ada annual eh tahunannya itu, tahunannya.",negative,falling,middle,11.4,17.2,4
+Agent,Baik.,neutral,normal,middle,17.2,17.7,4
+Customer,Ditutup aja kayaknya sih Mbak.,neutral,falling,middle,17.7,19.5,4
+Agent,Baik.,neutral,normal,middle,19.5,20.0,4
+Agent,"Sebelumnya perihal untuk penutupan kartu akan saya kirimkan kode verifikasi melalui SMS ya Ibu, di nomor telepon Ibu yang terdaftar.",neutral,normal,middle,20.0,26.7,4
+Agent,Di sini dipastikan nomor telepon Ibu aktif ya?,neutral,rising,middle,26.7,29.3,4
+Customer,Iya.,neutral,normal,middle,29.3,29.8,4
+Agent,Baik.,neutral,normal,middle,29.8,30.4,4
+Agent,"Sudah saya kirimkan Ibu melalui SMS, apakah sudah Ibu terima?",neutral,rising,middle,30.4,33.9,4
+Customer,"Eh, sebentar.",neutral,falling,middle,33.9,35.2,4
+Customer,Iya.,neutral,normal,middle,35.2,35.7,4
+Agent,Sudah Mbak?,neutral,rising,middle,35.7,37.0,4
+Agent,"Baik, saya alihkan Ibu kembali ke sistem, silakan nanti Ibu tekan enam kode paswordnya tanpa pagar ya.",neutral,normal,middle,37.0,42.5,4
+Customer,"Oh iya, baik.",neutral,falling,middle,42.5,44.3,4
+Agent,"Baik, saya alihkan Ibu, silakan.",neutral,normal,middle,44.3,47.1,4
+Customer,Iya.,neutral,normal,middle,47.1,47.6,4
+Customer,"Oke, eh",neutral,falling,middle,47.6,49.0,4
+Customer,"Mas, contohkan benar?",neutral,falling,middle,0.0,0.9,5
+Agent,Terima kasih Ibu Nina. Sebelumnya eh saya konfirmasi kan terlebih dahulu Ibu hari ini tanggal 8 Januari 2025 dengan saya Viral. Sudah kami proses kan perihal penutupan kartu Ibu karena tertagih iuran tahunan Ibu. Untuk fisik kartunya masih ada Ibu?,neutral,falling,middle,0.9,7.4,5
+Customer,"Ehm, masih, masih ada.",neutral,falling,middle,7.4,9.2,5
+Agent,Baik. Ini sudah saya proses kan dengan nomor pelaporan nya di Charlie Bravo Golf Love Romeo Echo 111521002255 Ibu. Untuk proses laporan Ibu memerlukan waktu penanganan sampai dengan tanggal 10 Januari 2025 di jam kerja. Kemudian eh untuk ada eh ada kembali yang bisa saya bantu Ibu?,neutral,falling,middle,9.2,22.7,5
+Customer,"Oh itu, eh Mbak mau konfirmasi juga transaksi saya yang paling terakhir itu benar ya? Di bulan Mei ada nominalnya 1 juta 735.500.",neutral,falling,middle,22.7,34.6,5
+Agent,Di bulan Mei ya Ibu?,neutral,rising,middle,34.6,37.1,5
+Customer,Di mana Ibu untuk mencantumkan eh kode posnya?,neutral,rising,middle,0.0,1.56,6
+Agent,Eh di- di-lulu di-lulu ya.,neutral,normal,middle,1.56,2.65,6
+Customer,Saya keterbelit dahulu Ibu.,neutral,falling,middle,2.65,3.53,6
+Agent,Heeh.,neutral,normal,middle,3.53,3.82,6
+Customer,Kalau itu terakhir yang saya lakuin berarti benar tuh Pak?,neutral,rising,middle,3.82,5.44,6
+silence,,neutral,none,none,5.44,5.74,6
+Customer,Ibu Nina terima kasih atas kesabaran menunggu. Nomenya sesuai Ibu Rp1.735.000?,positive,rising,middle,5.74,9.07,6
+Agent,Heeh.,neutral,normal,middle,9.07,9.35,6
+Agent,Di-lulu ya Ibu.,neutral,normal,middle,9.35,9.97,6
+Customer,Iya betul.,neutral,falling,middle,9.97,10.5,6
+Agent,Ya sudah ada Ibu untuk di bulan Mei?,neutral,rising,middle,10.5,11.53,6
+Customer,Ada ya Ibu. Iya.,neutral,falling,middle,11.53,12.18,6
+Agent,Oh ya sudah berarti. Oke berarti benar itu. Konsultasi terakhir saya dan kartunya nanti saya proses tutup sampai tanggal eh berapa prosesnya Pak?,neutral,rising,middle,12.18,16.29,6
+Customer,Sampai dengan tanggal 10 ya Ibu. Nanti akan ada dari bagian penutupan kartu ya menghubungi Ibu.,neutral,falling,middle,16.29,19.32,6
+Agent,Oh nanti ada ya dari tim ini yang hubungi saya buat penutupan kartunya ya?,neutral,rising,middle,19.32,21.89,6
+Customer,Iya betul.,neutral,falling,middle,21.89,22.43,6
+Agent,Oh ya sudah. Oke deh kalau gitu.,neutral,falling,middle,22.43,23.5,6
+Agent,Baik. Ada lagi Ibu Nina yang bisa saya bantu?,neutral,rising,middle,23.5,25.13,6
+Customer,Eh cukup Pak.,neutral,falling,middle,25.13,25.76,6
+Agent,Baik. Terima kasih Ibu Nina sudah menghubungi kami ya. Selamat sore sehat selalu ya Ibu.,positive,falling,middle,25.76,29.07,6
+Customer,Iya.,neutral,falling,middle,29.07,29.46,6

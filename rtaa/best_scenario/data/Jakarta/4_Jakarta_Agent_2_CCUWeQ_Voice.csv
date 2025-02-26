@@ -1,0 +1,50 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Customer,"Selamat sore dengan Vira, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.4,1
+silence,,neutral,none,none,2.4,2.7,1
+Customer,"Halo Mbak Vira, Mbak Vira, aku minta tolong dong Mbak, ini HP aku kayaknya di-hack, boleh minta blokir Oktober mobile saya enggak?",neutral,falling,middle,2.7,9.5,1
+Agent,"Baik, dengan Ibu siapa saya berbicara?",neutral,falling,middle,9.5,12.2,1
+Customer,"Eh, saya dengan Nina",neutral,falling,middle,12.2,14.3,1
+Agent,Ibu Nina ya?,neutral,rising,middle,14.3,15.5,1
+Customer,Iya,neutral,falling,middle,15.5,16.2,1
+Agent,Boleh disebutkan nomor kartu nya Ibu?,neutral,falling,middle,16.2,19.6,1
+Customer,"Eh, nomor kartunya ada sih Mbak",neutral,falling,middle,19.6,22.4,1
+Agent,Boleh nomor kartunya?,neutral,falling,middle,22.4,24.7,1
+Customer,5244 5244 6218 6218 1287 1287 8214,neutral,falling,middle,24.7,36.2,1
+Agent,"Saya lakukan pengecekan dan pemblokiran Oktober mobile nya, mohon ditunggu ya Ibu",neutral,falling,middle,36.2,44.6,1
+Customer,"Iya, boleh",neutral,falling,middle,44.6,47.2,1
+silence,,neutral,none,none,47.2,49.0,1
+Agent,"Ibu Nina, sebelumnya untuk nomor telepon yang terdaftarnya boleh disebutkan?",neutral,falling,middle,49.0,56.5,1
+Customer,"Eh, nomor telepon nya itu di 0812",neutral,falling,middle,56.5,61.1,1
+Customer,Iya,neutral,normal,middle,0.0,0.3,2
+Customer,3456,neutral,normal,middle,0.4,0.7,2
+Customer,3456,neutral,normal,middle,0.9,1.2,2
+Customer,789,neutral,normal,middle,1.3,1.6,2
+Customer,789,neutral,normal,middle,1.7,2.0,2
+silence,,neutral,none,none,2.0,2.5,2
+Customer,Untuk eh eh sandi blokirnya handphone Ibu di-hack ya,neutral,normal,middle,2.5,4.0,2
+Agent,Iya,neutral,normal,middle,4.2,4.4,2
+Agent,"Baik, mohon hitung ya Ibu",neutral,normal,middle,4.5,5.3,2
+silence,,neutral,none,none,5.3,5.7,2
+Agent,"Ibu Nina, saat ini untuk otomobilnya sudah saya lakukan pemblokiran nih Ibu",neutral,normal,middle,5.7,7.4,2
+Customer,Oh oke oke,positive,normal,middle,7.5,8.0,2
+Customer,"Makasih ya Mbak, Mbak mau tahu eh transaksi terakhirnya boleh ya",neutral,normal,middle,8.1,9.7,2
+Agent,Eh saya itu transaksi terakhirnya itu harusnya yang,neutral,normal,middle,9.8,11.2,2
+Agent,14 juta 500 ribu,neutral,normal,middle,11.2,12.1,2
+Customer,14 juta 500 ribu,neutral,normal,middle,12.2,12.9,2
+Agent,Iya,neutral,normal,middle,13.0,13.2,2
+Customer,Di mana Ibu transaksinya,neutral,normal,middle,13.3,13.9,2
+Customer,Di Electricity,neutral,normal,middle,14.0,14.6,2
+silence,,neutral,none,none,14.6,15.0,2
+Agent,"Mohon hitung ya Ibu, saya cek kembali",neutral,normal,middle,15.0,15.9,2
+Customer,Iya,neutral,normal,middle,16.0,16.2,2
+silence,,neutral,none,none,16.2,17.2,2
+Agent,"Ibu Nina, terima kasih atas kesediaan menunggu eh untuk transaksi terakhir ini di nominal 14 juta 500 ribu di Electricity ada ya Ibu",neutral,rising,middle,17.2,20.3,2
+Customer,Iya,neutral,normal,middle,20.4,20.6,2
+Customer,Oh ada Oke siap,neutral,falling,middle,0.0,0.7,3
+Agent,Iya betul,neutral,falling,middle,0.8,1.3,3
+Customer,Ada lagi Bu Rina yang bisa saya bantu,neutral,rising,middle,1.4,2.9,3
+Agent,Eh itu aja Mbak,neutral,falling,middle,3.0,3.8,3
+Customer,Baik Terima kasih Bu Rina sudah menghubungi saya Selamat sore sehat selalu ya Bu,positive,falling,middle,3.9,6.8,3
+Agent,Iya terima kasih,positive,falling,middle,6.9,7.7,3
+silence,,neutral,none,none,7.7,10.2,3
+Customer,Pppp,neutral,none,none,10.2,10.6,3

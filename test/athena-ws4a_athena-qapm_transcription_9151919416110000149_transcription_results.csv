@@ -1,0 +1,161 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.7,1
+Agent,"Selamat siang, Kak. Bagaimana saya bisa membantu?",neutral,falling,middle,0.7,2.5,1
+Customer,"Selamat siang, saya dengan Bapak Rio.",neutral,falling,middle,2.5,4.1,1
+Agent,"Iya, Pak. Iya, ada yang bisa saya bantu?",neutral,falling,middle,4.1,5.7,1
+Customer,"Kak, minta tolong dicekkan. Saya kan over limit-nya itu bulan depan kemarin. Kok sekarang kok kena over limit lagi. Ini dilihat di sistem lagi.",negative,falling,middle,5.7,12.8,1
+Agent,Maksudnya bulan lalu?,neutral,rising,middle,12.8,14.2,1
+Customer,"Iya. Bulan lalu saya sudah membayar dan ini saya lagi tanggal cetak di bulan Oktober ini. Kok saya kok over limit lagi sedangkan limit saya sudah terbeli lagi, maksudnya sudah utuh. Bisa minta tolong dicekkan?",negative,falling,middle,14.2,26.3,1
+Agent,"Coba saya cek terlebih dahulu. Nomor kartunya bisa tolong diinformasikan, Pak?",neutral,falling,middle,26.3,30.2,1
+Customer,Baik. 4579,neutral,falling,middle,30.2,32.3,1
+Agent,Iya.,neutral,falling,middle,32.3,32.9,1
+Customer,4200,neutral,falling,middle,32.9,34.4,1
+Agent,Iya.,neutral,falling,middle,34.4,35.0,1
+Customer,0334,neutral,falling,middle,35.0,36.4,1
+Agent,Iya.,neutral,falling,middle,36.4,37.0,1
+Customer,8250.,neutral,falling,middle,37.0,38.5,1
+Agent,Kartu Bapak sudah dilengkapi dengan PIN?,neutral,rising,middle,38.5,41.2,1
+Customer,Sudah.,neutral,falling,middle,41.2,42.0,1
+Agent,"Jika sudah, saya alihkan ke sistem. Silakan nanti tekan enam digit PIN di akhir di tanda pagar selesai.",neutral,falling,middle,42.0,48.5,1
+Customer,Baik siap Pak,neutral,normal,middle,0.0,0.8,2
+Agent,Baik saya alihkan,neutral,normal,middle,0.8,1.8,2
+silence,,neutral,none,none,1.8,2.1,2
+Agent,Masukkan enam digit nomor PIN Anda di atas,neutral,normal,middle,2.1,4.2,2
+silence,,neutral,none,none,4.2,4.7,2
+Agent,Permintaan Anda sedang kami proses,neutral,normal,middle,4.7,6.4,2
+Agent,PIN yang Anda masukkan benar,neutral,normal,middle,6.4,8.1,2
+Agent,Terima kasih saya lakukan pengecekan untuk biaya over limit di tagihan yang Oktober ya Pak ya,neutral,normal,middle,8.1,12.1,2
+Customer,Iya,neutral,normal,middle,12.1,12.6,2
+Agent,Baik,neutral,normal,middle,12.6,13.1,2
+silence,,neutral,none,none,13.1,13.5,2
+Customer,Bapak jika saya boleh tahu untuk total limit yang Bapak miliki di nominal berapa?,neutral,rising,middle,0.0,3.12,3
+Customer,19 juta,neutral,falling,middle,3.12,3.72,3
+silence,,neutral,none,none,3.72,4.24,3
+Agent,"Ini jika saya lakukan pengecekan untuk yang tagihan bulan Oktober, ada biaya overlimit dengan nominal 200.000 Pak, karena tagihan berjalan. Jadi sebelum kemarin Bapak melakukan pembayaran yang di tanggal 6 Oktober, itu kartunya masih terbaca overlimit sehingga menyebabkan muncul biaya overlimit yang bulan ini. Nah ini termasuk untuk melakukan penghapusannya atau bagaimana?",neutral,rising,middle,4.24,14.4,3
+Customer,Hmm,neutral,falling,middle,14.4,14.72,3
+Customer,Iya benar,neutral,falling,middle,14.72,15.2,3
+Customer,Hmm,neutral,falling,middle,15.2,15.44,3
+Customer,Hmm,neutral,falling,middle,15.44,15.68,3
+Customer,Enggak. Maksudnya itu kan kayak tanggal 7 September kan sudah overlimit.,neutral,falling,middle,15.68,20.4,3
+Customer,Nah ini Oktober kok saya kok masih overlimit,neutral,falling,middle,20.4,23.6,3
+Customer,Itu loh,neutral,falling,middle,23.6,24.4,3
+Agent,Karena saya informasikan tadi Pak. Jadi untuk tanggal 16 September itu kan jatuh tempo tagihan,neutral,falling,middle,24.4,30.4,3
+Customer,Jadi untuk yang bulan ini misalkan ingin diajukan keberatan saya buatkan laporannya seperti itu Pak Rio,neutral,falling,middle,0.0,4.13,5
+Agent,"Baik, nanti kalau saya melakukan pengajuan keberatannya kalau enggak akur sih saya yang rugi. Soalnya limit saya itu enggak over limit yang di bulan Oktober, gitu loh. Dan saya sudah melakukan pembayaran jatuh tempo eh tanggal 7 September.",neutral,falling,middle,4.13,14.68,5
+Agent,"Tanggal jatuh temponya itu di Oktober dan saya sudah melakukan pembayaran, gitu loh.",neutral,falling,middle,14.68,19.56,5
+Customer,Maksudnya itu kalau untuk yang Oktober ini,neutral,falling,middle,19.56,22.23,5
+Agent,"bisa diajukan karena memang pengaruh dari yang tagihan bulan lalu. Kalau untuk yang bulan lalu tidak bisa dihapuskan karena kan memang dari tagihannya itu over limit. Kalau ini kan pengaruh karena tagihan bulan lalu, sedangkan yang bulan Oktobernya sendiri itu tidak over limit, seperti itu.",neutral,falling,middle,22.23,36.88,5
+Customer,Ahh,neutral,falling,middle,36.88,37.33,5
+Agent,Oh,neutral,falling,middle,37.33,37.63,5
+Customer,"Iya, berarti intinya itu bukan kesalahan saya berarti ya?",neutral,falling,middle,37.63,42.48,5
+Agent,"Itu dari sistem karena memang selama belum ada pembayaran itu kartunya masih terbaca over limit, tapi kan over limitnya karena tagihan berjalan bukan dari tagihan",neutral,falling,middle,42.48,52.56,5
+Customer,"Begini yang tercetat di bulan ini, seperti itu.",neutral,falling,middle,0.0,2.0,6
+Agent,"Oh gitu. Ya udah kalau gitu kan bisa tolong dihapuskan dan saya minta tolong ya di aksesnya. Soalnya saya merasa keberatan Mbak, gitu.",neutral,falling,middle,2.0,8.1,6
+Customer,Iya.,neutral,normal,middle,8.1,8.5,6
+Agent,"Coba kita ajukan terlebih dahulu. Namun sebelumnya Pak, saya kirimkan kode verifikasi ke nomor handphone Bapak. Untuk nomor handphone-nya bisa diinformasikan Pak, Rio?",neutral,falling,middle,8.5,16.7,6
+Customer,Baik.,neutral,normal,middle,16.7,17.1,6
+silence,,neutral,none,none,17.1,18.3,6
+Agent,"Silakan Pak, nomor handphone-nya berapa?",neutral,falling,middle,18.3,20.5,6
+Customer,Nomor teleponnya 0857,neutral,falling,middle,20.5,22.6,6
+Agent,Iya.,neutral,normal,middle,22.6,23.0,6
+Customer,91444,neutral,falling,middle,23.0,24.8,6
+Agent,Iya.,neutral,normal,middle,24.8,25.1,6
+Customer,826.,neutral,falling,middle,25.1,25.8,6
+Agent,Baik.,neutral,normal,middle,25.8,26.2,6
+silence,,neutral,none,none,26.2,27.2,6
+Agent,Untuk OTP sudah saya kirimkan melalui SMS. Bisa tolong dicek apakah saat ini Bapak sudah menerima?,neutral,falling,middle,27.2,33.8,6
+Customer,Benar.,neutral,normal,middle,33.8,34.4,6
+Agent,Sudah?,neutral,rising,middle,34.4,35.1,6
+Customer,Sudah.,neutral,normal,middle,35.1,35.6,6
+Agent,"Jika sudah ada, saya alihkan kembali ke sistem untuk input",neutral,falling,middle,35.6,39.3,6
+Customer,Kode-nya ya Pak?,neutral,falling,middle,0.0,1.0,7
+Agent,Itu pakai tanda pagar enggak?,neutral,falling,middle,1.0,2.4,7
+Customer,Tidak usah cukup enam angka saja,neutral,falling,middle,2.4,4.2,7
+Agent,Baik,neutral,falling,middle,4.2,4.7,7
+Agent,Saya alihkan Pak Rio,neutral,falling,middle,4.7,6.1,7
+silence,,neutral,none,none,6.1,6.6,7
+Agent,Masukkan SMS pasword Anda,neutral,falling,middle,6.6,8.7,7
+silence,,neutral,none,none,8.7,14.1,7
+Agent,Maaf Anda belum memasukkan data yang diminta masukkan SMS pasword Anda,neutral,falling,middle,14.1,18.5,7
+silence,,neutral,none,none,18.5,24.5,7
+Agent,Maaf SMS pasword yang Anda masukkan kurang dari enam digit masukkan SMS pasword Anda,neutral,falling,middle,24.5,30.5,7
+silence,,neutral,none,none,30.5,35.6,7
+Agent,Pasword yang Anda masukkan benar,neutral,falling,middle,35.6,38.3,7
+Agent,Terima kasih saya buatkan pelaporannya mau ditunggu ya Pak?,neutral,falling,middle,38.3,42.6,7
+Customer,Baik,neutral,falling,middle,42.6,43.4,7
+Agent,Pario,neutral,normal,middle,0.0,0.4,9
+Customer,"Ya, baik",neutral,normal,middle,0.4,0.8,9
+Agent,"Terima kasih telah bersabar menunggu, saya konfirmasi hari ini tanggal 24 Oktober 2024 dengan saya, ya. Permintaan Bapak untuk penghapusan biaya over limit dengan nominal Rp200.000, kami proses dengan nomor pengaduan Charlie Bravo, langsung, maaf, apa itu? Langsung angkat, ya? Saya enggak paham kalau gitu.",neutral,normal,middle,0.8,7.4,9
+Customer,"Oh iya, ini untuk hurufnya di CB",neutral,normal,middle,7.4,8.4,9
+Agent,CB,neutral,normal,middle,8.4,8.8,9
+Customer,GB,neutral,normal,middle,8.8,9.2,9
+Agent,GCF,neutral,normal,middle,9.2,9.6,9
+Customer,G,neutral,normal,middle,9.6,9.8,9
+Agent,Iya,neutral,normal,middle,9.8,10.2,9
+Customer,G,neutral,normal,middle,10.2,10.4,9
+Agent,GCF,neutral,normal,middle,10.4,10.8,9
+Customer,"GCF, sudah ya, Pak",neutral,normal,middle,10.8,11.6,9
+Agent,Iya,neutral,normal,middle,11.6,11.8,9
+Customer,Fantas,neutral,normal,middle,11.8,12.2,9
+Agent,"Baik, kemudian 2419",neutral,normal,middle,12.2,13.2,9
+Agent,2410,neutral,normal,middle,0.0,0.2,10
+Agent,2400,neutral,normal,middle,0.2,0.5,10
+Agent,2400,neutral,normal,middle,0.5,0.8,10
+Agent,1051,neutral,normal,middle,0.8,1.1,10
+Agent,1051,neutral,normal,middle,1.1,1.4,10
+Agent,Betul. Laporan tersebut membutuhkan penanganan maksimalnya di 31 Oktober 2024. Nanti untuk pengecekan laporan bisa melalui layanan WhatsApp CSB Niaga. Nomornya di 081197814041. Tolong menyebutkan nama lengkap Bapak dan nomor laporan. Kemudian untuk nomor laporannya juga sudah kami kirimkan melalui SMS ke nomor handphone yang terdaftar di bank.,neutral,normal,middle,1.4,10.8,10
+Customer,Iya.,neutral,normal,middle,10.8,11.1,10
+Customer,"Ini saya minta tolong, dan saya akan merasa sangat keberatan soalnya overlimit yang kemarin itu sudah enggak di ACC. Otomatis kalau untuk overlimit ini, karena apa?",negative,normal,middle,11.1,18.4,10
+Agent,Tagihan berjalan.,neutral,normal,middle,18.4,19.2,10
+Customer,Apa itu ungan ya?,neutral,rising,middle,19.2,20.4,10
+Agent,Jadi tagihan berjalan itu adalah tagihan yang aktif.,neutral,normal,middle,20.4,22.9,10
+Agent,Akankan di tagihkan di tagihan bulan berikutnya,neutral,falling,middle,0.0,1.23,11
+Agent,Seperti contohnya kemarin kan eh yang ada over limit itu di tagihan yang cetak 19 September,neutral,falling,middle,1.23,4.14,11
+Agent,Kemudian kan pembayarannya per tanggal 6 Oktober,neutral,falling,middle,4.14,5.73,11
+Agent,Nah jadi selama tanggal cetak hingga tanggal pembayaran di tagihan yang eh berjalan Bapak,neutral,falling,middle,5.73,8.35,11
+Agent,gitu kan terbaca over limit,neutral,falling,middle,8.35,9.27,11
+Agent,Nah menyebabkan muncul biaya over limit untuk tagihan yang eh cetak di bulan Oktober ini,neutral,falling,middle,9.27,13.05,11
+Agent,Nah ini sedang kita ajukan kemudian termasuk dengan alasannya kekeberatan untuk over limit atas tagihan yang eh berjalan,neutral,falling,middle,13.05,17.82,11
+Agent,Karena kan bukan eh kalau untuk yang kemarin itu kan terbaca over limit karena ada transaksi yang diubah menjadi cicilan,neutral,falling,middle,17.82,22.21,11
+Agent,Betul jadi ada dana yang ditahan,neutral,falling,middle,22.21,24.02,11
+Agent,Nah untuk yang saat ini eh ini kan efek dari tagihan berjalannya itu,neutral,falling,middle,24.02,27.47,11
+Agent,Kita coba ajukan dengan alasan kan berbeda ya Pak ya,neutral,falling,middle,27.47,29.92,11
+Agent,Semoga menjadi pertimbangan dari pihak manajemen seperti itu,neutral,falling,middle,29.92,33.24,11
+Agent,Nah maksudnya ini,neutral,falling,middle,33.24,34.56,11
+Agent,apa itu,neutral,falling,middle,34.56,35.48,11
+Customer,itu positif dihapus enggak Mbak nanti kalau enggak dihapus ya saya yang rugi,negative,falling,middle,0.0,2.2,12
+Agent,Saya 200.000,neutral,falling,middle,2.2,3.0,12
+Agent,positif atau tidaknya Pak jika dari call center tidak eh bisa memutuskan nanti Bapak bisa pantau laporan tersebut melalui WhatsApp silakan Bapak eh cek melalui WhatsApp agar tidak mengeluarkan pulsa ya Pak ya eh nanti hasilnya akan diinformasikan terlebih dahulu melalui WhatsApp jika memang sudah disetujui untuk pengembalian dana 200.000 itu nanti mengurangi tagihan yang akan tercetak di tanggal 19 November,neutral,falling,middle,3.0,14.7,12
+Customer,Ini kan saya soalnya kan saya rencana mau bayar berhubungan Anda ini saya melakukan pembayaran pas jatuh tempo aja,neutral,falling,middle,14.7,21.6,12
+Agent,bisa saja,neutral,falling,middle,21.6,22.9,12
+Agent,Iya jadi eh nanti pembayarannya menunggu hasil pengajuan terlebih dahulu Nah misalkan sudah ada hasilnya eh baru Bapak lakukan pembayaran apabila disetujui itu nanti akan ada pengkreditan dana di tagihan yang bulan depan begitu,neutral,falling,middle,22.9,36.5,12
+Customer,Oh bas,neutral,falling,middle,36.5,37.5,12
+Customer,Sisa pengkreditan masnya gimana Pak?,neutral,rising,middle,0.0,1.0,13
+Agent,Tagihan kali ya,neutral,falling,middle,1.0,1.6,13
+Agent,Pengembalian dana,neutral,falling,middle,1.6,2.4,13
+Agent,Jadi misalkan eh ini disetujui untuk yang Rp200.000-nya otomatis kan yang sudah ditagihkan akan dikembalikan lagi ke di kartu Bapak,neutral,falling,middle,2.4,7.8,13
+Customer,Hmm,neutral,falling,middle,7.8,8.2,13
+Agent,Iya,neutral,falling,middle,8.2,8.7,13
+Agent,Nah untuk pengembalian dana yang Rp200.000 itu nanti mengurangi tagihan Bapak yang tercetak tanggal 19 November,neutral,falling,middle,8.7,15.0,13
+Customer,Heeh,neutral,falling,middle,15.0,15.4,13
+Customer,Berarti se-semisal apa itu ini disetujui saya pembayaran saya berarti sesuai tanggal cetak jatuh tempo di bulan Oktober ini ya,neutral,rising,middle,15.4,23.4,13
+Agent,Meskipun hitungannya over limit tapi kalau sudah disetujui besok ditinggal motong tagihan berikutnya gitu,neutral,falling,middle,23.4,30.8,13
+Customer,Iya betul iya,neutral,falling,middle,30.8,32.7,13
+Customer,Tapi kemungkinan harapan besar itu bisa terhapus enggak,neutral,rising,middle,32.7,37.2,13
+Customer,Saya tanya cuma memastikan,neutral,falling,middle,37.2,39.9,13
+Agent,Paknya itu bisa belum bisa Pak,neutral,falling,middle,39.9,42.9,13
+Agent,Betul ini kan eh kalau untuk dari kami sendiri memastikan sendiri belum berani Pak karena kan khawatirnya kemungkinan yang terburuk tapi,neutral,falling,middle,42.9,52.9,13
+Customer,"Melihat dari konteks ini, kita sedang mengacuhkan dengan alasan yang berbeda karena kan untuk yang kemarin memang dari tagihan Bapak ada dana ditahan atas cicilan sedangkan untuk saat ini over limit-nya kan atas impact pagihan yang kemarin.",neutral,normal,middle,0.0,10.2,14
+Agent,Hmm.,neutral,normal,middle,10.2,10.6,14
+Customer,Heeh.,neutral,normal,middle,10.6,10.9,14
+Agent,Hmm hmm.,neutral,normal,middle,10.9,11.5,14
+Customer,Heeh.,neutral,normal,middle,11.5,11.8,14
+Agent,Oh iya. Jadi kan Pak kalau begitu kalau udah dibuat alasan yang aneh ya minta tolong intinya saya merasa keberatan dan saya tidak merasa over limit kalau memang saya over limit kan itu oke lah. Soalnya ini kan saya enggak enggak merasa over limit enggak melakukan apa itu over limit gitu. Ya udah Mbak untuk di sini terima kasih dan sudah di-...,neutral,normal,middle,11.8,29.5,14
+Customer,Iya.,neutral,normal,middle,29.5,29.8,14
+Agent,Iya.,neutral,normal,middle,29.8,30.1,14
+Customer,Iya.,neutral,normal,middle,30.1,30.4,14
+Agent,Baik. Mohon maaf sekali ya Pak Rio atas ketidaknyamanannya dari saya ada lagi yang bisa dibantu Pak?,neutral,normal,middle,30.4,38.2,14
+Customer,Iya Pak. Mbak.,neutral,normal,middle,38.2,39.5,14
+Agent,Baik. Terima kasih Pak Rio. Langsung ke binaganya. Selamat siang sehat selalu ya Pak.,positive,falling,middle,39.5,46.4,14
+Customer,Iya. Selamat siang Mbak.,positive,falling,middle,46.4,48.7,14
+silence,,neutral,none,none,48.7,50.4,14

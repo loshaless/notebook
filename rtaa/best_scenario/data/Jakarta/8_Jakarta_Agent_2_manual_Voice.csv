@@ -1,0 +1,85 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fira, baik, mau dibantu?",neutral,rising,middle,0.0,1.4,1
+Customer,"Iya, selamat sore, Mbak.",neutral,falling,middle,1.4,2.5,1
+Agent,"Sore, Ibu, ada yang eh, perlu apa yang bisa saya bantu?",neutral,rising,middle,2.5,4.1,1
+Customer,"Eh, Mbak Fira, saya kan punya deposito ya.",neutral,falling,middle,4.1,5.8,1
+Agent,"Iya, Ibu.",neutral,falling,middle,5.8,6.2,1
+Customer,"Eh, saya rencananya tuh mau cairin deposito saya.",neutral,falling,middle,6.2,8.3,1
+Agent,Iya.,neutral,falling,middle,8.3,8.6,1
+Agent,"Ya, itu gimana ya ketentuannya ya?",neutral,rising,middle,8.6,10.0,1
+Agent,"Baik, dengan Ibu siapa saya berbicara?",neutral,rising,middle,10.0,11.3,1
+Customer,Saya dengan Lina.,neutral,falling,middle,11.3,12.2,1
+Agent,Boleh disebutkan nomor KTP-nya Ibu?,neutral,rising,middle,12.2,13.6,1
+Customer,Nomor KTP-nya di 3323.,neutral,falling,middle,13.6,15.4,1
+Agent,Iya.,neutral,falling,middle,15.4,15.7,1
+Customer,0423.,neutral,falling,middle,15.7,16.3,1
+Agent,Iya.,neutral,falling,middle,16.3,16.6,1
+Customer,0199.,neutral,falling,middle,16.6,17.2,1
+Agent,Iya.,neutral,falling,middle,17.2,17.5,1
+Customer,0001.,neutral,falling,middle,17.5,18.1,1
+Agent,Saya konfirmasi ya Ibu?,neutral,rising,middle,18.1,19.2,1
+Customer,He'eh.,neutral,falling,middle,19.2,19.6,1
+Agent,3323 0423 0199 0001.,neutral,falling,middle,19.6,22.0,1
+Customer,"Iya, betul.",neutral,falling,middle,22.0,22.8,1
+Agent,"Saya lakukan pengecekan terlebih dahulu Ibu, mau ditunggu?",neutral,rising,middle,22.8,25.2,1
+Customer,"Iya, boleh.",neutral,falling,middle,25.2,25.8,1
+silence,,neutral,none,none,25.8,27.2,1
+Customer,Ibu Nina sebelumnya eh untuk alasan pencairannya karena apa Ibu?,neutral,rising,middle,0.0,3.08,2
+Customer,Ooh ya saya lagi butuh uang aja Mbak,neutral,normal,middle,3.08,5.32,2
+Agent,Tidak sayang Ibu jika dicairkan?,neutral,rising,middle,5.32,6.72,2
+Customer,Ah enggak apa-apa sih,neutral,normal,middle,6.72,7.76,2
+Customer,Dah uang ditunggu,neutral,normal,middle,7.76,9.16,2
+silence,,neutral,none,none,9.16,10.52,2
+Agent,Ibu Nina terima kasih atas kesabaran menunggu sebelumnya akan saya alihkan Ibu ke sistem silakan nanti Ibu tekan eh PIN ATM-nya ya Ibu diakhiri dengan tanda pagar saya alihkan ya Ibu silakan,positive,normal,middle,10.52,20.12,2
+Customer,Oke,neutral,normal,middle,20.12,20.6,2
+Customer,Ya,neutral,normal,middle,20.6,21.04,2
+silence,,neutral,none,none,21.04,22.36,2
+Customer,PIN-nya Anda masukkan benar,neutral,normal,middle,22.36,24.4,2
+Agent,Baik terima kasih Ibu Nina,positive,normal,middle,24.4,27.08,2
+silence,,neutral,none,none,27.08,28.24,2
+Customer,Oh ditunggu,neutral,normal,middle,28.24,29.24,2
+Agent,Bok kembali Ibu,neutral,falling,middle,0.0,0.6,3
+Customer,Iya,neutral,falling,middle,0.6,0.8,3
+Agent,Untuk nominal deposito tadi adalah Rp15.750.750 Ibu,neutral,falling,middle,0.8,3.2,3
+Customer,Ibu Nina terima kasih atas kesigapan Ibu di sini untuk nominal eh depositonya di Rp35.565.000 Ibu,positive,falling,middle,3.2,8.0,3
+Agent,Eh berapa dibelah Mbak?,neutral,rising,middle,8.0,9.0,3
+Agent,35 eh mohon maaf saya ulangi Ibu,neutral,falling,middle,9.0,10.7,3
+Agent,eh nominalnya di Rp15.750.750 Ibu,neutral,falling,middle,10.7,14.4,3
+Customer,Rp15.750.750 oke,neutral,falling,middle,14.4,16.7,3
+Customer,Itu gim eh  segi eh bulat akan jatuh ke saya atau gimana ya Mbak?,neutral,rising,middle,16.7,21.1,3
+Agent,Saya cek kembali Ibu mau ditunggu?,neutral,falling,middle,21.1,23.4,3
+Customer,Heeh oke,neutral,falling,middle,23.4,24.5,3
+silence,,neutral,none,none,24.5,25.9,3
+Customer,Ibu Nina terima kasih atas pelayanannya,positive,falling,middle,0.0,1.5,4
+Agent,Iya,neutral,normal,middle,1.5,1.7,4
+Customer,dikirim nanti untuk eh pencairan deposito yang Ibu dapatkan nominalnya di 15 juta 750 ribu ya Ibu,neutral,falling,middle,1.7,5.7,4
+Agent,Betul,neutral,normal,middle,5.7,5.9,4
+Customer,Oh gitu oke berapa lama ya prosesnya Mbak Ini dari Mbak bisa kan ya,neutral,rising,middle,5.9,8.6,4
+Agent,Bisa Ibu Jadi nanti eh Ibu tinggal menunggu kurang lebih 5 hari kerja seperti itu,neutral,falling,middle,8.6,14.1,4
+Customer,Oh paling 5 hari nanti balik ke rekening saya asal ya,neutral,rising,middle,14.1,17.8,4
+Agent,Iya betul Ibu,neutral,normal,middle,17.8,19.2,4
+Customer,Oh gitu oke oke Mbak,neutral,falling,middle,19.2,21.2,4
+Agent,Baik sebelumnya ada lagi Ibu Nina yang bisa saya bantu,neutral,falling,middle,21.2,25.4,4
+Customer,Eh itu aja Mbak,neutral,falling,middle,25.4,27.1,4
+Agent,Baik terima kasih Ibu Nina sudah menghubungi CIMB Niaga Selamat sore sehat selalu ya Ibu,positive,falling,middle,27.1,32.6,4
+Customer,Iya,neutral,normal,middle,32.6,32.9,4
+Customer,Oke,neutral,normal,middle,32.9,33.4,4
+silence,,neutral,none,none,33.4,34.1,4
+Agent,Halo selamat pagi,neutral,rising,middle,0.0,1.0,5
+Customer,Selamat pagi,neutral,rising,middle,1.0,1.7,5
+Agent,Dengan siapa saya berbicara?,neutral,rising,middle,1.7,2.8,5
+Customer,Nama saya [nama pelanggan],neutral,normal,middle,2.8,4.0,5
+Agent,Baik Pak [nama pelanggan] ada yang bisa saya bantu?,neutral,rising,middle,4.0,5.4,5
+Customer,Iya saya ingin menanyakan tentang [pertanyaan pelanggan],neutral,normal,middle,5.4,7.5,5
+Agent,Baik Pak [nama pelanggan] sebentar ya saya cek dulu,neutral,falling,middle,7.5,9.4,5
+silence,,neutral,none,none,9.4,11.0,5
+Agent,Jadi begini Pak [nama pelanggan] [penjelasan agent],neutral,normal,middle,11.0,14.0,5
+Customer,Oh ya berarti [respon pelanggan],neutral,normal,middle,14.0,15.5,5
+Agent,Betul Pak [nama pelanggan] [penjelasan agent],neutral,normal,middle,15.5,17.5,5
+Customer,Oke terima kasih ya,positive,falling,middle,17.5,19.0,5
+Agent,Sama-sama Pak [nama pelanggan] ada lagi yang ingin ditanyakan?,neutral,rising,middle,19.0,20.8,5
+Customer,Untuk saat ini tidak ada lagi,neutral,normal,middle,20.8,22.5,5
+Agent,Baik Pak [nama pelanggan] kalau begitu saya tutup ya,neutral,falling,middle,22.5,24.5,5
+Customer,Ya silakan,neutral,normal,middle,24.5,25.5,5
+Agent,Terima kasih Pak [nama pelanggan] selamat pagi,neutral,rising,middle,25.5,27.5,5
+Customer,Selamat pagi,neutral,rising,middle,27.5,28.5,5

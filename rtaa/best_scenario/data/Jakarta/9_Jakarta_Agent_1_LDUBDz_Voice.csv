@@ -1,0 +1,92 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Gracella, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.28,1
+Customer,"Iya Mbak Gracella, ini Mbak, saya mau minta bantuan, saya mau pengajuan kenaikan limit kartu kredit saya sementara nih Mbak.",neutral,falling,middle,2.28,8.0,1
+Agent,"Baik, dengan Bapak siapa saya berbicara, Pak?",neutral,falling,middle,8.0,9.64,1
+Customer,Doni Mbak.,neutral,falling,middle,9.64,10.52,1
+Agent,"Bapak Doni, nomor kartu kreditnya silakan disebutkan.",neutral,falling,middle,10.52,13.16,1
+Customer,Nomor kartu kredit saya 5244,neutral,falling,middle,13.16,15.2,1
+Agent,Iya.,neutral,falling,middle,15.2,15.52,1
+Customer,6218,neutral,falling,middle,15.52,16.44,1
+Agent,Iya.,neutral,falling,middle,16.44,16.76,1
+Customer,1124,neutral,falling,middle,16.76,17.68,1
+Agent,Iya.,neutral,falling,middle,17.68,18.0,1
+Customer,3453.,neutral,falling,middle,18.0,18.84,1
+Agent,5244 6218 1124 3453.,neutral,falling,middle,18.84,21.44,1
+Agent,Iya.,neutral,falling,middle,21.44,21.76,1
+Agent,Pin kartu kreditnya masih diingat kan namun jangan disebutkan.,neutral,falling,middle,21.76,25.2,1
+Customer,Masuk.,neutral,falling,middle,25.2,25.88,1
+Agent,"Saya alihkan ke sistem, silakan tekan pin kartu kredit diakhiri dengan tanda pagar ya, Pak.",neutral,falling,middle,25.88,30.6,1
+Customer,Iya.,neutral,falling,middle,30.6,31.16,1
+Agent,Saya alihkan.,neutral,falling,middle,31.16,32.04,1
+silence,,neutral,none,none,32.04,36.36,1
+Agent,Terima kasih. Untuk Bapak Doni ingin kenaikan limitnya di nominal,neutral,falling,middle,36.36,40.84,1
+Customer,"Coba berapa Pak, karena maksimalnya 50% ya Pak?",neutral,rising,middle,0.0,2.04,2
+Agent,"Eh, sekarang kan limit saya itu 50 juta ya Mbak. Saya naik minta naik jadi 70 lah Mbak.",neutral,normal,middle,2.04,6.6,2
+Customer,"Jadi 70 juta. Baik, mohon ditunggu ya.",neutral,falling,middle,6.6,9.0,2
+Agent,Heeh.,neutral,normal,middle,9.0,9.4,2
+Agent,"Baik, sebelum saya proses untuk dari kenaikan limitnya, saya informasikan terlebih dahulu untuk dari maksimal kenaikan limit ini dua kali lembar cetak tagihan ya Pak.",neutral,normal,middle,9.4,18.4,2
+Agent,Saya proses untuk dari kenaikannya tadi 50 juta menjadi 30 eh 70 juta ya.,neutral,normal,middle,18.4,25.4,2
+Customer,Heeh.,neutral,normal,middle,25.4,26.0,2
+Agent,"Baik, ditunggu sebentar.",neutral,falling,middle,26.0,28.4,2
+silence,,neutral,none,none,28.4,32.0,2
+Agent,Bapak Doni terima kasih atas kesabaran yang menunggu. Saya konfirmasi hari ini dengan saya Grasela tanggal 8 Januari 2025 melakukan untuk dari proses kenaikan limit Bapak untuk dari kartu kreditnya ya. Kenaikan limit sementara sudah saya proses menjadi 70 juta. Nanti Bapak boleh cek kembali untuk dari limit kartu kredit Bapak. Ini untuk dari,positive,normal,middle,32.0,59.0,2
+Customer,Prosesnya maksimal 1 kali 24 jam ya Pak?,neutral,falling,middle,0.0,2.02,3
+Agent,Iya Mbak sekelian saya tanya eh pembayaran saya sudah masuk belum Mbak?,neutral,falling,middle,2.02,4.58,3
+Customer,Iya,neutral,normal,middle,4.58,4.82,3
+Agent,Kemarin saya bayar 35.565.000,neutral,falling,middle,4.82,7.14,3
+Customer,Baik kenapa pembayaran di 35.565.000?,neutral,falling,middle,7.14,9.64,3
+Agent,Iya,neutral,normal,middle,9.64,9.86,3
+Customer,Pembayaran di tanggal berapa?,neutral,falling,middle,9.86,11.34,3
+Agent,Kemarin Mbak kemarin,neutral,falling,middle,11.34,12.58,3
+Customer,Per tanggal 7 Januari saya akan pemeriksaan ya mohon ditunggu,neutral,falling,middle,12.58,16.0,3
+Agent,"Baik,  guakan bisa tolong pemeriksaan untuk pembayaran tersebut sudah masuk Pak? Sudah berhasil",neutral,falling,middle,16.0,19.52,3
+Customer,Oh sudah masuk ya? Sudah masuk. Oke Mbak satu lagi dong,neutral,falling,middle,19.52,22.84,3
+Agent,Iya,neutral,normal,middle,22.84,23.04,3
+Customer,Saya ini mau ngerubah eh pengiriman tagihan saya jadi melalui email bisa enggak Mbak?,neutral,falling,middle,23.04,28.2,3
+Agent,Sebelumnya saya lewat dikirim kurir tuh lembar tagihannya,neutral,falling,middle,28.2,31.56,3
+Customer,Iya,neutral,normal,middle,31.56,31.8,3
+Agent,Saya mau dirubah loh lembar tagihan saya dikirim lewat email,neutral,falling,middle,31.8,35.26,3
+Customer,"Baik,  gitu. Baik jika untuk ada perubahannya boleh saya prasat terlebih dahulu? Silahkan disebutkan untuk alamat email Bapak",neutral,falling,middle,35.26,40.84,3
+Customer,Pak alamat email saya ya,neutral,rising,middle,0.0,0.9,4
+Agent,Iya,neutral,rising,middle,0.9,1.2,4
+Customer,Alamat email saya doni@gmail.com,neutral,normal,middle,1.2,2.7,4
+Agent,doni@gmail.com,neutral,normal,middle,2.7,3.5,4
+Agent,Iya,neutral,rising,middle,3.5,3.8,4
+Agent,Nomor handphone silakan disebutkan,neutral,normal,middle,3.8,5.2,4
+Customer,Nomor handphone saya 08 12,neutral,normal,middle,5.2,6.3,4
+Agent,Iya,neutral,rising,middle,6.3,6.6,4
+Customer,1718,neutral,normal,middle,6.6,7.2,4
+Agent,Iya,neutral,rising,middle,7.2,7.5,4
+Customer,3321,neutral,normal,middle,7.5,8.2,4
+Agent,Saya kirimkan kode pasword verifikasi ke nomor handphone yang terdaftar silakan dicek sudah diterima atau belum,neutral,normal,middle,8.2,12.8,4
+Customer,Pasword,neutral,falling,middle,12.8,13.4,4
+Customer,Ya sudah ada nih Pak,neutral,normal,middle,13.4,14.6,4
+Agent,Baik saya alihkan ke sistem silakan nanti ditekan paswordnya setelah instruksi ya Pak,neutral,normal,middle,14.6,18.6,4
+Customer,Oke,neutral,falling,middle,18.6,19.0,4
+Agent,Saya alihkan,neutral,falling,middle,19.0,19.7,4
+silence,,neutral,none,none,19.7,20.8,4
+Agent,Terima kasih saya proses untuk permohonan terlebih dahulu mohon ditunggu sebentar ya,neutral,normal,middle,20.8,26.6,4
+Customer,Iya,neutral,rising,middle,26.6,27.0,4
+silence,,neutral,none,none,27.0,28.2,4
+Agent,Bapak terima kasih atas kesabaran yang menunggu saya konfirmasi hari ini dengan saya gereja selah tanggal 8 jam,neutral,normal,middle,28.2,34.5,4
+Customer,Januari 2025 melakukan perubahan untuk pengiriman tagihan kartu kredit Bapak menjadi ataupun dirubah menjadi email Ini sudah saya terima dengan nomor laporan CBGRE 0108 2025 3473 Proses pelaporan ini membutuhkan waktu maksimal sampai tanggal 10 Januari 2025 di jam kerja ya Pak,neutral,falling,middle,0.0,12.54,5
+Agent,Hmm heeh Baik Ada lagi Mbak,neutral,falling,middle,12.54,15.85,5
+Customer,Nanti untuk bulan depan itu saya sudah lewat email ya Mbak ya,neutral,falling,middle,15.85,19.25,5
+Agent,Benar Jadi untuk bulan berikutnya nanti akan eh dikirimkannya melalui email,neutral,falling,middle,19.25,24.22,5
+Customer,Berarti sudah enggak dikenain biaya peng itu lagi kan ya Mbak biaya yang pengiriman-pengiriman itu,neutral,falling,middle,24.22,30.43,5
+Agent,Iya benar Jadi sudah nanti dimulai per bulan depan akan dikirimkan melalui email dan sudah tidak dikenakan biaya,neutral,falling,middle,30.43,37.74,5
+Customer,Oke Iya untuk yang kenaikan limit tadi itu sudah bisa saya langsung eh Mbak sudah naik limitnya hari ini atau saya harus nunggu lagi,neutral,falling,middle,37.74,46.32,5
+Agent,Untuk dari kenaikan limitnya sudah akan di bantu proses maksimalnya 1 kali 24 jam namun nanti boleh dicoba cek secara berkala ya Pak,neutral,falling,middle,46.32,55.54,5
+Customer,Oh itu bisa cek lewat mana Mbak,neutral,falling,middle,55.54,58.96,5
+Agent,Untuk pengacakannya Bapak bisa langsung gunakan untuk penggunaan kartu kredit biasanya nanti akan bisa langsung digunakan,neutral,normal,middle,0.0,3.69,6
+Customer,Namun untuk dari kenaikan limitnya ini sudah kami langsung proses ajukan biasanya bisa langsung digunakan,neutral,normal,middle,3.69,7.93,6
+Agent,Bisa langsung digunakan gitu ya,neutral,rising,middle,7.93,9.3,6
+Customer,Iya,neutral,normal,middle,9.3,9.7,6
+Customer,Cuma sih eh penginnya nanti malam Bapak saya mau transaksi sih Mbak tapi kalau sudah bisa hari ini ya pasti ya Mbak sudah bisa ya Mbak,neutral,normal,middle,9.7,17.05,6
+Agent,Iya sudah nanti sudah bisa langsung digunakan ya Pak,neutral,normal,middle,17.05,19.75,6
+Customer,Oke oke kalau gitu ya Mbak,neutral,normal,middle,19.75,21.8,6
+Agent,Baik ada lagi yang bisa saya bantu Bapak Doni,neutral,normal,middle,21.8,25.0,6
+Customer,Eh itu aja lah Mbak,neutral,normal,middle,25.0,26.8,6
+Agent,Terima kasih Bapak Doni telah menghubungi Simini aja selamat sore sehat selalu,positive,normal,middle,26.8,31.5,6
+Customer,Iya,neutral,normal,middle,31.5,32.0,6
+silence,,neutral,none,none,32.0,35.3,6

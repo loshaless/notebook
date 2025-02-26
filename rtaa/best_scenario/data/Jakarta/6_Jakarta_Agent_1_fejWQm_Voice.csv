@@ -1,0 +1,119 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasela, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.14,1
+Customer,"Ya, selamat sore Mbak Grasela, ini lho Mbak, saya terima SMS ada transaksi kartu kredit, ini saya enggak ngerasa transaksi ini gimana ya Mbak?",negative,rising,middle,2.14,9.32,1
+Agent,Dengan Bapak siapa yang berbicara?,neutral,falling,middle,9.32,11.2,1
+Customer,Saya dengan Doni Mbak,neutral,falling,middle,11.2,12.92,1
+Agent,"Bapak Doni, silakan sebutkan untuk nomor kartu kreditnya Pak",neutral,falling,middle,12.92,17.12,1
+Customer,Kartu kreditnya 5244,neutral,falling,middle,17.12,19.32,1
+Agent,Iya,neutral,falling,middle,19.32,19.8,1
+Customer,2600,neutral,falling,middle,19.8,21.2,1
+Agent,Iya,neutral,falling,middle,21.2,21.68,1
+Customer,5160,neutral,falling,middle,21.68,23.04,1
+Agent,Iya,neutral,falling,middle,23.04,23.44,1
+Customer,9332,neutral,falling,middle,23.44,24.8,1
+Agent,5244 2600,neutral,falling,middle,24.8,27.2,1
+Customer,Iya,neutral,falling,middle,27.2,27.6,1
+Agent,5160 9332,neutral,falling,middle,27.6,29.6,1
+Customer,Iya,neutral,falling,middle,29.6,30.0,1
+Agent,PIN ATM-nya masih diingat Pak namun jangan disebutkan,neutral,falling,middle,30.0,35.2,1
+Customer,Ingat ingat ingat,neutral,falling,middle,35.2,37.2,1
+Agent,Saya alihkan ke sistem silakan nanti ditekan PIN kartu kreditnya diakhiri dengan tanda pagar ya Pak,neutral,falling,middle,37.2,45.6,1
+Customer,Iya,neutral,falling,middle,45.6,46.0,1
+Agent,Saya alihkan,neutral,falling,middle,46.0,47.6,1
+silence,,neutral,none,none,47.6,51.2,1
+Agent,Terima kasih untuk transaksinya di tanggal berapa?,neutral,falling,middle,51.2,55.6,1
+Customer,Papa,neutral,normal,none,0.0,0.4,2
+Agent,Ini kayaknya hari ini tadi nih eh 24.500.750,neutral,normal,none,0.4,2.2,2
+Customer,24.500.750 rupiah ya?,neutral,rising,none,2.2,3.4,2
+Agent,Iya,neutral,normal,none,3.4,3.7,2
+Customer,Di merchant apa?,neutral,normal,none,3.7,4.4,2
+Agent,Electronic City,neutral,normal,none,4.4,5.1,2
+Customer,Di Electronic City,neutral,normal,none,5.1,5.8,2
+Customer,Silakan pemeriksaan mohon ditunggu ya Pak,neutral,normal,none,5.8,7.4,2
+silence,,neutral,none,none,7.4,8.3,2
+Agent,"Bapak, doni terima kasih atas kesabaran yang menunggu",neutral,normal,none,8.3,10.5,2
+Agent,Ini jika dilakukan pemeriksaan memang ada transaksi di 24.500.750 rupiah,neutral,normal,none,10.5,13.9,2
+Agent,"Jika misalnya Bapak tidak merasa melakukan transaksi tersebut, ini saya bantu ajukan untuk laporan sanggahan transaksi terlebih dahulu",neutral,normal,none,13.9,18.7,2
+Agent,Akan saya kirimkan form untuk detil sanggahan transaksinya ke alamat email,neutral,normal,none,18.7,22.2,2
+Agent,Silakan disebutkan alamat emailnya Pak,neutral,normal,none,22.2,24.0,2
+silence,,neutral,none,none,24.0,25.0,2
+Customer,"Eh, doni@gmail.com",neutral,normal,none,25.0,26.9,2
+Agent,doni@gmail.com?,neutral,rising,none,26.9,28.0,2
+Customer,Iya,neutral,normal,none,28.0,28.4,2
+Agent,"Baik, sudah saya kirimkan boleh dicek terlebih dahulu apakah sudah diterima",neutral,normal,none,28.4,31.3,2
+Customer,terima,neutral,falling,middle,0.0,0.3,3
+Agent,"Ya, sudah diterima ya. Nanti silakan di isi terlebih dahulu untuk dari form tanggan transaksi yang kami kirimkan. Nanti silakan dikirim kembali ke alamat email kami atau di reply saja. Nah nanti untuk dari proses selanjutnya kami sampaikan terlebih dahulu terkait kami ya Pak. Karena jika selaras memang transaksi tersebut tidak dilakukan oleh Bapak langsung nanti akan dilakukan investigasi terlebih dahulu.",neutral,normal,middle,0.4,12.5,3
+Customer,Iya oke Mbak,neutral,falling,middle,12.6,13.5,3
+Agent,Baik. Ini saya buat kan laporannya terlebih dahulu. Mohon ditunggu sebentar ya.,neutral,normal,middle,13.6,17.3,3
+Customer,Iya,neutral,falling,middle,17.4,17.7,3
+silence,,neutral,none,none,17.7,23.3,3
+Customer,Saya Mbak eh ini kayaknya saya juga ada sanggahan di kartu debitnya deh Mbak.,neutral,normal,middle,23.3,28.7,3
+Agent,Iya,neutral,falling,middle,28.8,29.2,3
+Customer,Ini saya enggak eh terima SMS ada di kartu debit saya juga nih.,neutral,normal,middle,29.3,34.5,3
+Agent,Begitu. Nomor kartu debitnya silakan disebutkan.,neutral,normal,middle,34.6,38.5,3
+Customer,Nomor kartu debitnya 5336,neutral,falling,middle,0.0,1.04,4
+Agent,Iya,neutral,falling,middle,1.04,1.36,4
+Customer,6543,neutral,falling,middle,1.36,1.84,4
+Agent,Iya,neutral,falling,middle,1.84,2.08,4
+Customer,6112,neutral,falling,middle,2.08,2.6,4
+Agent,Iya,neutral,falling,middle,2.6,2.84,4
+Customer,8214,neutral,falling,middle,2.84,3.36,4
+silence,,neutral,none,none,3.36,3.72,4
+Agent,5336 6543 6112 8214,neutral,falling,middle,3.72,4.8,4
+Customer,Iya,neutral,falling,middle,4.8,5.04,4
+silence,,neutral,none,none,5.04,5.36,4
+Agent,Ini yang kartu debit nih Pak,neutral,falling,middle,5.36,6.04,4
+Customer,Betul kartu debit ya,neutral,rising,middle,6.04,6.6,4
+Agent,PIN ATM-nya masih diingat tidak Pak,neutral,falling,middle,6.6,7.6,4
+Customer,Masih,neutral,falling,middle,7.6,7.84,4
+Agent,Terima kasih,positive,falling,middle,7.84,8.32,4
+silence,,neutral,none,none,8.32,8.64,4
+Agent,Kalau verifikasi PIN silakan nanti ditekan PIN kartu debitnya diakhiri dengan tanda pagar ya Pak,neutral,falling,middle,8.64,11.48,4
+Customer,Iya,neutral,falling,middle,11.48,11.72,4
+Agent,Saya alihkan,neutral,falling,middle,11.72,12.2,4
+silence,,neutral,none,none,12.2,12.56,4
+Agent,Terima kasih,positive,falling,middle,12.56,13.04,4
+silence,,neutral,none,none,13.04,13.36,4
+Agent,Untuk transaksi di kartu debitnya di tanggal berapa Pak,neutral,falling,middle,13.36,14.32,4
+Customer,Sama tanggal hari ini juga,neutral,falling,middle,14.32,15.04,4
+Agent,Hari ini dengan nominal berapa,neutral,falling,middle,15.04,15.6,4
+Customer,Sama 24.575,neutral,falling,middle,15.6,16.4,4
+Agent,24.575 ya,neutral,rising,middle,16.4,17.04,4
+Customer,Iya,neutral,falling,middle,17.04,17.28,4
+Agent,"Baik, mohon ditunggu.",neutral,falling,middle,0.0,1.2,5
+silence,,neutral,none,none,1.2,2.2,5
+Customer,"Bapak Doni, terima kasih atas kesabarannya menunggu.",positive,falling,middle,2.2,4.8,5
+Agent,"Saya konfirmasi hari ini dengan saya Grace Ella, tanggal 8 Januari 2025.",neutral,falling,middle,4.8,8.6,5
+Customer,"Permintaan untuk dari keluhan Bapak Doni terkait untuk dari ada transaksi yang Bapak merasa tidak mau kan ya, Pak?",neutral,rising,middle,8.6,16.0,5
+Agent,Ini sudah kami buatkan untuk laporan sanggahan transaksinya. Nanti itu kami informasikan sama laporannya terlebih dahulu di Charlie Bravo Golf Romeo Echo 0801 2025 3473.,neutral,falling,middle,16.0,26.8,5
+Customer,Iya.,neutral,falling,middle,26.8,27.6,5
+Agent,Untuk proses pelaporan ini membutuhkan waktu maksimal sampai tanggal 9 Februari 2025 di jam kerja. Dan silakan nanti untuk form yang kami kirimkan melalui email diisi dengan lengkap.,neutral,falling,middle,27.6,38.4,5
+Customer,"Nanti bisa dikirim ke email ya, Pak?",neutral,rising,middle,38.4,41.2,5
+Agent,"Iya, siap, Pak.",positive,falling,middle,41.2,43.6,5
+Agent,"Baik, ada lagi bisa saya bantu?",neutral,rising,middle,43.6,46.4,5
+Customer,Untuk saatnya.,neutral,falling,middle,46.4,48.4,5
+Agent,"Terima kasih Bapak Doni telah menghubungi. Selamat sore, sehat selalu.",positive,falling,middle,48.4,53.6,5
+Customer,Iya.,neutral,falling,middle,53.6,54.4,5
+Agent,"Halo selamat pagi, dengan siapa saya berbicara?",neutral,rising,middle,0.0,2.06,6
+Customer,"Selamat pagi, saya [nama pelanggan]",neutral,falling,middle,2.06,3.3,6
+Agent,"Baik, Ibu [nama pelanggan], ada yang bisa saya bantu?",neutral,rising,middle,3.3,4.63,6
+Customer,"Iya, saya ingin menanyakan tentang pesanan saya dengan nomor pesanan [nomor pesanan]",neutral,falling,middle,4.63,8.43,6
+Agent,"Baik, Ibu [nama pelanggan], saya akan cek pesanan dengan nomor [nomor pesanan]",neutral,falling,middle,8.43,10.9,6
+silence,,neutral,none,none,10.9,11.8,6
+Agent,"Ibu [nama pelanggan], pesanan dengan nomor [nomor pesanan] ini sudah dikirim pada tanggal [tanggal pengiriman], dengan estimasi waktu sampai [estimasi waktu]",neutral,falling,middle,11.8,17.9,6
+Customer,"Oh ya, saya belum menerima pesanan saya sampai sekarang",negative,falling,middle,17.9,20.8,6
+Agent,"Baik, Ibu [nama pelanggan], mohon maaf atas keterlambatannya. Saya akan cek lagi status pengirimannya",neutral,falling,middle,20.8,25.4,6
+silence,,neutral,none,none,25.4,26.4,6
+Agent,"Ibu [nama pelanggan], berdasarkan informasi yang saya dapatkan, pesanan Anda sudah sampai di [lokasi pengiriman] pada tanggal [tanggal pengiriman] dan sedang dalam proses pengiriman",neutral,falling,middle,26.4,34.8,6
+Customer,Tapi saya tidak menerima pesan atau telepon dari kurir,negative,falling,middle,34.8,38.3,6
+Agent,"Baik, Ibu [nama pelanggan], saya akan bantu hubungi kurir untuk memastikan status pengirimannya",neutral,falling,middle,38.3,43.5,6
+silence,,neutral,none,none,43.5,44.4,6
+Agent,"Mohon tunggu sebentar, Ibu [nama pelanggan]",neutral,falling,middle,44.4,47.6,6
+silence,,neutral,none,none,47.6,52.5,6
+Agent,"Ibu [nama pelanggan], saya sudah menghubungi kurir dan mereka menginformasikan bahwa pesanan Anda sudah diantar ke alamat yang tertera di pesanan",neutral,falling,middle,52.5,61.2,6
+Customer,Tapi saya tidak menerima paketnya sama sekali,negative,falling,middle,61.2,64.6,6
+Agent,"Baik, Ibu [nama pelanggan], saya akan bantu cek lagi dengan kurir dan akan menghubungi Anda kembali",neutral,falling,middle,64.6,71.7,6
+Customer,"Baik, terima kasih",neutral,falling,middle,71.7,74.1,6
+Agent,"Sama-sama, Ibu [nama pelanggan]. Saya akan menghubungi Anda kembali",neutral,falling,middle,74.1,79.4,6
+silence,,neutral,none,none,79.4,80.3,6
+Agent,Terima kasih,neutral,falling,middle,80.3,82.1,6

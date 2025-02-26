@@ -1,0 +1,129 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Vira, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.16,1
+Customer,"Halo Mbak Vira, Mbak Vira",neutral,rising,middle,2.16,3.24,1
+Agent,Iya Bu?,neutral,rising,middle,3.24,3.72,1
+Customer,Eh saya mau minta tolong ini Mbak,neutral,falling,middle,3.72,5.36,1
+Customer,Saya mau transaksi pakai kartu kredit saya,neutral,falling,middle,5.36,7.32,1
+Agent,Iya,neutral,falling,middle,7.32,7.68,1
+Customer,Tapi saya enggak terima PIN dari SMS Mbak,negative,falling,middle,7.68,10.32,1
+Agent,"Baik, sebelumnya saya eh berbicara dengan Ibu siapa?",neutral,falling,middle,10.32,12.56,1
+Customer,Dengan Nina,neutral,falling,middle,12.56,13.2,1
+Agent,"Baik, untuk formatnya sudah dipastikan sesuai Bu? Boleh disebutkan?",neutral,falling,middle,13.2,15.72,1
+Customer,Sudah,neutral,falling,middle,15.72,16.08,1
+Agent,"Baik, saya konfirmasikan kembali ya Bu eh untuk SMS-nya itu kan ke 81418",neutral,falling,middle,16.08,19.44,1
+Customer,Iya,neutral,falling,middle,19.44,19.8,1
+Agent,"Formatnya Ibu ketik huruf PIN, P-I-N besar semua, setelah itu empat digit terakhir nomor kartu, pasti tanggal lahirnya, dua angka tanggal lahir, dua angka bulan, empat angka tahun",neutral,falling,middle,19.8,27.6,1
+Customer,"Iya, betul",neutral,falling,middle,27.6,28.68,1
+Agent,Tidak ada kesalahan sama sekali Bu?,neutral,falling,middle,28.68,30.84,1
+Customer,Iya enggak ada Mbak,neutral,falling,middle,30.84,32.16,1
+Agent,"Baik, nomor telepon Ibu yang eh Ibu gunakan untuk SMS pascabayar atau prabayar?",neutral,falling,middle,32.16,36.48,1
+Customer,Eh prabayar sih Mbak,neutral,falling,middle,36.48,38.4,1
+Agent,"Prabayar ya Bu, masih tetap belum dapat SMS ya?",neutral,falling,middle,38.4,41.4,1
+silence,,neutral,none,none,0.0,0.16,2
+Customer,Belum,neutral,falling,middle,0.16,0.42,2
+Agent,Baik,positive,falling,middle,0.42,0.62,2
+Customer,Soal nomor judul sesuai sih di bank,neutral,falling,middle,0.62,1.47,2
+Agent,Baik,positive,falling,middle,1.47,1.73,2
+Agent,Nomor satu kreditnya boleh disebutkan terlebih dahulu?,neutral,rising,middle,1.73,2.81,2
+Customer,Oke,neutral,falling,middle,2.81,2.99,2
+Customer,Eh di 5336,neutral,falling,middle,2.99,3.64,2
+Agent,Iya,neutral,falling,middle,3.64,3.84,2
+Customer,9516,neutral,falling,middle,3.84,4.21,2
+Agent,9516,neutral,falling,middle,4.21,4.54,2
+Customer,3214,neutral,falling,middle,4.54,4.91,2
+Agent,Iya,neutral,falling,middle,4.91,5.11,2
+Customer,7897,neutral,falling,middle,5.11,5.48,2
+Agent,Saya ulang Ibu nomor satu kredit Ibu di 5336,neutral,falling,middle,5.48,6.53,2
+Customer,Iya,neutral,falling,middle,6.53,6.73,2
+Agent,9516,neutral,falling,middle,6.73,7.06,2
+Customer,Heeh,neutral,falling,middle,7.06,7.26,2
+Agent,3214,neutral,falling,middle,7.26,7.59,2
+Customer,Iya,neutral,falling,middle,7.59,7.79,2
+Agent,7897,neutral,falling,middle,7.79,8.12,2
+Customer,Iya,neutral,falling,middle,8.12,8.32,2
+Agent,Baik,positive,falling,middle,8.32,8.52,2
+Agent,Untuk verifikasi data saya tanyakan beberapa hal terlebih dahulu Ibu,neutral,falling,middle,8.52,9.89,2
+Customer,Boleh,neutral,falling,middle,9.89,10.16,2
+Agent,Nama lengkap Ibu kandung?,neutral,rising,middle,10.16,10.88,2
+Customer,Eh Maria,neutral,falling,middle,10.88,11.38,2
+Agent,Nomor telepon yang Ibu eh Ibu yang terdaftar?,neutral,rising,middle,11.38,12.53,2
+Customer,0812,neutral,falling,middle,12.53,12.9,2
+Customer,3456,neutral,falling,middle,12.9,13.37,2
+Agent,Iya,neutral,falling,middle,13.37,13.57,2
+Customer,789,neutral,falling,middle,13.57,13.94,2
+Agent,Limit yang diberikan bank berapa Ibu?,neutral,rising,middle,13.94,14.81,2
+Customer,Limitnya kemarin kayaknya 10 juta,neutral,falling,middle,14.81,15.78,2
+Customer,"Juta, Mbak?",neutral,rising,middle,0.0,0.8,3
+silence,,neutral,none,none,0.8,1.3,3
+Agent,Pengiriman lembar tagihan Ibu terima melalui metode apa?,neutral,falling,middle,1.3,3.6,3
+silence,,neutral,none,none,3.6,4.0,3
+Customer,"Ee, email",neutral,falling,middle,4.0,4.7,3
+Agent,Emailnya boleh disebutkan?,neutral,falling,middle,4.7,5.8,3
+Customer,Emailnya Nina at Nina dot com,neutral,falling,middle,5.8,7.6,3
+Agent,"Baik, terima kasih Ibu Nina. Untuk waktu ini saya cek terlebih dahulu Ibu mohon ditunggu",positive,falling,middle,7.6,11.5,3
+silence,,neutral,none,none,11.5,12.4,3
+Agent,"Ibu Nina, sebelumnya ini ee saya cek juga di sistem kami memang ee belum ada belasan sama sekali. Jadi saya bantu buatkan laporan ya Ibu untuk ee nanti kami laporkan perihal Ibu tidak terima ee PIN-nya melalui SMS ya untuk",neutral,falling,middle,12.4,23.4,3
+Customer,"Untuk, untuk laporan itu maksudnya diapain ya, Mbak?",neutral,rising,middle,23.4,26.9,3
+Agent,"Iya, jadi nanti Ibu ee akan kami buatkan laporan jika tidak terima ee PIN melalui SMS seperti itu nanti akan dilakukan",neutral,falling,middle,26.9,33.9,3
+Agent,pengecekan berkala nanti Ibu bisa screenshot untuk buktinya jika memang tidak ada balasan Ibu dari SMS-nya,neutral,normal,middle,0.0,4.23,4
+Agent,lalu nanti eh biasanya akan dikirimkan eh PIN dari melalui email Ibu seperti itu,neutral,normal,middle,4.23,8.87,4
+Customer,Oh gitu eh ada enggak ada cara lain ya Mbak,neutral,rising,middle,8.87,11.94,4
+Agent,Saat ini belum bisa Ibu untuk eh permintaan PIN hanya bisa melalui SMS sebetulnya,neutral,normal,middle,11.94,17.65,4
+Customer,Oh,neutral,falling,middle,17.65,18.08,4
+Customer,kalau pakai surat atau apa itu enggak ada ya di ATM atau ke cabang,neutral,rising,middle,18.08,22.69,4
+Agent,Kalau dari ATM juga belum bisa Ibu paling nanti eh pengirimannya di sini bisa melalui email Ibu atau nanti bisa dikirim ke alamat Ibu yang terdaftar,neutral,normal,middle,22.69,31.43,4
+Customer,Oh gitu ke email bisa,neutral,rising,middle,31.43,34.46,4
+Customer,Apa tadi ke alamat apa,neutral,rising,middle,34.46,37.14,4
+Agent,Ke alamat email,neutral,normal,middle,37.14,39.02,4
+Customer,Oh alamat email bisa Mbak dikirim ke alamat email,neutral,rising,middle,39.02,43.73,4
+Agent,Saya cek kembali Ibu mau ditulis,neutral,normal,middle,43.73,47.1,4
+Customer,Oh iya oke,neutral,falling,middle,47.1,49.23,4
+Customer,Ibu Nina terima kasih atas kesediaan menunggu eh ini bisa juga melalui email Ibu nanti Ibu eh tinggal memilih ingin dikirim ke email ataupun ke alamat yang terdaftar,neutral,normal,middle,0.0,6.74,5
+Agent,Iya,neutral,normal,middle,6.74,6.94,5
+Customer,Oh gitu boleh melalui email aja yang tadi saya sebutin Mbak,neutral,normal,middle,6.94,10.42,5
+Agent,Baik nanti Ibu juga kirim bukti ya untuk eh tidak terima balasannya supaya nanti akan dilakukan pengecekan terlebih dahulu Ibu dari bagian terkait,neutral,normal,middle,10.42,18.08,5
+Customer,Oke oke kirimnya ke mana Mbak,neutral,normal,middle,18.08,19.78,5
+Agent,Eh kirimnya ke email 14041 scmbniaga.co.id Ibu,neutral,normal,middle,19.78,25.16,5
+Customer,Heeh oke oke,neutral,normal,middle,25.16,27.04,5
+Agent,Baik eh,neutral,normal,middle,27.04,28.12,5
+Customer,Iya nanti eh prosesnya berapa lama Mbak,neutral,normal,middle,28.12,31.42,5
+Agent,Prosesnya eh nanti dari email itu kurang lebih 5 hari kerja Ibu akan melakukan pengecekan terlebih dahulu kendalanya karena apa kalau memang nanti sudah diketahui kendalanya dan memang tetap tidak bisa terima SMS balas eh balasan SMS PIN nanti akan dikirimkan kembali eh PIN sementara,neutral,normal,middle,31.42,48.54,5
+Customer,Oke,neutral,normal,middle,48.54,49.08,5
+Agent,Nanti akan diinformasikan ke Ibu,neutral,normal,middle,49.08,51.62,5
+Customer,Oke,neutral,normal,middle,51.62,52.12,5
+Agent,Baik terima kasih Ibu,positive,falling,middle,52.12,54.52,5
+Customer,Sama-sama,neutral,normal,middle,54.52,55.58,5
+silence,,neutral,none,none,55.58,56.38,5
+Customer,Eh dari tim terkait kamu mau kirim email Ibu?,neutral,falling,middle,0.0,2.0,6
+Agent,Oh gitu ya oke oke.,neutral,falling,middle,2.0,3.1,6
+Customer,Iya betul. Eh sama ini Mbak eh nanti saya tunggu aja untuk ya bendal- PIN-nya nanti saya pingin ini Mbak kartu kredit saya bisa dinaikin limit eh sementara enggak ya buat 1 bulan atau 2 bulan aja gitu Mbak.,neutral,falling,middle,3.1,12.9,6
+Agent,Iya.,neutral,falling,middle,12.9,13.4,6
+Customer,Untuk naik eh untuk naik limit ya Bu?,neutral,rising,middle,13.4,15.8,6
+Agent,Iya naik limit.,neutral,falling,middle,15.8,17.4,6
+Customer,Baik saya cek kembali kartu nya mau ditunggu.,neutral,falling,middle,17.4,20.8,6
+silence,,neutral,none,none,20.8,22.4,6
+Agent,Ibu Nina terima kasih atas kesabaran menunggu kalau untuk kenaikan limit ini masih belum bisa kami cek Ibu karena di sini memang kalau untuk eh pengecekan lebih lanjut perihal kenaikan limit eh dipastikan nasabah verifikasinya harus wajib menggunakan PIN karena kan di sini Ibu ada kendala untuk permintaan PIN ya jadi nanti akan diproses untuk kendala Ibu tidak terima PIN nanti jika sudah Ibu terima PIN nya lalu Ibu ubah di ATM yang menagga nanti Ibu bisa hubungi kami kembali akan,neutral,falling,middle,22.4,52.2,6
+Customer,akan kami melakukan pengecekan untuk eh proses kenaikan limitnya eligible atau tidak,neutral,normal,middle,0.0,2.16,7
+Agent,"Oh gitu, tapi syaratnya apa sih Mbak kalau saya mau ngajuin kenaikan limit? Paling tidak di sini untuk masa keanggotaan Ibu eh ada di 9 bulan, apakah sudah ada di 9 bulan Ibu?",neutral,normal,middle,2.16,7.16,7
+Customer,Sudah sih Mbak,neutral,normal,middle,7.16,7.72,7
+Agent,"Sudah lebih ya? Baik, nanti bisa hubungi kami kembali jika proses eh permintaan PIN-nya itu sudah selesai Ibu",neutral,normal,middle,7.72,12.56,7
+Customer,"Oh gitu, syaratnya itu doang ya? Berarti saya tinggal telepon lagi nanti kalau sudah eh PIN-nya sudah ada gitu ya?",neutral,rising,middle,12.56,18.24,7
+Agent,"Iya, betul minimalnya keanggotaan 9 bulan dan dipastikan kartu kreditnya keadaan normal, tidak ada keterlambatan dan lain-lainnya Ibu, tapi akan dicek lebih lanjut kembali",neutral,normal,middle,18.24,25.28,7
+Customer,"Oh, oke. Eh sama ini Mbak saya mau ngecek juga, ini karena saya PIN-nya enggak bisa jadi saya cobanya transaksinya online. Tadi saya coba transaksi online di Shopee, nominalnya Rp4.356.000, itu sudah masuk belum ya?",neutral,normal,middle,25.28,37.44,7
+Agent,Rp4.356.000 di Shopee ya Ibu?,neutral,normal,middle,37.44,40.96,7
+Customer,"Iya, betul",neutral,normal,middle,40.96,41.92,7
+Agent,"Baik, saya",neutral,normal,middle,41.92,42.8,7
+Customer,Siap tertelit dahulu mau nitip dulu,neutral,falling,middle,0.0,1.1,8
+Agent,Heeh,neutral,falling,middle,1.1,1.5,8
+silence,,neutral,none,none,1.5,2.1,8
+Customer,Hari ini Ibu transaksinya,neutral,falling,middle,2.1,3.0,8
+Agent,Iya baru aja,neutral,falling,middle,3.0,3.5,8
+Agent,Baik ini saya cek sudah berhasil Ibu nominalnya Rp36.000,neutral,falling,middle,3.5,5.6,8
+Customer,Oke nanti baru masuknya ke rekeningan selanjutnya ya Mbak,neutral,rising,middle,5.6,7.5,8
+Agent,Iya betul kurang lebih nanti tertagih dari eh shopping-nya 30 sampai 40 hari kerja,neutral,falling,middle,7.5,10.6,8
+Customer,Oh gitu oh ya sudah oke deh kalau gitu Mbak,neutral,falling,middle,10.6,12.7,8
+Agent,Baik ada lagi Ibu Nina yang bisa saya bantu,neutral,falling,middle,12.7,14.4,8
+Customer,Hmm belum ada Mbak gitu aja,neutral,falling,middle,14.4,15.9,8
+Agent,Baik terima kasih Ibu Nina sudah menghubungi saya miniaga selamat sore sehat selalu Ibu,positive,falling,middle,15.9,19.0,8
+Customer,Iya,neutral,falling,middle,19.0,19.3,8
+silence,,neutral,none,none,19.3,19.9,8
