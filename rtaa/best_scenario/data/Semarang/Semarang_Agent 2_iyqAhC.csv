@@ -1,0 +1,72 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Fanya. Bagaimana saya bisa membantu?,neutral,normal,middle,0.0,2.55,1
+Customer,"Halo, selamat sore Mbak.",neutral,normal,middle,2.55,3.85,1
+Agent,"Iya, dengan Bapak siapa saya berbicara?",neutral,normal,middle,3.85,5.3,1
+Customer,Saya Martupa.,neutral,normal,middle,5.3,5.95,1
+Agent,"Bapak Martupa, perlu hal apa yang bisa dibantu?",neutral,normal,middle,5.95,7.6,1
+Customer,"Begini Mbak, saya itu kan mau tutup kartu ya Mbak.",neutral,normal,middle,7.6,10.5,1
+Agent,"Baik, sudah dibayar tagihan saya Mbak?",neutral,normal,middle,10.5,12.1,1
+Customer,Baik.,neutral,normal,middle,12.1,12.4,1
+Agent,"Baik Bapak Martupa, nomor kartu kreditnya mohon tolong disebutkan.",neutral,normal,middle,12.4,15.7,1
+Customer,5244,neutral,normal,middle,15.7,16.5,1
+Agent,Iya.,neutral,normal,middle,16.5,16.85,1
+Customer,6543,neutral,normal,middle,16.85,17.75,1
+Agent,Iya.,neutral,normal,middle,17.75,18.05,1
+Customer,10000,neutral,normal,middle,18.05,18.8,1
+Agent,Iya.,neutral,normal,middle,18.8,19.1,1
+Customer,8214,neutral,normal,middle,19.1,19.85,1
+Agent,Terima kasih Bapak Martupa.,neutral,normal,middle,19.85,21.55,1
+Agent,Untuk kartu kredit ini apakah sudah dilengkapi dengan PIN?,neutral,normal,middle,21.55,24.5,1
+Customer,Sudah.,neutral,normal,middle,24.5,25.0,1
+Agent,Akan saya alihkan ke sistem untuk verifikasi PIN. Nanti setelah terdengar sukses mau dimasukkan enam PIN kartu kreditnya dan diakhiri dengan tanda pagar ya.,neutral,normal,middle,25.0,31.5,1
+Customer,Heem.,neutral,normal,middle,31.5,32.0,1
+Agent,Saya alihkan.,neutral,normal,middle,32.0,33.0,1
+silence,,neutral,none,none,33.0,34.2,1
+Customer,PIN-nya dimasukkan benar.,neutral,normal,middle,34.2,36.2,1
+Agent,"Terima kasih Bapak Martupa, untuk verifikasi PIN-nya sudah benar.",neutral,normal,middle,36.2,40.0,1
+Customer,Heem.,neutral,normal,middle,40.0,40.5,1
+Agent,"Baik Bapak Martupa, untuk selanjutnya akan kami lakukan pengecekan terlebih dahulu",neutral,normal,middle,40.5,44.6,1
+Customer,Lho ya,neutral,rising,middle,0.0,0.4,2
+silence,,neutral,none,none,0.4,0.8,2
+Customer,Oke Mbak,neutral,falling,middle,0.8,1.4,2
+Agent,Bapak Martupa untuk katung kreditnya apakah terdaftar tagihan rutin bulanan,neutral,falling,middle,1.4,4.1,2
+Customer,Mmm enggak,neutral,falling,middle,4.1,4.9,2
+Agent,Kemudian untuk pembayaran Bapak lakukan di tanggal berapa,neutral,falling,middle,4.9,7.1,2
+Customer,Eh itu saya bayar nya itu eh di tanggal eh 7 eh 7 Mei Mbak,neutral,falling,middle,7.1,10.2,2
+Agent,Baik Bapak Martupa mohon maaf apabila kami lakukan pengecekan di sini,neutral,falling,middle,10.2,13.6,2
+Customer,Itu nominalnya saya bayar 1.735.500,neutral,falling,middle,13.6,17.3,2
+Customer,Itu yang saya bayarkan bagian saya kemarin itu Mbak tanggal 7 Mei itu,neutral,falling,middle,17.3,21.8,2
+Agent,Baik Bapak Martupa kami lakukan pengecekan di sini untuk pembayaran Bapak Martupa itu belum memenuhi syarat dan eh karena pembayaran tersebut itu ada keterlambatan Pak,neutral,falling,middle,21.8,29.6,2
+Agent,Karena jatuh tempo Bapak di tanggal 5 Mei sedangkan Bapak pembayaran di tanggal 7 Mei,neutral,falling,middle,29.6,34.8,2
+Agent,Oleh karena itu penutupan katung belum bisa dilakukan,neutral,falling,middle,34.8,39.1,2
+Customer,Untuk dari bulan,neutral,rising,middle,39.1,39.9,2
+Customer,Oh berarti gimana dong kalau kayak gitu Mbak?,neutral,rising,middle,0.0,1.34,3
+Agent,Nah nanti penutupan kartunya bisa dilakukan setelah siklus selanjutnya,neutral,falling,middle,1.34,3.44,3
+Customer,Kenapa Mbak saya harus menunggu siklus selanjutnya?,neutral,rising,middle,3.44,4.93,3
+Agent,Karena nanti Bapak akan dikenakan bunga keterlambatan dan eh interest atas pembayaran yang tidak penuh tersebut Bapak atau atas eh keterlambatan pembayaran tersebut,neutral,falling,middle,4.93,8.96,3
+Customer,Berarti saya harus menunggu tanggal jatuh tempo berikutnya lagi?,neutral,rising,middle,8.96,11.06,3
+Agent,Iya Bapak menunggu tanggal jatuh tempo berikutnya lagi kemudian apabila ada tagihan Bapak bayarkan secara penuh sebelum tanggal jatuh tempo Nah nanti eh ketika Bapak pembayarannya sudah sesuai sebelum tanggal jatuh tempo Bapak menunggu kembali untuk selanjutnya untuk siklus selanjutnya Ketika siklus selanjutnya sudah eh dibayarkan tagihannya baru Bapak bisa lakukan penutupan kartu,neutral,falling,middle,11.06,21.81,3
+Customer,Berarti saya harus bayar 2 bulan gitu Mbak?,neutral,rising,middle,21.81,23.53,3
+Agent,Iya betul 1 bulan bayar penuh,neutral,falling,middle,23.53,25.09,3
+Customer,Heeh,neutral,falling,middle,0.0,0.3,4
+Customer,dengan tidak melewati tanggal jatuh tempo atau dengan tepat waktu,neutral,normal,middle,0.3,2.1,4
+Customer,Kemudian yang kedua yang bulan selanjutnya juga sama,neutral,normal,middle,2.1,3.9,4
+Customer,baru nanti bisa ditawarkan penutupan Pak,neutral,normal,middle,3.9,5.2,4
+Customer,Seperti itu,neutral,falling,middle,5.2,5.8,4
+silence,,neutral,none,none,5.8,6.3,4
+Customer,Hmm berarti kalau saya mau tutup kartu tadi enggak bisa ya Mbak karena ada,neutral,normal,middle,6.3,9.2,4
+Customer,bunga sama ada keterlambatan nanti di bulan berikutnya gitu ya,neutral,normal,middle,9.2,12.2,4
+Agent,Betul sekali Bapak Martupa,neutral,falling,middle,12.2,13.8,4
+silence,,neutral,none,none,13.8,14.2,4
+Customer,Ooh,neutral,falling,middle,14.2,14.6,4
+Customer,Oh ya,neutral,falling,middle,14.6,15.0,4
+Customer,Ya makin lama lagi dong Mbak kalau kayak gini kan bisa buat kecewa saya ya Mbak,negative,rising,middle,15.0,18.6,4
+Agent,Iya mohon maaf sekali Bapak Martupa karena untuk penutupan kartu syaratnya seperti itu,neutral,falling,middle,18.6,23.6,4
+silence,,neutral,none,none,23.6,24.2,4
+Customer,Ya udah deh kalau begitu Mbak,neutral,falling,middle,24.2,26.1,4
+Agent,Baik ya seperti itu ada hal lain yang bisa dibantu Bapak Martupa?,neutral,rising,middle,26.1,29.7,4
+Customer,Sudah itu aja Mbak tanya,neutral,falling,middle,29.7,31.7,4
+Agent,Baik terima kasih Bapak Martupa telah menghubungi SIA ya,positive,falling,middle,31.7,35.6,4
+Agent,Selamat sore sukses selalu,positive,falling,middle,35.6,38.1,4
+Customer,Heeh,neutral,falling,middle,38.1,38.6,4
+silence,,neutral,none,none,38.6,39.0,4

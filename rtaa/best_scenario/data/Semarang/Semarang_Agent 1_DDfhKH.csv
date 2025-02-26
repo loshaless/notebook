@@ -1,0 +1,41 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Customer,"Selamat sore, agen. Bagaimana saya bisa membantu?",neutral,rising,middle,0.0,2.2,1
+Agent,"Sore, Bu. Dengan Ibu siapa sebelumnya, sebelum bicara?",neutral,falling,middle,2.2,4.4,1
+Customer,Saya dengan Elsa.,neutral,falling,middle,4.4,5.6,1
+Agent,"Baik. Ibu Elsa, ada hal apa yang bisa saya bantu?",neutral,falling,middle,5.6,7.6,1
+Customer,"Nah, saya mau tutup kartu kredit saya dong. Ini banyak banget kayak enggak kepakai juga.",neutral,falling,middle,7.6,12.6,1
+Agent,"Baik, begitu ya Bu. Kita untuk jadi permintaannya di sini saya akan proses. Nomor kartu kreditnya silakan disebutkan Bu.",neutral,falling,middle,12.6,19.0,1
+Customer,5244 5244 6543 6543 10000 10000 8214 8214,neutral,falling,middle,19.0,28.0,1
+Agent,Iya. Baik. Saya akan alihkan Ibu ke sistem untuk verifikasi PIN kartu kreditnya. Nanti silakan tekan PIN kemudian diakhiri dengan tanda pagar ya Bu.,neutral,falling,middle,28.0,37.0,1
+Customer,Oke.,neutral,falling,middle,37.0,38.0,1
+Agent,Baik. Terima kasih Ibu Elsa sudah memasukkan PIN dengan benar ya. Baik Ibu,positive,falling,middle,38.0,45.0,1
+Agent,Oh di sini untuk dari Ibu sebenarnya apakah pembayaran kartu kreditnya sudah dilakukan semuanya Bu?,neutral,rising,middle,0.0,2.02,2
+Customer,Sudah Mbak Sudah ya Baik Ini jika saya cek kalau pembayaran Ibu di bulan ini seperti-nya lebih dari jatuh tempo nya Bu seperti itu sehingga Ibu dikenakan bunga seperti itu Dan untuk dari proses penutupan kartu kreditnya mohon maaf Bu untuk saat ini belum bisa dilakukan Jadi Ibu bisa bisa eh untuk dari penutupan-nya bisa dilakukan di bulan berikutnya,neutral,normal,middle,2.02,11.5,2
+silence,,neutral,none,none,11.5,11.8,2
+Customer,Eh kalau saya eh terlambat itu nanti saya kena bunga atau gimana Mbak?,neutral,rising,middle,11.8,15.54,2
+Agent,Iya Ibu akan dikenakan bunga,neutral,normal,middle,15.54,17.24,2
+Customer,Mmm Bunga sama biaya keterlambatan juga atau gimana Mbak?,neutral,rising,middle,17.24,20.64,2
+Agent,Baik Untuk dari bunga ada yang juga biaya keterlambatan-nya Bu yang dikenakan,neutral,normal,middle,20.64,25.06,2
+Customer,Eh itu maksudnya di bagian bulan depan ya?,neutral,rising,middle,25.06,27.36,2
+Agent,Iya akan ditagihkan di bulan depan Ibu seperti itu,neutral,normal,middle,27.36,30.52,2
+Customer,Oke oke Kalau tutup kartu berarti,neutral,falling,middle,30.52,33.58,2
+Customer,gini kalau misalnya bulan depan saya setelah setelah bayar biaya keterlambatan dan juga bunga berarti saya bisa langsung tutup kartu ya Mbak?,neutral,rising,middle,0.0,7.22,3
+Agent,Betul jadi harus dilunasi semuanya terlebih dahulu baru nanti bisa dilakukan penutupan kartu kreditnya,neutral,falling,middle,7.22,14.66,3
+Customer,Oke untuk penutupan kartu itu saya harus datang ke cabang atau bisa via telepon?,neutral,rising,middle,14.66,21.33,3
+Agent,Baik untuk pengajuan penutupan kartu Ibu bisa melalui telepon 14041,neutral,falling,middle,21.33,28.16,3
+Customer,Oh bisa telepon aja ya?,neutral,rising,middle,28.16,30.42,3
+Agent,Iya betul,neutral,falling,middle,30.42,32.25,3
+Customer,Mmm itu saya setelah bayar bisa langsung telepon atau gimana Mbak bisa langsung tutup atau gimana?,neutral,rising,middle,32.25,40.42,3
+Agent,Baik untuk dari hal tersebut Ibu menunggu prosesnya setelah di hari berikutnya ya Bu ya baru bisa hubungi kami untuk permintannya,neutral,falling,middle,40.42,50.58,3
+Customer,Oh berarti dibayar dulu terus besoknya baru tutup kartu gitu ya?,neutral,rising,middle,50.58,58.0,3
+Agent,Iya betul Bu,neutral,falling,middle,58.0,59.83,3
+Customer,Hmm kalau tutup kartu itu eh bisa,neutral,rising,middle,59.83,63.83,3
+Customer,satu-satu atau semuanya harus ditutup ya Mbak?,neutral,rising,middle,0.0,1.84,4
+Agent,"Baik, ini tergantung permintaan Ibu, jika memang ingin ditutup kartunya semua bisa kami bantu lakukan, tapi jika memang Ibu ingin satu saja yang ditutup itu juga bisa Bu.",neutral,normal,middle,1.84,7.36,4
+Customer,"Oh oke, ya udah, kalau gitu itu dulu aja deh Mbak",neutral,falling,middle,7.36,11.44,4
+Agent,"Baik, ada lain selain itu Bu Sisca yang bisa saya bantu?",neutral,rising,middle,11.44,15.2,4
+Customer,"Enggak ada, itu aja",neutral,falling,middle,15.2,16.96,4
+Agent,"Baik, terima kasih Ibu, ini salam Ibu Siem ini ya, selamat sore sukses selalu ya Bu",positive,falling,middle,16.96,23.04,4
+Customer,Oke,neutral,falling,middle,23.04,23.8,4
+silence,,neutral,none,none,23.8,25.04,4
+Agent,P,neutral,falling,middle,25.04,25.44,4

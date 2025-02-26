@@ -1,0 +1,69 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Cita, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.34,1
+Customer,"Selamat sore Bu, ada yang bisa saya bantu?",neutral,falling,middle,2.34,4.11,1
+silence,,neutral,none,none,4.11,4.7,1
+Customer,Iya saya mau saya ingin Ibu tolong saya dong,neutral,falling,middle,4.7,7.49,1
+Agent,"Baik, dengan Ibu siapa saya berbicara?",neutral,falling,middle,7.49,9.14,1
+Customer,Ibu Kanya,neutral,falling,middle,9.14,9.74,1
+Agent,"Ibu Kanya, apakah tidak sayang untuk pencairan deposito-nya?",neutral,rising,middle,9.74,12.57,1
+Customer,"Iya, karena saya lagi butuh uang",neutral,falling,middle,12.57,14.47,1
+Agent,"Baik, apa bila eh pencairan deposito sebelum tanggal jatuh tempo, maka nanti akan ada pembebanan biaya penalti serta bunga berjalan tidak dibayarkan ya Bu. Apakah tidak sayang?",neutral,falling,middle,14.47,21.48,1
+Customer,"Iya, tapi kalau memang saya lagi butuh uang ya mau gimana lagi?",neutral,falling,middle,21.48,25.16,1
+Agent,"Baik, untuk nominal pencairannya di nominal berapa Ibu?",neutral,falling,middle,25.16,27.47,1
+Customer,"Eh deposito awal itu kemarin 15 juta, eh 15 juta eh 750 ya?",neutral,falling,middle,27.47,32.39,1
+Agent,Iya.,neutral,normal,middle,32.39,32.85,1
+Agent,Baik.,neutral,falling,middle,32.85,33.58,1
+Agent,Untuk alasan ingin dilakukan pencairan eh lebih cepat dari tanggal jatuh temponya karena apa Ibu?,neutral,falling,middle,33.58,38.55,1
+Customer,Karena ada kebutuhan yang mendesak,neutral,falling,middle,38.55,41.07,1
+Agent,Saya akan pengecekan lebih lanjut Untuk nomor kartu kredit nomor kartu ATM atau rekening tabungannya bisa disebutkan,neutral,normal,middle,0.0,4.04,2
+Customer,Nomor kartu ATM ya,neutral,rising,middle,4.04,4.72,2
+Agent,Iya,neutral,normal,middle,4.72,4.92,2
+Customer,Ee 3923,neutral,normal,middle,4.92,5.56,2
+Agent,Iya,neutral,normal,middle,5.56,5.76,2
+Customer,0423,neutral,normal,middle,5.76,6.2,2
+Agent,Iya,neutral,normal,middle,6.2,6.4,2
+Customer,0199,neutral,normal,middle,6.4,6.84,2
+Agent,Iya,neutral,normal,middle,6.84,7.04,2
+Customer,00 00 00 07,neutral,normal,middle,7.04,7.76,2
+Agent,Baik Masih ingat dengan PIN ATM-nya Ibu,neutral,normal,middle,7.76,8.76,2
+Agent,Saya akan ee saya akan alihkan Ibu ke sistem untuk verifikasi PIN Silakan tekan enam digit PIN kartu ATM diakhiri dengan tanda pagar setelah instruksi ya Bu Saya alihkan,neutral,normal,middle,8.76,13.92,2
+silence,,neutral,none,none,13.92,15.24,2
+Agent,Terima kasih Ini saya konfirmasi terlebih dahulu untuk pencairan deposito-nya ya Bu,neutral,normal,middle,15.24,19.04,2
+Agent,Untuk nominal pen nominal penempatannya Rp15.750.750 Kemudian untuk penalti-nya di nominal Rp100.000 Bunga berjalan yang tidak dibayar,neutral,normal,middle,19.04,25.04,2
+Agent,Diayarakan di nominal Rp10.000 sehingga untuk dana yang akan Ibu terima Rp15.650.750,neutral,normal,middle,0.0,3.0,3
+silence,,neutral,none,none,3.0,3.5,3
+Agent,Iya,neutral,normal,middle,3.5,3.9,3
+silence,,neutral,none,none,3.9,4.1,3
+Agent,Apakah Ibu setuju?,neutral,rising,middle,4.1,5.1,3
+silence,,neutral,none,none,5.1,5.5,3
+Customer,Iya setuju,positive,normal,middle,5.5,6.3,3
+silence,,neutral,none,none,6.3,6.8,3
+Agent,"Baik,  apabila Ibu setuju, saya tanyakan beberapa hal terlebih dahulu",neutral,normal,middle,6.8,9.5,3
+silence,,neutral,none,none,9.5,10.2,3
+Agent,Nominal transaksi terakhir yang Ibu lakukan berapa?,neutral,rising,middle,10.2,12.9,3
+silence,,neutral,none,none,12.9,13.5,3
+Customer,"Di rekening tabungannya, Bu?",neutral,rising,middle,13.5,15.3,3
+silence,,neutral,none,none,15.3,15.6,3
+Agent,Ee Rp100.000,neutral,normal,middle,15.6,17.0,3
+silence,,neutral,none,none,17.0,17.5,3
+Agent,"Terima kasih atas informasinya. Saya konfirmasi terlebih dahulu mengenai dari pencairan deposito nya ya, Bu",neutral,normal,middle,17.5,22.3,3
+silence,,neutral,none,none,22.3,22.8,3
+Customer,Iya,neutral,normal,middle,22.8,23.2,3
+silence,,neutral,none,none,23.2,23.6,3
+Agent,"Mohon nanti Ibu ee kata memberikan persetujuan dengan dengan menginformasikan mengerti dan setuju ya, Bu, terkait pencairan deposito nya",neutral,normal,middle,23.6,30.6,3
+silence,,neutral,none,none,30.6,31.2,3
+Customer,"Iya, saya mengerti dan setuju",positive,normal,middle,31.2,33.3,3
+silence,,neutral,none,none,33.3,33.9,3
+Agent,"Terima kasih, saya akan kirimkan kode verifikasi ke nomor handphone Ibu yang terdaftar di bank. Untuk kode verifikasi",neutral,normal,middle,33.9,39.7,3
+Customer,"Sertifikatnya sudah saya kirimkan ya, Bu?",neutral,rising,middle,0.0,1.4,4
+Agent,"Untuk pencairan deposito sudah saya buat kan pelaporan, Bu? Saya konfirmasi hari ini 8 Januari 2025 dengan saya cek, permohonan Ibu untuk pencairan deposito dipercepat sudah kami proses dengan nomor pelaporan Charlie Bravo Golf Romeo Echo 080125001111.",neutral,normal,middle,1.4,10.3,4
+silence,,neutral,none,none,10.3,10.5,4
+Agent,Laporan tersebut membutuhkan penanganan hingga tanggal 9 Januari 2025. Untuk pengecekan laporan bisa melalui layanan WhatsApp CIMB Niaga di nomor 081197814041 dengan menyebutkan nama lengkap dan nomor pelaporan. Untuk nomor laporannya sudah kami kirimkan melalui SMS ke nomor handphone Ibu yang terdaftar di bank.,neutral,normal,middle,10.5,24.9,4
+silence,,neutral,none,none,24.9,25.2,4
+Agent,Untuk saat ini ada lagi?,neutral,rising,middle,25.2,27.0,4
+Customer,Ya bisa saya bantu Ibu,neutral,rising,middle,0.0,1.12,5
+silence,,neutral,none,none,1.12,1.64,5
+Agent,Eh Ibu saya lagi ada di luar,neutral,falling,middle,1.64,3.04,5
+silence,,neutral,none,none,3.04,3.4,5
+Customer,Baik terima kasih telah menghubungi Viniaaga Selamat sore Selamat beraktivitas kembali Ibu,positive,falling,middle,3.4,7.56,5
+silence,,neutral,none,none,7.56,8.12,5

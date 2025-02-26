@@ -1,0 +1,48 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.3,1
+Agent,Selamat sore dengan Naira bagaimana saya bisa membantu,neutral,falling,middle,0.3,1.6,1
+Customer,Sore Mbak Naira,neutral,falling,middle,1.6,2.1,1
+Agent,Sore dengan Ibu siapa sebelum bisa berbicara,neutral,falling,middle,2.1,2.9,1
+Customer,Fitri,neutral,falling,middle,2.9,3.2,1
+Customer,Asalamualaikum,neutral,falling,middle,3.2,3.7,1
+Agent,Baik Ibu Fitri ada apa yang bisa saya bantu,neutral,falling,middle,3.7,4.8,1
+Customer,Oh Mbak saya mau eh cairin deposito saya dong yang di CIMB Niaga,neutral,falling,middle,4.8,6.5,1
+Agent,Baik begitu ya Bu terkait permintannya saya akan verifikasi di data terlebih dahulu Ibu boleh sebutkan untuk nomor di KTP nya,neutral,falling,middle,6.5,9.3,1
+Customer,Oh di KTP saya ya Mbak ya,neutral,falling,middle,9.3,10.2,1
+Agent,Iya Bu,neutral,falling,middle,10.2,10.5,1
+Customer,3323,neutral,falling,middle,10.5,11.1,1
+Customer,0423,neutral,falling,middle,11.1,11.6,1
+Customer,01,neutral,falling,middle,11.6,11.9,1
+Customer,99,neutral,falling,middle,11.9,12.2,1
+Agent,Iya,neutral,falling,middle,12.2,12.4,1
+Customer,Triple 01,neutral,falling,middle,12.4,13.0,1
+Agent,Baik saya akan alihkan Ibu ke sistem untuk verifikasi PIN kartu ATM nanti silakan Ibu Fitri tekan enam digit PIN kartu ATM nya setelah terdengar instruksi kemudian diakhiri dengan tanda pagar Segera ya Bu,neutral,falling,middle,13.0,18.6,1
+Customer,Oke,neutral,falling,middle,18.6,18.9,1
+Agent,"Baik, terima kasih Ibu Fitri, setelah memasukkan PIN dengan benar ya Bu ya?",neutral,falling,middle,0.0,2.12,2
+Customer,Baik,neutral,falling,middle,2.12,2.44,2
+Agent,"Untuk dari pencairan deposito, di sini saya informasikan nanti Ibu akan dikenakan 1% dari nominal penempatan, dan kemudian eh atau minimalnya 100.000",neutral,falling,middle,2.44,6.52,2
+Customer,Hmm,neutral,falling,middle,6.52,6.72,2
+Agent,Untuk deposito Ibu sendiri nominalnya berapa Bu?,neutral,falling,middle,6.72,8.24,2
+Customer,"15 juta 750,75",neutral,falling,middle,8.24,9.56,2
+Agent,"Oke, terus kalau misal gimana Pak?",neutral,falling,middle,9.56,10.96,2
+Customer,"15 juta 750,75",neutral,falling,middle,10.96,12.16,2
+Agent,Untuk nominal depositonya berapa Bu?,neutral,falling,middle,12.16,13.44,2
+Customer,"Eh, nominal deposito saya itu ada di 15 juta 750,75",neutral,falling,middle,13.44,16.96,2
+Agent,"750 ya Bu, baik",neutral,falling,middle,16.96,18.24,2
+Customer,"Iya, itu bisa dicairin semua kan ya, Pak?",neutral,rising,middle,18.24,20.16,2
+Agent,"Baik, untuk nominalnya Ibu sudah menyatakan tadi, bisa Bu. Dan kemudian ini juga saya cek, untuk dari Ibu dikenakannya 100.000 ya untuk penalti, dan bunga berjangka tidak dibayarkan, tidak masalah ya Bu?",neutral,falling,middle,20.16,27.68,2
+Customer,"Oke, berapa lama Pak pencairannya?",neutral,falling,middle,27.68,29.28,2
+Agent,"Baik, kalau proses dari kami 2 hari kerja",neutral,falling,middle,29.28,31.2,2
+silence,,neutral,none,none,31.2,31.68,2
+Customer,"Oke, siap",neutral,falling,middle,31.68,32.8,2
+Agent,"Oke, baik, Ibu Fitri, untuk nomor telepon Ibu sudah tercatat di sini, nanti kami akan hubungi Ibu lagi untuk konfirmasi, dan Ibu akan mendapatkan SMS notifikasi, jika sudah cair nanti akan ada SMS notifikasi lagi, baik. Terima kasih Ibu Fitri, semoga hari Ibu menyenangkan",positive,falling,middle,32.8,42.0,2
+Customer,"Terima kasih, Pak",positive,falling,middle,42.0,43.2,2
+Agent,Sama-sama,neutral,falling,middle,43.2,44.0,2
+Customer,Oke ya udah deh itu dulu aja Pak,neutral,falling,middle,0.0,1.2,3
+Agent,Baik ada lagi yang bisa saya bantu Bu Fitri,neutral,falling,middle,1.2,2.6,3
+Customer,Enggak ada itu aja,neutral,falling,middle,2.6,3.4,3
+Agent,Baik terima kasih ya Bu Fitri telah mau menghubungi kami aja selamat sore semoga selalu sehat,positive,falling,middle,3.4,5.7,3
+Customer,Oke,neutral,falling,middle,5.7,6.0,3
+silence,,neutral,none,none,6.0,6.5,3
+Customer,Baik terima kasih,positive,falling,middle,6.5,7.3,3
+silence,,neutral,none,none,7.3,7.8,3

@@ -1,0 +1,96 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Kita bagaimana saya bisa membantu,neutral,normal,middle,0.0,1.66,1
+silence,,neutral,none,none,1.66,2.18,1
+Customer,Selamat sore Ibu ada yang bisa saya bantu,neutral,normal,middle,2.18,3.08,1
+silence,,neutral,none,none,3.08,3.48,1
+Customer,Iya saya sudah mau mengajukan kenaikan limit sementara dong,neutral,normal,middle,3.48,5.12,1
+Agent,Baik dengan Ibu siapa saya berbicara,neutral,normal,middle,5.12,5.94,1
+silence,,neutral,none,none,5.94,6.44,1
+Customer,Saya akan mengajukan,neutral,normal,middle,6.44,7.0,1
+Agent,Ibu kan ya untuk pengajuan kenaikan limit sementara bisa tolong sebutkan nomor kartunya terlebih dahulu,neutral,normal,middle,7.0,9.64,1
+silence,,neutral,none,none,9.64,10.12,1
+Customer,Nomor kartu saya 5246,neutral,normal,middle,10.12,10.84,1
+Agent,Iya,neutral,normal,middle,10.84,11.02,1
+Customer,6118,neutral,normal,middle,11.02,11.4,1
+Agent,Iya,neutral,normal,middle,11.4,11.58,1
+Customer,1124,neutral,normal,middle,11.58,12.04,1
+Agent,Iya,neutral,normal,middle,12.04,12.2,1
+Customer,3456,neutral,normal,middle,12.2,12.6,1
+Agent,Baik,neutral,normal,middle,12.6,12.82,1
+silence,,neutral,none,none,12.82,13.34,1
+Agent,Apakah kartunya sudah dilengkapi dengan PIN,neutral,normal,middle,13.34,14.32,1
+silence,,neutral,none,none,14.32,14.82,1
+Customer,Sudah sudah,neutral,normal,middle,14.82,15.2,1
+Agent,Jika sudah saya akan alihkan Ibu ke sistem untuk verifikasi PIN terlebih dahulu silakan tekan enam digit PIN diakhiri dengan tanda pagar setelah instruksi ya Bu,neutral,normal,middle,15.2,20.02,1
+Agent,Saya alihkan,neutral,normal,middle,20.02,20.64,1
+silence,,neutral,none,none,20.64,22.04,1
+Agent,Terima kasih Bu untuk PIN-nya sudah sesuai,positive,normal,middle,22.04,23.28,1
+silence,,neutral,none,none,23.28,23.84,1
+Agent,Kenaikan limit sementaranya sendiri Bu ini maksimal,neutral,normal,middle,23.84,25.5,1
+Agent,maksimal di 50% dari total limit eh yang diberikan oleh pihak bank Apakah berkenan,neutral,falling,middle,0.0,2.34,2
+Customer,Iya Pak,positive,normal,middle,2.34,2.65,2
+Agent,Baik Kemudian untuk kebutuhannya sendiri akan digunakan keperluan apa Ibu,neutral,falling,middle,2.65,4.56,2
+Customer,Untuk keluar negeri,neutral,normal,middle,4.56,5.12,2
+Agent,Baik,neutral,normal,middle,5.12,5.38,2
+Customer,Eh kalau limit akun sekarang ini kan 35 juta 500.650.000 eh nanti cicilannya berapa ya Pak,neutral,rising,middle,5.38,10.34,2
+Agent,Baik Di 35 juta,neutral,falling,middle,10.34,11.78,2
+Customer,500,neutral,normal,middle,11.78,12.09,2
+Agent,500,neutral,normal,middle,12.09,12.36,2
+Customer,650.000,neutral,normal,middle,12.36,13.06,2
+Agent,Untuk kenaikan limit sementara yang akan Ibu terima di 17 juta 750.325,neutral,falling,middle,13.06,16.53,2
+Customer,Oh iya Pak,positive,normal,middle,16.53,16.96,2
+Agent,Untuk kenaikan limit sementara berlaku di 2 bulan Ingin dimaksimalkan 2 bulan Ibu,neutral,falling,middle,16.96,20.01,2
+Customer,Iya Pak 2 bulan,positive,normal,middle,20.01,20.69,2
+Agent,Baik Saya proses terlebih dahulu Saya akan kirimkan kode verifikasi ke nama,neutral,falling,middle,20.69,23.77,2
+Customer,handphone yang terdaftar di bank,neutral,normal,middle,0.0,1.0,3
+Customer,untuk kode verifikasi nya sudah saya kirimkan melalui SMS,neutral,normal,middle,1.0,2.8,3
+Customer,apakah sudah diterima Bu?,neutral,rising,middle,2.8,4.0,3
+silence,,neutral,none,none,4.0,4.6,3
+Agent,Baik,neutral,normal,middle,4.6,5.0,3
+silence,,neutral,none,none,5.0,5.6,3
+Agent,Terima kasih kode verifikasi nya sudah sesuai,positive,normal,middle,5.6,7.6,3
+Agent,kemudian untuk kenaikan limit sementara nya ini sudah kami proses Ibu,neutral,normal,middle,7.6,10.6,3
+Agent,Ada lagi yang bisa dibantu?,neutral,rising,middle,10.6,11.9,3
+silence,,neutral,none,none,11.9,12.4,3
+Customer,"Oh iya Mbak, ada lagi Mbak",neutral,normal,middle,12.4,13.8,3
+Customer,ee ini alamat email saya itu kan sudah dapat,neutral,normal,middle,13.8,16.0,3
+Customer,Mbak saya mau ubah data alamat email saya yang di kartu kredit saya boleh?,neutral,rising,middle,16.0,19.3,3
+silence,,neutral,none,none,19.3,19.7,3
+Agent,Baik,neutral,normal,middle,19.7,20.1,3
+Agent,untuk perubahan alamat email saya tanyakan beberapa hal terlebih dahulu ya?,neutral,rising,middle,20.1,23.4,3
+silence,,neutral,none,none,23.4,23.9,3
+Customer,Oke,neutral,normal,middle,23.9,24.4,3
+silence,,neutral,none,none,24.4,24.9,3
+Agent,Apakah pembayaran tagihan terdaftar autodebet dari rekening CIMB Niaga?,neutral,rising,middle,24.9,28.3,3
+silence,,neutral,none,none,28.3,28.9,3
+Customer,Iya Mbak,neutral,normal,middle,28.9,29.7,3
+silence,,neutral,none,none,29.7,30.3,3
+Agent,Terima kasih,positive,normal,middle,30.3,31.0,3
+Agent,"bisa diinformasikan untuk alamat email Ibu yang baru, sekalian di eja ya Bu?",neutral,rising,middle,31.0,34.6,3
+silence,,neutral,none,none,34.6,35.0,3
+Customer,Alamat email saya,neutral,normal,middle,35.0,36.1,3
+Customer,G,neutral,normal,middle,36.1,36.5,3
+Agent,Iya,neutral,normal,middle,36.5,36.9,3
+Customer,Alfa,neutral,normal,middle,36.9,37.5,3
+Agent,Iya,neutral,normal,middle,37.5,37.9,3
+Customer,Nano,neutral,normal,middle,37.9,38.5,3
+Agent,Iya,neutral,normal,middle,38.5,38.9,3
+Customer,dot,neutral,normal,middle,38.9,39.3,3
+Customer,com,neutral,normal,middle,39.3,39.8,3
+Agent,Ya,neutral,normal,middle,0.0,0.2,4
+Customer,Ya,neutral,normal,middle,0.2,0.4,4
+Agent,Ya,neutral,normal,middle,0.4,0.6,4
+Customer,Ya,neutral,normal,middle,0.6,0.8,4
+Agent,Baik,neutral,normal,middle,0.8,1.0,4
+silence,,neutral,none,none,1.0,1.3,4
+Agent,Untuk perubahan alamat email sudah saya buatkan laporan saya konfirmasi hari ini tanggal 8 Januari 2025 dengan se-jika permintaan Ibu untuk perubahan alamat email kami proses dengan nomor laporan Charlie Bravo Golf Romeo Echo 0801 2500 1234 Laporan tersebut membutuhkan penanganan hingga tanggal 9 Januari 2025,neutral,normal,middle,1.3,10.2,4
+silence,,neutral,none,none,10.2,10.5,4
+Agent,Untuk pengecekan laporan bisa melalui layanan WhatsApp CMB Niaga di nomor 0811 978 14041 dengan menyebutkan nama lengkap beserta dengan nomor laporannya Dan untuk nomor laporan sudah kami kirimkan melalui SMS ke nomor handphone Ibu yang terdaftar di bank ya Bu,neutral,normal,middle,10.5,18.3,4
+silence,,neutral,none,none,18.3,18.6,4
+Agent,Dan sebagai tambahan informasi untuk kenaikan limit sementaranya membutuhkan waktu di eh,neutral,normal,middle,18.6,21.7,4
+Customer,maksimalkah dua hari kerja Ibu,neutral,falling,middle,0.0,1.5,5
+Agent,iya Pak,neutral,falling,middle,1.5,2.0,5
+Customer,Ada lagi yang bisa dibantu Bu,neutral,rising,middle,2.0,3.1,5
+Agent,Ada Pak,neutral,falling,middle,3.1,3.6,5
+Customer,Baik terima kasih Bu kalau memang tidak ada lagi yang ingin saya tanyakan selamat sore selamat beraktivitas kembali Bu,positive,falling,middle,3.6,8.6,5
+Agent,P,neutral,none,none,8.6,8.7,5

@@ -1,0 +1,64 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fanny, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.0,1
+Customer,"Halo, selamat sore, Mbak.",neutral,falling,middle,2.0,3.2,1
+Agent,"Iya, dengan Bapak, siapa saya berbicara?",neutral,falling,middle,3.2,4.6,1
+Customer,Saya Martupa.,neutral,falling,middle,4.6,5.5,1
+Agent,"Bapak Martupa, perihal apa yang bisa dibantu?",neutral,falling,middle,5.5,7.4,1
+Customer,"Eh, saya mau mengajukan, Mbak, eh, pengajuan kenaikan limit kartu kredit saya, Mbak, yang sementara. Boleh enggak?",neutral,rising,middle,7.4,14.1,1
+Agent,"Bapak Martupa, untuk pengajuan kenaikan limit sementara, akan kami lakukan pengecekan terlebih dahulu. Nomor kartu kreditnya boleh tolong disebutkan?",neutral,falling,middle,14.1,21.9,1
+Customer,5244,neutral,falling,middle,21.9,23.1,1
+Agent,Iya.,neutral,falling,middle,23.1,23.5,1
+Customer,6218,neutral,falling,middle,23.5,24.5,1
+Agent,Iya.,neutral,falling,middle,24.5,24.9,1
+Customer,1124,neutral,falling,middle,24.9,25.8,1
+Agent,Iya.,neutral,falling,middle,25.8,26.2,1
+Customer,3453,neutral,falling,middle,26.2,27.2,1
+Agent,"Terima kasih Bapak Martupa. Untuk kartu tersebut, apakah sudah dilengkapi dengan PIN?",neutral,falling,middle,27.2,31.8,1
+Customer,Sudah.,neutral,falling,middle,31.8,32.5,1
+Agent,"Akan saya alihkan ke sistem untuk verifikasi PIN. Nanti setelah terdengar instruksi, mohon Bapak tekan enam PIN kartunya dan diakhiri dengan tanda pagar, ya.",neutral,falling,middle,32.5,42.0,1
+Customer,Hmm.,neutral,falling,middle,42.0,42.7,1
+Agent,Saya alihkan.,neutral,falling,middle,42.7,44.2,1
+silence,,neutral,none,none,44.2,46.8,1
+Agent,Ini sudah masukkan benar.,neutral,falling,middle,46.8,49.2,1
+Customer,"Terima kasih Bapak Martupa, untuk PIN kartu kreditnya sudah benar.",neutral,falling,middle,49.2,54.9,1
+Customer,Hmm.,neutral,falling,middle,54.9,55.5,1
+Agent,"Untuk selanjutnya akan kami lakukan pengecekan terlebih dahulu, mau ditunggu sebentar ya?",neutral,rising,middle,0.0,2.24,2
+Customer,Heeh,neutral,normal,middle,2.24,2.56,2
+Agent,"Bapak Martupa, terima kasih kesediaannya menunggu, apabila kami lakukan pengecekan di sini, untuk",neutral,normal,middle,2.56,5.76,2
+Agent,"kenaikan limit kartu kredit sementara Bapak belum bisa diajukan Pak, atau di sini belum eligible.",neutral,falling,middle,5.76,9.04,2
+Customer,"Oh, gitu. Kalau pun misalnya dia eligible Pak itu saya mau tahu Pak itu maksimalnya berapa Pak ya? Soalnya limit saya itu kan seratus juta.",neutral,rising,middle,9.04,15.52,2
+Agent,Iya.,neutral,normal,middle,15.52,15.84,2
+Agent,"Baik, untuk kenaikan limit sementara itu maksimalnya di 50% dari limit sebelumnya.",neutral,normal,middle,15.84,20.4,2
+Agent,"Apabila Bapak memiliki limit Rp100 juta, maka untuk maksimal kenaikannya hanya di Rp50 juta saja Pak, seperti itu.",neutral,falling,middle,20.4,27.2,2
+Customer,"Oh, oke, gini sih Mbak, tapi kalau memang aku eligible Mbak, aku mau nominalnya Rp35.565.000 itu boleh enggak?",neutral,rising,middle,27.2,36.8,2
+Agent,Boleh Bapak.,positive,normal,middle,36.8,38.4,2
+Customer,"Oh, kalau maksimalnya tadi Rp50 juta ya?",neutral,rising,middle,38.4,41.6,2
+Agent,"Iya, yang terpenting tidak melebihi",neutral,normal,middle,41.6,44.8,2
+Customer,"Mmm, Mbak, aku mau nanya lagi, Mbak. Itu kan eh kan kalau saya dikirimkan lembar tagihan itu kan ada biayanya, Mbak, karena lewat kertas-kertas gitu. Kalau saya mau lembar tagihannya dikirimkan eh lewat email, Mbak, kalau ingin daftar e-statement?",neutral,rising,middle,0.0,10.36,3
+Agent,"Hmm. Bisa, Bapak Martupa. Nanti untuk pendaftaran e-statement bisa melalui contact center juga, bisa kami bantu, Bapak.",positive,falling,middle,10.36,19.28,3
+Customer,"Hmm, diproses saja, Mbak, boleh? Tolong.",neutral,falling,middle,19.28,23.56,3
+Agent,"Boleh. Ya, di sini akan saya tanyakan eh mohon maaf, boleh disebutkan untuk alamat email-nya, Pak?",neutral,falling,middle,23.56,31.36,3
+Customer,"Oh, alamat email saya itu eh martupaen@gmail.com.",neutral,falling,middle,31.36,38.36,3
+Agent,"Baik, terima kasih.",positive,falling,middle,38.36,40.92,3
+Customer,Heeh.,neutral,falling,middle,40.92,42.12,3
+Customer,"Kalau saya saja, Mbak, itu dia mama alfa romeo tango ultra papa alfa november 05@gmail.com, Mbak.",neutral,falling,middle,42.12,56.96,3
+Agent,"Baik, terima kasih, Bapak Martupa.",positive,falling,middle,56.96,61.64,3
+Customer,Heeh.,neutral,falling,middle,61.64,62.84,3
+Agent,Kemudian untuk pendaftaran e-statement,neutral,falling,middle,62.84,67.52,3
+Agent,"Mbak, ini nanti akan kami bantu buatkan pelaporan terlebih dahulu ya.",neutral,falling,middle,0.0,2.32,4
+Customer,Heeh.,neutral,falling,middle,2.32,2.56,4
+Agent,Mohon ditunggu sebentar Bapak Martupa.,neutral,falling,middle,2.56,3.76,4
+Customer,Heeh.,neutral,falling,middle,3.76,3.96,4
+silence,,neutral,none,none,3.96,5.16,4
+Agent,"Mbak, itu kenapa kali ini saya itu enggak bisa diproses Mbak sekarang?",neutral,rising,middle,5.16,8.16,4
+Agent,Saat ini mohon maaf belum bisa diproses Bapak.,neutral,falling,middle,8.16,10.64,4
+Customer,"Mmm, oke deh.",neutral,falling,middle,10.64,11.52,4
+Customer,"Ya udah Mbak, bagian saya ini aja eh statement saya daftarin aja.",neutral,falling,middle,11.52,15.2,4
+Agent,"Baik, untuk",neutral,falling,middle,15.2,16.0,4
+Agent,"pendaftaran e-statement sudah kami bantu proses Pak, saya konfirmasi pada hari ini tanggal 8 Januari 2025. Untuk pelaporan pendaftaran e-statement kami terima dengan nomor pelaporan 2501 2003",neutral,falling,middle,16.0,26.0,4
+Customer,Heeh.,neutral,falling,middle,26.0,26.4,4
+Agent,2400.,neutral,falling,middle,26.4,27.6,4
+Customer,"Mmm, oke deh kalau gitu Mbak.",neutral,falling,middle,27.6,29.6,4
+Agent,Terima kasih. Ada lagi yang bisa dibantu Bapak Martupa?,neutral,rising,middle,29.6,33.6,4
+Customer,"Sudah, itu aja.",neutral,falling,middle,33.6,35.6,4
+Agent,"Baik, jika seperti itu. Terima kasih Bapak Martupa telah menghubungi SIA e-Biniaga. Selamat sore, semoga selalu Bapak.",positive,falling,middle,35.6,44.4,4

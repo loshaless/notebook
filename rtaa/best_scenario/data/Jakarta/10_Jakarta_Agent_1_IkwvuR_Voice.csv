@@ -1,0 +1,62 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasela, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.22,1
+Customer,Selamat sore Mbak Grasela,neutral,falling,middle,2.22,3.17,1
+Agent,"Sore Pak, silakan ada bisa saya bantu?",neutral,rising,middle,3.17,4.24,1
+Customer,"Ini lho Mbak, saya minta bantuan buat eh pembatalan kredit protektor",neutral,falling,middle,4.24,7.27,1
+Agent,Begitu dengan Bapak siapa saya berbicara?,neutral,falling,middle,7.27,8.49,1
+Customer,Doni Mbak,neutral,falling,middle,8.49,9.06,1
+Agent,"Bapak Doni, nomor kartu ATM-nya silakan sebutkan Pak",neutral,falling,middle,9.06,10.91,1
+Customer,Yang kredit protektornya kartu kredit Mbak,neutral,falling,middle,10.91,12.16,1
+Agent,Maaf kartu kreditnya maaf?,neutral,rising,middle,12.16,13.02,1
+Customer,Iya kartu kredit 5336,neutral,falling,middle,13.02,14.01,1
+Agent,Iya,neutral,falling,middle,14.01,14.23,1
+Customer,9334,neutral,falling,middle,14.23,14.67,1
+Agent,Iya,neutral,falling,middle,14.67,14.88,1
+Customer,4789,neutral,falling,middle,14.88,15.32,1
+Agent,Iya,neutral,falling,middle,15.32,15.54,1
+Customer,1456,neutral,falling,middle,15.54,15.98,1
+Agent,5336 9334 4789 1456,neutral,falling,middle,15.98,17.49,1
+Agent,Iya,neutral,falling,middle,17.49,17.7,1
+Agent,PIN-nya masih diingat namun jangan disebutkan,neutral,falling,middle,17.7,19.3,1
+Customer,PIN ingat,neutral,falling,middle,19.3,19.85,1
+Agent,"Saya alihkan ke sistem, silakan nanti tekan PIN kartu kreditnya diakhir dengan tanda pagar ya Pak",neutral,falling,middle,19.85,23.17,1
+Customer,Siap,neutral,falling,middle,23.17,23.52,1
+Agent,Saya alihkan,neutral,falling,middle,23.52,24.19,1
+silence,,neutral,none,none,24.19,24.99,1
+silence,,neutral,none,none,0.0,0.2,2
+Customer,Terima kasih,positive,falling,middle,0.2,0.8,2
+Customer,"Bapak Doni untuk dari pembatalan kartu kredit, karena apa Pak tidak disayangkan?",neutral,falling,middle,0.8,3.5,2
+silence,,neutral,none,none,3.5,3.8,2
+Customer,"Hmm, enggak pakai juga sih buat apa kredit kartu, eh",neutral,falling,middle,3.8,6.2,2
+Agent,"Oh gitu ya, baik ini saya proses terlebih dahulu mohon ditunggu sebentar ya Pak",neutral,falling,middle,6.2,9.5,2
+Customer,Iya boleh,positive,falling,middle,9.5,10.5,2
+silence,,neutral,none,none,10.5,11.6,2
+Agent,"Bapak terima kasih atas kesabarannya telah menunggu, saya konfirmasi hari ini dengan saya Gracella tanggal 8 Januari 2025 melakukan permintaan Bapak Doni untuk pembatalan kredit BriDirect pada kartu kredit Bapak ya Pak, berarti dari kartu kredit tersebut sudah tidak ada perlindungan kembali untuk dari kartu kreditnya, untuk proses pelaporan ini sudah saya buat kan nomor laporannya di CBGR E 080120253078, proses pelaporannya memerlukan waktu maksimal sampai tanggal 10 Januari 2025 di jam kerja ya Pak",neutral,falling,middle,11.6,34.5,2
+Customer,"Oke sip, oke Mbak sekalian ini saya pembayaran saya sudah masuk belum ya kemarin ini?",neutral,falling,middle,34.5,40.5,2
+Customer,Itu saya bayar 2.730.000,neutral,normal,middle,0.0,1.25,3
+Customer,2.730.000,neutral,normal,middle,1.25,2.0,3
+Agent,Iya,neutral,normal,middle,2.0,2.3,3
+Customer,Pembayaran di tanggal berapa?,neutral,rising,middle,2.3,3.0,3
+Agent,"Sore, sih. Saya kemarin sore saya bayar.",neutral,normal,middle,3.0,4.2,3
+Customer,Kemarin sore di tanggal 7 Januari ya?,neutral,rising,middle,4.2,5.4,3
+Agent,"Iya, jadi pakai Oto Mobile. Iya, sudah masuk belum ya?",neutral,normal,middle,5.4,6.9,3
+Customer,"Kalau kami periksa di Tunggal Sentar ya, Pak?",neutral,rising,middle,6.9,8.1,3
+Agent,Iya.,neutral,normal,middle,8.1,8.3,3
+Agent,"Bapak terima kasih atas kesabarannya menunggu untuk pembayaran di tanggal 7 Januari di 2.730.000 ini sudah berhasil masuk, Pak?",positive,normal,middle,8.3,12.0,3
+Customer,"Sudah masuk ya, Mbak? Sudah nama limit saya ya?",neutral,rising,middle,12.0,13.5,3
+Agent,Iya.,neutral,normal,middle,13.5,13.8,3
+Agent,"Iya, benar.",neutral,normal,middle,13.8,14.4,3
+Customer,"Berarti sudah bisa saya pakai kartunya ya, Mbak?",neutral,rising,middle,14.4,15.8,3
+Agent,"Benar, sudah bisa digunakan seperti biasa ya, Pak.",neutral,normal,middle,15.8,17.2,3
+Customer,"Itu sudah batasan kredit protektor saya, berarti bulan depan saya sudah enggak ada eh, di debit buat kredit protektor ya, Mbak?",neutral,rising,middle,17.2,20.5,3
+Agent,"Benar. Untuk data saat ini sudah kami bujukkan untuk laporan pembatalan proses dan dari kerja. Maka nanti jika memang sudah berhasil, di bulan berikutnya Bapak sudah tidak ada eh, kredit protektor di kartu kredit tersebut.",neutral,normal,middle,20.5,26.3,3
+Customer,Oke.,neutral,normal,middle,26.3,26.7,3
+Customer,Sudah deh kalau gitu,neutral,falling,middle,0.0,0.8,4
+Agent,Baik,positive,normal,middle,0.8,1.0,4
+Customer,Banyak ya Mbak,neutral,falling,middle,1.0,1.7,4
+Agent,"Baik, kalau lagi bisa saya bantu Bapak Doni",positive,normal,middle,1.7,3.1,4
+Customer,Oh itu aja,neutral,falling,middle,3.1,3.8,4
+Agent,"Terima kasih Bapak Doni telah menghubungi Seme Niagara, selamat sore sehat selalu",positive,normal,middle,3.8,6.3,4
+Customer,"Iya, selamat sore Mbak",positive,normal,middle,6.3,7.3,4
+silence,,neutral,none,none,7.3,7.9,4
+Customer,P,neutral,falling,middle,7.9,8.2,4

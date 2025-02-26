@@ -1,0 +1,45 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Cika, bagaimana saya bisa membantu?",neutral,rising,middle,0.0,2.23,1
+Customer,"Selamat sore Mbak Cika, aku minta tolong untuk blokir kartu debit Mbak.",neutral,rising,middle,2.23,5.83,1
+Agent,"Baik, dengan Ibu siapa saya berbicara?",neutral,rising,middle,5.83,7.31,1
+Customer,Saya sendiri Mbak,neutral,falling,middle,7.31,8.36,1
+Agent,Untuk otomobilnya sendiri ingin dilakukan pemblokiran karena apa Bu?,neutral,rising,middle,8.36,12.29,1
+Customer,Karena telepon saya hilang Mbak,negative,falling,middle,12.29,14.34,1
+Agent,"Baik, untuk pemblokiran kartu bisa di Mohon maaf untuk pemblokiran otomobil bisa diinformasikan nomor kartu ATM atau nomor rekeningnya?",neutral,rising,middle,14.34,20.93,1
+Customer,Nomor kartu ATM ku 5248,neutral,falling,middle,20.93,23.12,1
+Agent,5248,neutral,falling,middle,23.12,23.81,1
+Customer,6218,neutral,falling,middle,23.81,24.62,1
+Agent,Iya,neutral,falling,middle,24.62,24.97,1
+Customer,1288,neutral,falling,middle,24.97,25.77,1
+Agent,Iya,neutral,falling,middle,25.77,26.12,1
+Customer,38214,neutral,falling,middle,26.12,27.22,1
+Agent,"Saya lakukan pemblokiran terlebih dahulu, mohon ditunggu sebentar ya Bu?",neutral,rising,middle,27.22,31.46,1
+Customer,Iya,neutral,falling,middle,31.46,32.13,1
+silence,,neutral,none,none,32.13,33.37,1
+Customer,Ibu,neutral,falling,middle,0.0,0.2,2
+Agent,Iya,neutral,falling,middle,0.2,0.4,2
+Agent,"Terima kasih telah bersabar menunggu, saya konfirmasi hari ini tanggal 8 Januari 2025 dengan saya, cita, permintaan Ibu untuk pemblokiran otomotif karena handphone-nya hilang sudah kami proses",neutral,normal,middle,0.5,5.0,2
+Agent,Ada lagi yang saya bisa bantu Ibu?,neutral,rising,middle,5.0,6.1,2
+Customer,Eh terakhir sebelum otomotif eh sebelum handphone saya hilang ada saldo saya Rp1.500.000 itu masih ada enggak ya Mbak?,neutral,rising,middle,6.2,11.1,2
+Agent,"Untuk pengecekan saldo saya tanyakan Bu, eh silakan verifikasi data terlebih dahulu, masih ingat dengan PIN ATM-nya Ibu?",neutral,normal,middle,11.2,16.8,2
+Customer,Masih ingat Mbak,neutral,falling,middle,16.9,18.0,2
+Agent,"Baik, saya akan alihkan ke",neutral,falling,middle,18.1,19.3,2
+Agent,sistem untuk verifikasi PIN terlebih dahulu silakan tekan enam digit PIN kartu ATM setelah instruksi saya alihkan ya bu,neutral,falling,middle,0.0,5.62,3
+silence,,neutral,none,none,5.62,6.28,3
+Customer,baik,neutral,falling,middle,6.28,6.64,3
+silence,,neutral,none,none,6.64,7.3,3
+Agent,selaku Ibu di hari ini tanggal 28 Januari 2025 ada nominal 14.500 ya bu,neutral,falling,middle,7.3,12.51,3
+silence,,neutral,none,none,12.51,13.07,3
+Customer,sebentar masih ada ya pak ya,neutral,falling,middle,13.07,14.2,3
+silence,,neutral,none,none,14.2,14.65,3
+Agent,iya Ibu,neutral,falling,middle,14.65,15.17,3
+silence,,neutral,none,none,15.17,15.54,3
+Customer,ada lain yang bisa dibantu bu,neutral,falling,middle,15.54,16.74,3
+silence,,neutral,none,none,16.74,17.18,3
+Agent,baik terima kasih Ibu karena telah menghubungi selamat sore selamat beraktivitas kembali,positive,falling,middle,17.18,21.46,3
+silence,,neutral,none,none,21.46,21.96,3
+Customer,iya,neutral,falling,middle,21.96,22.28,3
+silence,,neutral,none,none,22.28,22.65,3
+Customer,bole boleh,neutral,falling,middle,22.65,23.19,3
+silence,,neutral,none,none,23.19,23.7,3
+Agent,pp,neutral,falling,middle,23.7,24.11,3

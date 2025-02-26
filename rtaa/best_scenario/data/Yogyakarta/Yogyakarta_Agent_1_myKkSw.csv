@@ -1,0 +1,107 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Cita bagaimana saya bisa membantu,neutral,normal,middle,0.0,1.46,1
+Customer,"Selamat sore Mbak, saya mau berbelanja online",neutral,normal,middle,1.46,3.12,1
+Agent,Selamat sore Ibu ada yang bisa dibantu,neutral,normal,middle,3.12,4.04,1
+Customer,Saya mau berbelanja online,neutral,normal,middle,4.04,4.96,1
+Agent,Baik dengan Ibu siapa saya berbicara,neutral,normal,middle,4.96,5.96,1
+Customer,"Saya, [unclear]",neutral,normal,middle,5.96,6.6,1
+Agent,Ibu [unclear] untuk melakukan penutupan kartu bisa disebutkan nomor kartu kreditnya,neutral,normal,middle,6.6,9.0,1
+Customer,Nomor kreditnya 5643 44,neutral,normal,middle,9.0,10.52,1
+Agent,Iya,neutral,normal,middle,10.52,10.76,1
+Customer,5643,neutral,normal,middle,10.76,11.2,1
+Agent,Iya,neutral,normal,middle,11.2,11.44,1
+Customer,1000 00,neutral,normal,middle,11.44,12.12,1
+Agent,Iya,neutral,normal,middle,12.12,12.36,1
+Customer,44 44,neutral,normal,middle,12.36,12.8,1
+Agent,Baik apakah kartu Ibu sudah dilengkapi dengan PIN,neutral,normal,middle,12.8,14.4,1
+Customer,Sudah Mbak,neutral,normal,middle,14.4,15.0,1
+Agent,Jika sudah saya akan alihkan ke sistem untuk verifikasi PIN silakan tekan enam digit PIN kartu diakhiri dengan tanda pagar setelah instruksi ya Bu,neutral,normal,middle,15.0,20.0,1
+Customer,Iya,neutral,normal,middle,20.0,20.24,1
+Agent,Saya alihkan,neutral,normal,middle,20.24,20.8,1
+silence,,neutral,none,none,20.8,28.4,1
+Agent,"Terima kasih Bu, karena untuk PIN-nya sudah sesuai silakan pengacakan terlebih dahulu untuk proses penutupan kartunya ya Bu",neutral,normal,middle,28.4,34.16,1
+Customer,Iya,neutral,normal,middle,34.16,34.4,1
+Customer,"Ibu, kan?",neutral,rising,middle,0.0,0.4,2
+Agent,Setelah saya akan penutup eh setelah setelah saya akan pengecekan untuk penutupan kartunya ini belum bisa kami proses,neutral,normal,middle,0.4,2.6,2
+silence,,neutral,none,none,2.6,3.0,2
+Customer,"Ini tetap normal aja, tapi nanti saya tulis surat nanti saya hubungi Excel lagi untuk konfirmasi",neutral,normal,middle,3.0,6.8,2
+silence,,neutral,none,none,6.8,7.2,2
+Customer,"Ibu, kan?",neutral,rising,middle,7.2,7.6,2
+Agent,Setelah saya akan pengecekan untuk pembayaran tagihan Ibu ini melebihi dari tanggal jatuh tempo sehingga untuk di bulan di tagihan bulan berikutnya akan muncul denda keterlambatan beserta dengan bunga ya Bu,neutral,normal,middle,7.6,15.2,2
+silence,,neutral,none,none,15.2,15.6,2
+Customer,Jadi ini untuk penutupan kartu bisa dijalanin enggak?,neutral,rising,middle,15.6,18.2,2
+Agent,Untuk penutupan kartu bisa kami proses Ibu,neutral,normal,middle,18.2,19.8,2
+silence,,neutral,none,none,19.8,20.2,2
+Customer,Oh iya,neutral,falling,middle,20.2,20.6,2
+silence,,neutral,none,none,20.6,21.0,2
+Customer,Tapi aku tak mau dihapusin eh aku tak mau dihapusin,negative,normal,middle,21.0,23.4,2
+Customer,Ini yang bisa dihilangkan sama yang enggak usah dibayar kan ya Mbak?,neutral,rising,middle,0.0,2.13,3
+Agent,Baik. Untuk bunga beserta denda yang akan muncul,neutral,normal,middle,2.13,4.26,3
+Agent,setelah tanggal cetak tagihan nanti bisa diajukan penghapusannya ya Bu?,neutral,falling,middle,4.26,6.96,3
+Customer,Oh iya Mbak. Kalau misalkan aku ada tagihan satu juta tujuh ratus tiga puluh lima lima ratus nanti minta tolong dihapusin ya Mbak?,neutral,rising,middle,6.96,12.92,3
+Agent,Bu untuk tagihan yang 1.735.500 ini tetap harus dibayarkan terlebih dahulu.,neutral,normal,middle,12.92,18.33,3
+Customer,Oh iya Mbak. Nanti aku bayarin ya.,neutral,falling,middle,18.33,20.28,3
+Customer,Ibu apakah sudah akan mulai?,neutral,rising,middle,0.0,1.16,4
+Agent,Baik silakan Ibu bayarkan terlebih dahulu,neutral,falling,middle,1.16,2.56,4
+Customer,Iya ini sudah saya bayarin Pak,neutral,falling,middle,2.56,3.72,4
+Agent,Baik saya cek ya Bu,neutral,falling,middle,3.72,4.36,4
+silence,,neutral,none,none,4.36,5.0,4
+Agent,Untuk pembayarannya sudah masuk ya Bu?,neutral,rising,middle,5.0,6.16,4
+Customer,Sudah,neutral,falling,middle,6.16,6.56,4
+Agent,Ada lagi yang bisa dibantu?,neutral,rising,middle,6.56,7.4,4
+silence,,neutral,none,none,7.4,8.0,4
+Customer,"Eh saya mau tanya, saya mau aktifkan kartu sim saya malam hari ini Pak",neutral,falling,middle,8.0,10.12,4
+Agent,Ini saya proses terlebih dahulu saya kirimkan kode verifikasi ke nomor handphone Ibu yang terdaftar,neutral,falling,middle,10.12,12.8,4
+silence,,neutral,none,none,12.8,13.2,4
+Agent,Untuk kodenya apakah sudah untuk OTP-nya apakah sudah diterima?,neutral,rising,middle,13.2,15.0,4
+Customer,Sudah,neutral,falling,middle,15.0,15.36,4
+Agent,Baik saya alihkan ke sistem silakan tekan enam digit PIN kartu di nomor silakan tekan kode OTP setelah instruksi ya Bu,neutral,falling,middle,15.36,19.12,4
+Customer,Oke ya,neutral,falling,middle,19.12,19.52,4
+Agent,Baik,neutral,falling,middle,19.52,19.84,4
+Agent,Sisi kartu kreditnya apakah masih ada Ibu?,neutral,falling,middle,0.0,2.13,5
+Customer,Sudah tidak ada Pak,neutral,falling,middle,2.13,3.23,5
+Agent,Baik. Silahkan pemblokiran beserta pembuatan pelaporan penutupan kartunya mohon ditunggu ya Bu?,neutral,rising,middle,3.23,6.56,5
+Customer,Iya,neutral,falling,middle,6.56,7.18,5
+silence,,neutral,none,none,7.18,8.41,5
+Agent,Ibu Kanya. Terima kasih telah bersabar menunggu. Saya konfirmasi hari ini 18 Januari 2025 dengan seketika permintaan Ibu untuk penutupan kartu kami proses dengan nomor pengaduan Charlie Bravo Golf Romeo Echo 0801 2500 1111. Laporan tersebut membutuhkan penanganan hingga tanggal 9 Januari 2025. Untuk pengecekan laporannya bisa melalui layanan WhatsApp Simbniaga di nomor 0811 978 14041 dengan menyebutkan nama lengkap dan juga nomor pelaporan. Nomor pelaporannya juga sudah kami kirimkan melalui SMS.,neutral,falling,middle,8.41,31.42,5
+Agent,bisa saya nomor handphone yang terdaftar di bank ya Bu?,neutral,rising,middle,0.0,2.02,6
+Customer,iya,neutral,falling,middle,2.02,2.32,6
+Agent,"Kemudian ee sebagai tambahan informasi karena Ibu melakukan pembayarannya melebihi dari tanggal jatuh tempo, maka nanti di bulan berikutnya akan muncul denda keterlambatan beserta dengan bunganya ya Bu.",neutral,falling,middle,2.32,8.3,6
+Customer,"ee saya kan sudah bayar kan Mbak, mau dikenai denda keterlambatan sama bunganya, apa mau dihapusin?",neutral,rising,middle,8.3,14.26,6
+Agent,Saya kan sudah bayar kan Mbak.,neutral,rising,middle,14.26,15.5,6
+Agent,"Baik, Ibu sudah melakukan pembayaran secara penuh, tetapi Ibu ee sehingga tetap akan ada pembebanan denda beserta dengan bunganya ya Bu, dan itu harus dibayarkan Ibu.",neutral,falling,middle,15.5,24.34,6
+Customer,"ee saya kan sudah bayar kan Mbak, mau dikenai denda keterlambatan sama bunganya, apa mau dihapusin?",neutral,rising,middle,24.34,30.18,6
+Agent,"Mohon maaf, karena Ibu melakukan pembayaran melebihi dari tanggal jatuh tempo, sehingga untuk denda dan bunga tidak bisa diajukan penghapusannya Bu.",neutral,falling,middle,30.18,39.72,6
+Customer,terus terus gimana saya harus bayar?,neutral,rising,middle,39.72,42.88,6
+Agent,"Betul, untuk denda beserta dengan bunga harus dibayarkan.",neutral,falling,middle,42.88,47.76,6
+Customer,"ee bunganya saya enggak mau bayar, apa kalau saya sudah pembayaran penuh kok, sudah sesuai pembayarannya, udah telat, udah membayar.",negative,rising,middle,47.76,57.44,6
+silence,,neutral,none,none,57.44,58.24,6
+Customer,Mmm ya mau,neutral,normal,middle,0.0,0.7,7
+Agent,Baik,neutral,normal,middle,0.7,1.0,7
+Agent,Untuk pembayaran Ibu memang penuh hanya saja melebihi dari tanggal jatuh tempo,neutral,normal,middle,1.0,3.3,7
+Agent,Sehingga,neutral,normal,middle,3.3,3.7,7
+Agent,di tagihan bulan berikutnya itu tetap akan ada pembebanan denda beserta dengan bunganya ya Bu,neutral,normal,middle,3.7,6.6,7
+Agent,Dan untuk denda dan bunga itu tidak bisa dihapuskan,neutral,normal,middle,6.6,8.4,7
+Customer,Pokoknya aku mau itu dihapusin aja Mbak,negative,falling,middle,8.4,10.5,7
+Customer,Nanti eh pembayarannya kalau udah ada asuransi aja,neutral,normal,middle,10.5,13.4,7
+Agent,Baik,neutral,normal,middle,13.4,13.7,7
+Agent,Untuk pengajuan pelaporan nya,neutral,normal,middle,13.7,15.4,7
+Agent,ini bisa kami,neutral,normal,middle,15.4,16.1,7
+Agent,proses tapi menunggu setelah tanggal cetak tagihan ya Bu,neutral,normal,middle,16.1,18.7,7
+Customer,Mmm oke,neutral,normal,middle,18.7,19.5,7
+Customer,Aja mau dihubungi lagi Mbak,neutral,normal,middle,19.5,21.2,7
+Agent,Iya nanti setelah tanggal cetak di bulan depan,neutral,normal,middle,21.2,23.6,7
+Agent,silakan Ibu hubungi kami kembali,neutral,normal,middle,23.6,25.7,7
+Customer,Tapi intinya aku mau dihapusin biar gak ada beban tagihan sama bunganya loh Mbak aku gak mau ini dibayarin,negative,falling,middle,25.7,31.5,7
+Agent,Untuk,neutral,normal,middle,31.5,31.9,7
+Agent,pengajuannya Bu bisa kami proses,neutral,normal,middle,31.9,34.0,7
+Agent,tapi disetujui atau tidaknya,neutral,normal,middle,34.0,36.0,7
+Customer,bukan kebijakan dari contact center ya Buk,neutral,falling,middle,0.0,2.04,8
+silence,,neutral,none,none,2.04,2.94,8
+Customer,ada lagi yang bisa di bantu Buk,neutral,rising,middle,2.94,4.52,8
+silence,,neutral,none,none,4.52,5.12,8
+Agent,ya sudah Mbak sudah,neutral,falling,middle,5.12,5.8,8
+silence,,neutral,none,none,5.8,6.24,8
+Customer,baik terima kasih Bukanya kalau misalnya diniega selamat sore selamat beraktivitas kembali Buk,positive,falling,middle,6.24,10.76,8
+silence,,neutral,none,none,10.76,11.16,8
+Agent,pppp,neutral,none,none,11.16,11.56,8

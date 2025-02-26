@@ -1,0 +1,80 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.3,1
+Agent,Halo halo halo,neutral,normal,middle,0.3,0.9,1
+silence,,neutral,none,none,0.9,1.3,1
+Agent,Selamat sore dengan Naira bagaimana saya bisa membantu,neutral,normal,middle,1.3,2.7,1
+silence,,neutral,none,none,2.7,3.2,1
+Customer,Selamat sore Mbak Naira,neutral,normal,middle,3.2,4.0,1
+silence,,neutral,none,none,4.0,4.5,1
+Agent,Sore Bu dengan Ibu siapa sebelumnya berbicara,neutral,normal,middle,4.5,5.7,1
+silence,,neutral,none,none,5.7,6.0,1
+Customer,Risma,neutral,normal,middle,6.0,6.4,1
+silence,,neutral,none,none,6.4,6.8,1
+Agent,Baik Ibu Risma terkait apa yang bisa saya bantu,neutral,normal,middle,6.8,8.0,1
+silence,,neutral,none,none,8.0,8.5,1
+Customer,Ee Mbak ini ee saya kan sudah SMS ya via ee eh saya kan sudah minta PIN ini via SMS tapi kok enggak terima-terima ya Mbak gimana sih saya bingung ini Mbak,negative,rising,middle,8.5,14.3,1
+silence,,neutral,none,none,14.3,14.8,1
+Agent,Baik Baik Ibu Risma sebelumnya mohon maaf untuk kendala yang terjadi untuk tidak terimanya ini PIN kartu debit atau kartu kredit Bu,neutral,normal,middle,14.8,20.4,1
+silence,,neutral,none,none,20.4,20.9,1
+Customer,Ee kartu kredit Mbak,neutral,normal,middle,20.9,21.9,1
+silence,,neutral,none,none,21.9,22.3,1
+Agent,Kartu kredit Baik Ibu untuk dari pengecekan data bisa disebutkan nomor kartu kreditnya,neutral,normal,middle,22.3,25.1,1
+silence,,neutral,none,none,25.1,25.5,1
+Customer,Iya 5336,neutral,normal,middle,25.5,26.5,1
+silence,,neutral,none,none,26.5,26.9,1
+Agent,Iya,neutral,normal,middle,26.9,27.2,1
+Customer,9516,neutral,normal,middle,27.2,28.0,1
+silence,,neutral,none,none,28.0,28.4,1
+Agent,Baik,neutral,normal,middle,28.4,28.8,1
+Customer,3214,neutral,normal,middle,28.8,29.7,1
+silence,,neutral,none,none,29.7,30.1,1
+Agent,Iya,neutral,normal,middle,30.1,30.4,1
+Customer,7897,neutral,normal,middle,30.4,31.2,1
+Customer,"Yo, halo, saya mau dibuatin laporan dong, Mbak. Ini saya enggak terima-terima, gimana sih?",negative,rising,middle,0.0,3.2,2
+Agent,"Baik, begitu ya, Bu. Untuk hal tersebut, di sini saya akan proses untuk dari pembuatan laporannya langsung ya.",neutral,normal,middle,3.2,8.4,2
+Agent,"Baik, mau ditunggu, Ibu, disana?",neutral,rising,middle,8.4,10.7,2
+Customer,Iya.,neutral,normal,middle,10.7,11.2,2
+Agent,"Baik. Terima kasih, Bu, disana. Atas kesabaran menunggu, laporan Ibu di sini sudah saya selesaikan dengan nomor laporannya dicatat Bravo Golot 1 2 3 4 5 6 7 8 ya, Bu ya.",positive,normal,middle,11.2,22.0,2
+Customer,"Iya, Mbak.",neutral,normal,middle,22.0,23.0,2
+Agent,Oke. Baik.,neutral,normal,middle,23.0,24.3,2
+Customer,"Eh, eh, Mbak, terus saya mau tanya lagi dong, kalau misalnya eh mau daftar ke protektor itu bisa gimana ya, Mbak ya?",neutral,rising,middle,24.3,33.9,2
+Agent,"Iya, Bu.",neutral,normal,middle,33.9,35.1,2
+Agent,"Baik. Untuk dari pendaftaran kredit protektor, Ibu bisa melalui contact center.",neutral,normal,middle,35.1,42.8,2
+Customer,"Oh, itu kredit protektor itu kan yang asuransi itu ya, Mbak ya? Asuransi kartu kredit ya?",neutral,rising,middle,42.8,52.0,2
+Agent,"Iya, benar. Contact center.",neutral,normal,middle,52.0,55.9,2
+Customer,"Bisa melalui kami, Bu.",neutral,normal,middle,55.9,58.6,2
+Customer,Oh.,neutral,normal,middle,58.6,59.3,2
+Customer,"Itu premi-nya berapa banyak ya, Mbak?",neutral,rising,middle,59.3,64.8,2
+Agent,"Baik. Jika untuk dari premi-nya yaitu 0,65% ",neutral,normal,middle,64.8,71.7,2
+Customer,Dari tagihan tertunggak nih Bu?,neutral,rising,middle,0.0,1.04,3
+Agent,"Oh 0,65% dari tagihan tertunggak",neutral,normal,middle,1.04,2.14,3
+Customer,Betul,neutral,normal,middle,2.14,2.41,3
+Agent,Kalau tagihan saya itu di 4.356.000,neutral,normal,middle,2.41,3.83,3
+Customer,"Jadi kira-kira 0,65%-nya berapa ya Pak?",neutral,rising,middle,3.83,5.33,3
+Agent,Baik,positive,normal,middle,5.33,5.53,3
+Agent,Nah di sini jika saya hitungkan untuk dari persentasenya Bu ya jadi Ibu dikenakannya di 150.000,neutral,normal,middle,5.53,8.0,3
+Customer,Gimana Mbak?,neutral,rising,middle,8.0,8.41,3
+Agent,Iya,neutral,normal,middle,8.41,8.61,3
+Agent,"Dari baik 4.356.000 jika dikalikan 0,65 jadi Ibu dikenakannya 156.000",neutral,normal,middle,8.61,11.46,3
+Customer,Oh berarti dari tagihan saya 4.356,neutral,normal,middle,11.46,12.66,3
+Customer,itu ee kenaannya asuransinya itu di,neutral,normal,middle,12.66,14.04,3
+Customer,berapa Mbak tadi 150,neutral,rising,middle,14.04,14.83,3
+Agent,156.000 Ibu,neutral,normal,middle,14.83,15.5,3
+Customer,156.000 jadi sebulannya saya bayar premi nya 156.000 ya,neutral,rising,middle,15.5,18.0,3
+Agent,Iya betul sekali Bu,positive,normal,middle,18.0,18.86,3
+Customer,Oke pendaftarannya tadi bisa langsung dari contact center toh Mbak,neutral,rising,middle,18.86,21.23,3
+Agent,Iya betul,positive,normal,middle,21.23,21.66,3
+Customer,"Jadi, di sini bisa langsung melalui contact center Syariah nya ya?",neutral,rising,middle,0.0,2.06,4
+Agent,"Oke, ya sudah deh kalau gitu. Gitu aja ya, Mbak.",neutral,falling,middle,2.06,3.64,4
+Customer,Baik. Ada hal lain yang saya tanyakan Ibu Risma?,neutral,falling,middle,3.64,5.24,4
+Agent,"Mmm, tadi untuk yang eh saya dikirimkan slip, itu berapa hari ya Mbak ya?",neutral,rising,middle,5.24,7.68,4
+Customer,Untuk dari slip nanti Ibu akan dikirimkan?,neutral,rising,middle,7.68,9.28,4
+Agent,Karena saya kan enggak terima-terima pin itu dari SMS.,neutral,falling,middle,9.28,11.72,4
+Agent,Baik.,neutral,falling,middle,11.72,12.04,4
+Agent,"Ibu tidak usah khawatir, dan penanganannya di sini juga saya cek sampai di 5 hari kerja ya Bu ya.",positive,falling,middle,12.04,15.88,4
+Customer,"Oh, 5 hari kerja?",neutral,rising,middle,15.88,17.0,4
+Agent,Iya.,neutral,falling,middle,17.0,17.32,4
+Customer,Baik.,neutral,falling,middle,17.32,17.64,4
+Customer,"Ya, terima kasih Ibu Risma telah menghubungi Syariah nya ya. Selamat sore, sukses selalu.",positive,falling,middle,17.64,21.8,4
+Agent,"Baik, oke. Selamat sore juga.",neutral,falling,middle,21.8,23.6,4
+silence,,neutral,none,none,23.6,25.0,4

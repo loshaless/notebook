@@ -1,0 +1,134 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.5,1
+Customer,Selamat sore Mbak,neutral,falling,middle,0.5,1.2,1
+Agent,Iya dengan Bapak siapa saya berbicara?,neutral,rising,middle,1.2,2.1,1
+Customer,Saya Martu Pak,neutral,falling,middle,2.1,2.6,1
+Agent,"Bapak Martu Pak, perlu apa yang bisa dibantu?",neutral,rising,middle,2.6,3.6,1
+Customer,"Eh ini lho Mbak kenapa ya saya itu mau komplain ya Mbak ya, saya itu mau komplain kenapa saya enggak tidak eh tidak terima PIN kartu kredit ya melalui SMS",negative,falling,middle,3.6,9.1,1
+Agent,Baik Bapak Martu Pak sebelumnya boleh disebutkan nomor kartu kreditnya?,neutral,rising,middle,9.1,11.2,1
+Customer,5336,neutral,falling,middle,11.2,11.7,1
+Agent,Iya,neutral,falling,middle,11.7,11.9,1
+Customer,9516,neutral,falling,middle,11.9,12.4,1
+Agent,Iya,neutral,falling,middle,12.4,12.6,1
+Customer,3214,neutral,falling,middle,12.6,13.1,1
+Agent,Iya,neutral,falling,middle,13.1,13.3,1
+Customer,7897,neutral,falling,middle,13.3,13.8,1
+Agent,"Terima kasih Bapak Martu Pak, untuk permintaan PIN melalui SMS format yang Bapak masukkan apakah sudah benar?",neutral,rising,middle,13.8,17.4,1
+Customer,Mm sudah Mbak yang ketiga PIN itu ya kan Mbak PIN spasi 4 digit terakhir nomor kartu kredit setelah itu tanggal lahir kan?,neutral,falling,middle,17.4,22.9,1
+Agent,"Iya untuk pengisian tanggal lahirnya dipastikan benar ya Pak ya dengan format penulisan tanggal lahirnya itu dua angka tanggal, dua angka bulan dan empat angka tahun. Apakah sudah sesuai Bapak?",neutral,rising,middle,22.9,29.5,1
+Customer,Iya,neutral,falling,middle,29.5,29.8,1
+Customer,"Sudah, sudah.",neutral,falling,middle,0.0,0.8,2
+silence,,neutral,none,none,0.8,1.0,2
+Agent,"Baik, kemudian untuk pengiriman",neutral,falling,middle,1.0,2.0,2
+Agent,format SMS-nya itu wajib menggunakan nomor handphone yang terdaftar di bank.,neutral,falling,middle,2.0,4.1,2
+Customer,"Oh, oh gitu.",neutral,falling,middle,4.1,5.0,2
+Agent,Iya betul.,neutral,falling,middle,5.0,5.5,2
+Customer,"Hmm, ya, soalnya tadi Mbak, nomor telepon itu dia belum ada pulsa-nya. Ya udah, Mbak, nanti ya",neutral,falling,middle,5.5,8.2,2
+Customer,"eh, nanti aku coba dari situ aja deh.",neutral,falling,middle,8.2,9.6,2
+Agent,"Iya betul, nanti dipastikan eh pulsanya tersedia ya Pak ya.",neutral,falling,middle,9.6,11.8,2
+Customer,Oke.,neutral,falling,middle,11.8,12.2,2
+Customer,"Nanti dikirimnya ke mana, Mbak, SMS-nya?",neutral,rising,middle,12.2,14.1,2
+Agent,Dikirimnya ke nomor 81418.,neutral,falling,middle,14.1,15.8,2
+Customer,"Hmm, oke oke oke.",neutral,falling,middle,15.8,17.1,2
+Customer,"Terus, Mbak, aku mau nanya dong eh benar enggak sih transaksi saya itu Rp4.356.000 di Tokopedia",neutral,rising,middle,17.1,22.2,2
+Agent,"Iya, benar. Untuk hal tersebut",neutral,falling,middle,22.2,24.2,2
+Agent,Heeh.,neutral,falling,middle,24.2,24.6,2
+Agent,Rp4.356.000.,neutral,falling,middle,24.6,26.3,2
+Agent,"Sudah benar, Bapak.",neutral,falling,middle,26.3,27.7,2
+Customer,"Hmm, itu berarti benar ya, Mbak, sesuai dengan itu kan?",neutral,rising,middle,27.7,30.4,2
+Agent,Iya.,neutral,falling,middle,30.4,30.9,2
+Customer,Oh.,neutral,falling,middle,30.9,31.4,2
+Customer,"Ya udah, Mbak. Mbak, aku mau nanya deh itu kan transaksi saya kan",neutral,rising,middle,31.4,34.7,2
+Agent,"Iya, jangan.",neutral,falling,middle,34.7,35.7,2
+Customer,4.356.000,neutral,none,none,0.0,0.6,3
+silence,,neutral,none,none,0.6,0.8,3
+Customer,Nah kalau saya mau daftar kredit protektor Mbak?,neutral,rising,middle,0.8,2.1,3
+Agent,Untuk pendaftaran kredit protektor nanti bisa dilakukan Bapak ketika Bapak sudah memiliki PIN permanen,neutral,falling,middle,2.1,4.4,3
+Customer,Daftarnya gimana?,neutral,rising,middle,4.4,5.0,3
+Agent,Nanti bisa melalui kontak center SIMB Niaga Bapak,neutral,falling,middle,5.0,6.4,3
+silence,,neutral,none,none,6.4,6.7,3
+Customer,"Mmm, itu Mbak kan semacam asuransi ya Mbak ya?",neutral,rising,middle,6.7,8.5,3
+Agent,Betul,neutral,falling,middle,8.5,8.9,3
+Customer,Nah kalau kayak gitu kan Mbak berarti harus ada yang saya bayarin dong ke banknya?,neutral,rising,middle,8.9,11.7,3
+Agent,"Betul sekali, untuk premi kredit protektor sendiri itu di 0,65% dari tagihan tertunggak",neutral,falling,middle,11.7,15.1,3
+Customer,Berapa Mbak bisa di-,neutral,rising,middle,15.1,15.8,3
+Agent,"0,65% dari tagihan tertunggak",neutral,falling,middle,15.8,17.5,3
+silence,,neutral,none,none,17.5,17.7,3
+Customer,"Mmm, gitu",neutral,falling,middle,17.7,18.2,3
+Agent,Iya betul,neutral,falling,middle,18.2,18.8,3
+Customer,Berarti yang tertunggak tadi yang Rp4.356.000 itu ya?,neutral,rising,middle,18.8,21.9,3
+Agent,Betul,neutral,falling,middle,21.9,22.3,3
+silence,,neutral,none,none,22.3,22.7,3
+Customer,"Ooh, enggak bisa kurang Mbak?",neutral,rising,middle,22.7,24.1,3
+Agent,"Tidak bisa Bapak, sesuai dengan transaksi dan tagihan yang ada di kartu kredit Bapak, Martupa begitu",neutral,falling,middle,24.1,28.4,3
+silence,,neutral,none,none,28.4,28.8,3
+Customer,"Ooh, itu berapa Mbak? 300?",neutral,rising,middle,28.8,30.4,3
+Customer,"eh 4.356.000 nya dikali 0, berapa tadi?",neutral,rising,middle,0.0,2.22,4
+Agent,"0,65%",neutral,falling,middle,2.22,3.04,4
+Customer,Iya berapa Pak?,neutral,rising,middle,3.04,3.66,4
+Agent,"Untuk itu nanti di 28.372,5 Pak",neutral,falling,middle,3.66,5.64,4
+Customer,Hmm berarti itu yang dari 4.356.000 itu ya?,neutral,rising,middle,5.64,8.2,4
+Agent,Betul. Nanti Bapak akan ditagihkan premi kredit protektornya di 28.000,neutral,falling,middle,8.2,11.78,4
+Agent,"372,5",neutral,falling,middle,11.78,12.48,4
+Customer,Hmm berarti kalau daftarnya berarti enggak bisa sekarang ya?,neutral,rising,middle,12.48,15.38,4
+Agent,Untuk saat ini belum bisa karena Bapak Martupa belum memiliki PIN. Nanti ketika Bapak Martupa sudah memiliki PIN Bapak bisa melakukan pendaftaran asuransi kredit protektor,neutral,falling,middle,15.38,22.4,4
+Customer,Oke deh kalau begitu Pak,neutral,falling,middle,22.4,24.3,4
+Agent,Baik. Ada lagi yang bisa dibantu Bapak Martupa?,neutral,rising,middle,24.3,27.24,4
+Customer,Dah itu aja,neutral,falling,middle,27.24,28.06,4
+Agent,"Baik. Terima kasih Bapak Martupa telah menghubungi Ciaginiaga. Selamat sore, sukses selalu",positive,falling,middle,28.06,33.94,4
+Agent,Halo selamat pagi,neutral,falling,middle,0.0,0.8,5
+Customer,Selamat pagi,neutral,falling,middle,0.8,1.2,5
+Agent,Dengan siapa saya berbicara?,neutral,falling,middle,1.2,2.0,5
+Customer,Nama saya [unclear],neutral,falling,middle,2.0,2.8,5
+Agent,Baik [unclear] untuk apa?,neutral,falling,middle,2.8,3.4,5
+Customer,Saya mau tanya tentang [unclear],neutral,falling,middle,3.4,4.2,5
+Agent,Baik sebentar ya,neutral,falling,middle,4.2,4.8,5
+Agent,Saya cek dulu ya,neutral,falling,middle,4.8,5.6,5
+silence,,neutral,none,none,5.6,7.0,5
+Agent,Oke [unclear],neutral,falling,middle,7.0,7.6,5
+Agent,Jadi begini [unclear],neutral,falling,middle,7.6,8.4,5
+Customer,Iya,neutral,falling,middle,8.4,8.8,5
+Agent,Untuk [unclear],neutral,falling,middle,8.8,9.4,5
+Customer,Iya,neutral,falling,middle,9.4,9.8,5
+Agent,Silahkan [unclear],neutral,falling,middle,9.8,10.6,5
+Customer,Oke,neutral,falling,middle,10.6,11.0,5
+Agent,Terima kasih,neutral,falling,middle,11.0,11.6,5
+Customer,Ya,neutral,falling,middle,11.6,12.0,5
+Agent,Selamat pagi,neutral,falling,middle,12.0,12.6,5
+silence,,neutral,none,none,12.6,13.4,5
+Supervisor,Halo selamat pagi,neutral,falling,middle,13.4,14.0,5
+Agent,Selamat pagi,neutral,falling,middle,14.0,14.4,5
+Supervisor,Ini [unclear],neutral,falling,middle,14.4,15.0,5
+Agent,Iya,neutral,falling,middle,15.0,15.2,5
+Supervisor,Ada apa?,neutral,rising,middle,15.2,15.8,5
+Agent,Tadi ada customer yang mau tanya tentang [unclear],neutral,falling,middle,15.8,17.0,5
+Supervisor,Oke,neutral,falling,middle,17.0,17.4,5
+Agent,Cuma saya belum bisa jawab,neutral,falling,middle,17.4,18.2,5
+Supervisor,Oke,neutral,falling,middle,18.2,18.6,5
+Agent,Jadi saya mau minta bantuan,neutral,falling,middle,18.6,19.4,5
+Supervisor,Oke,neutral,falling,middle,19.4,19.8,5
+Agent,Untuk [unclear],neutral,falling,middle,19.8,20.4,5
+Supervisor,Oke,neutral,falling,middle,20.4,20.8,5
+Agent,Nanti saya hubungi lagi,neutral,falling,middle,20.8,21.6,5
+Supervisor,Oke,neutral,falling,middle,21.6,22.0,5
+Agent,Terima kasih,neutral,falling,middle,22.0,22.6,5
+Supervisor,Ya,neutral,falling,middle,22.6,23.0,5
+Agent,Selamat pagi,neutral,falling,middle,23.0,23.6,5
+silence,,neutral,none,none,23.6,24.4,5
+Customer,Selamat pagi,neutral,falling,middle,24.4,24.8,5
+Agent,Iya selamat pagi,neutral,falling,middle,24.8,25.4,5
+Customer,Maaf tadi saya mau tanya tentang [unclear],neutral,falling,middle,25.4,26.6,5
+Agent,Oke sebentar ya,neutral,falling,middle,26.6,27.2,5
+Agent,Saya cek dulu,neutral,falling,middle,27.2,27.8,5
+silence,,neutral,none,none,27.8,29.2,5
+Agent,Oke [unclear],neutral,falling,middle,29.2,29.8,5
+Agent,Jadi begini [unclear],neutral,falling,middle,29.8,30.6,5
+Customer,Iya,neutral,falling,middle,30.6,31.0,5
+Agent,Untuk [unclear],neutral,falling,middle,31.0,31.6,5
+Customer,Iya,neutral,falling,middle,31.6,32.0,5
+Agent,Silahkan [unclear],neutral,falling,middle,32.0,32.8,5
+Customer,Oke,neutral,falling,middle,32.8,33.2,5
+Agent,Terima kasih,neutral,falling,middle,33.2,33.8,5
+Customer,Ya,neutral,falling,middle,33.8,34.2,5
+Agent,Selamat pagi,neutral,falling,middle,34.2,34.8,5
+silence,,neutral,none,none,34.8,35.6,5

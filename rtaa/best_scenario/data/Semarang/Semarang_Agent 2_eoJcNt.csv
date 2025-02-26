@@ -1,0 +1,91 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Customer,Panggilan bagaimana saya bisa membantu?,neutral,rising,middle,0.0,1.25,1
+Agent,Mmm halo selamat sore Mbak,neutral,falling,middle,1.25,2.32,1
+Customer,Iya dengan Bapak siapa saya berbicara?,neutral,rising,middle,2.32,3.29,1
+Agent,Saya Martupa,neutral,falling,middle,3.29,3.86,1
+Customer,"Bapak Martupa, prihal apa yang bisa dibantu?",neutral,rising,middle,3.86,5.05,1
+Agent,Eh saya mau blokir kartu debit saya Mbak,neutral,falling,middle,5.05,6.14,1
+Customer,"Baik, nomor ATM-nya boleh disebutkan Bapak Martupa?",neutral,rising,middle,6.14,7.36,1
+Agent,Eh 5336,neutral,falling,middle,7.36,7.95,1
+Customer,Iya,neutral,falling,middle,7.95,8.11,1
+Agent,4000,neutral,falling,middle,8.11,8.54,1
+Customer,Iya,neutral,falling,middle,8.54,8.7,1
+Agent,1224,neutral,falling,middle,8.7,9.18,1
+Customer,Iya,neutral,falling,middle,9.18,9.34,1
+Agent,1995,neutral,falling,middle,9.34,9.83,1
+Customer,Iya,neutral,falling,middle,9.83,10.0,1
+Customer,Terima kasih Bapak Martupa,positive,falling,middle,10.0,10.85,1
+Agent,Heem,neutral,falling,middle,10.85,11.18,1
+Customer,Diblokir dikarenakan apa Pak?,neutral,rising,middle,11.18,12.12,1
+Agent,Oh iya Mbak itu kartu-kartu saya itu hilang Mbak,neutral,falling,middle,12.12,13.42,1
+Customer,"Kartunya hilang, baik",neutral,falling,middle,13.42,14.09,1
+Agent,Heem,neutral,falling,middle,14.09,14.43,1
+Customer,Untuk kartu kreditnya sudah di lengkapi dengan PIN?,neutral,rising,middle,14.43,15.71,1
+Agent,Eh kartu saya,neutral,falling,middle,15.71,16.22,1
+Customer,Iya,neutral,falling,middle,16.22,16.38,1
+Agent,Eh Mbak boleh langsung eh kalau untuk PIN ada,neutral,falling,middle,16.38,17.55,1
+Customer,Baik,neutral,falling,middle,17.55,17.71,1
+Agent,Saya bantu untuk verifikasi PIN terlebih dahulu nanti,neutral,falling,middle,17.71,18.78,1
+Customer,Apakah ini bisa dimasukkan nanti ya?,neutral,rising,middle,0.0,1.4,2
+Agent,Heeh,neutral,normal,middle,1.4,1.8,2
+silence,,neutral,none,none,1.8,2.6,2
+Customer,Saya alihkan,neutral,normal,middle,2.6,3.2,2
+Agent,Bisa dimasukkan benar,neutral,normal,middle,3.2,3.9,2
+Customer,Terima kasih Bapak Martupa untuk pin-nya sudah benar,positive,falling,middle,3.9,5.9,2
+Agent,Heeh,neutral,normal,middle,5.9,6.3,2
+silence,,neutral,none,none,6.3,6.8,2
+Customer,Saya konfirmasi untuk kartu kredit-nya sudah berhasil diblokir ya Pak?,neutral,rising,middle,6.8,9.0,2
+Agent,Kartu debit saya ya Pak ya,neutral,normal,middle,9.0,9.9,2
+Customer,Mohon maaf saya ralat untuk kartu debit-nya sudah berhasil diblokir,neutral,normal,middle,9.9,12.2,2
+silence,,neutral,none,none,12.2,12.6,2
+Agent,"Oke, eh itu Mbak aku mau nanya transaksiku itu kan eh terakhir kali itu saya blokir sebelum eh sebelum hilang itu Mbak itu nominal transaksi saya itu di eh Mall Robinson itu Rp3.467.750 itu benar enggak Mbak transaksi saya terakhir?",neutral,rising,middle,12.6,22.3,2
+Customer,Setelah kami lakukan pengecekan betul Bapak transaksi terakhir Bapak dengan nominal yang Bapak sebutkan tadi,neutral,falling,middle,22.3,27.7,2
+silence,,neutral,none,none,27.7,28.1,2
+Agent,Hmm gitu,neutral,normal,middle,28.1,28.8,2
+Customer,Iya,neutral,normal,middle,28.8,29.1,2
+Agent,Terus Mbak kalau misalnya nih saya itu mau minta eh dibuka lagi Mbak nanti blokir-nya itu,neutral,falling,middle,29.1,33.4,2
+Customer,Itu bisa enggak sih Mbak?,neutral,rising,middle,0.0,0.7,3
+Agent,Bapak Martupa nanti untuk pembukaan blokir karena kartu debit hilang bisa dilakukan melalui Oto Mobile atau aplikasi Oto Mobile Pak.,neutral,normal,middle,0.7,5.1,3
+Customer,Oh melalui aplikasi Oto Mobile?,neutral,rising,middle,5.1,6.3,3
+Agent,Bisa iya.,neutral,normal,middle,6.3,6.9,3
+Customer,Tapi Mbak saya itu ini loh kalau saya lupa untuk Oto Mobile saya enggak ingat nanti saya mau minta dari call center bisa enggak sih Mbak itu dibuka blokirnya lagi?,neutral,rising,middle,6.9,16.0,3
+Agent,Nanti Bapak Martupa bisa langsung datang ke cabang.,neutral,normal,middle,16.0,19.4,3
+Customer,Loh Mbak kalau ke cabang kan pasti saya nanti enggak ini dong,negative,falling,middle,19.4,23.6,3
+Customer,Itu kan membuat saya jadi ribet Mbak enggak ada solusi Mbak supaya nanti itu bisa dibuka blokirnya?,negative,rising,middle,23.6,30.5,3
+Customer,Karena saya harus ke cabang Mbak di cabang itu kan harus ngantri dulu belum lagi nanti kondisinya di sana eh belum bisa dipastikan Mbak nanti itu eh cepat prosesnya karena nanti ngantri lama Mbak.,negative,rising,middle,30.5,47.3,3
+Agent,Iya Bapak Martupa mohon maaf sekali karena kalau dari 14041 kan nanti ada keterbatasan verifikasi sehingga untuk pembukaan blokir khususnya,neutral,normal,middle,47.3,59.3,3
+Customer,itu ha bisa dilakukan oleh cabang apabila tidak bisa melalui aplikasi Octo Mobile seperti itu,neutral,falling,middle,0.0,3.37,4
+Agent,Hmm gitu tapi kan Mbak itu kan Mbak buat ribet loh Mbak saya enggak mau loh kalau gitu saya ribet seribet-ribet kayak gitu,negative,falling,middle,3.37,8.63,4
+Customer,Iya,neutral,normal,middle,8.63,8.82,4
+Agent,Mohon maaf Bapak Martupa atas eh ketidaknyamanannya nanti akan saya bantu,neutral,falling,middle,8.82,13.24,4
+Customer,Jelas Mbak saya itu enggak nyaman loh dengan pelayanan yang kayak gini loh,negative,falling,middle,13.24,18.49,4
+Agent,Mohon maaf sekali nanti akan saya bantu sampaikan ke tim kami terkait dengan keluhan Bapak Martupa ya,neutral,falling,middle,18.49,25.72,4
+Customer,Terus ini jadinya gimana Mbak,neutral,falling,middle,25.72,28.16,4
+Agent,Jadi eh tetap saya harus datang ke cabang Mbak untuk ini,neutral,falling,middle,28.16,31.55,4
+Customer,Iya Bapak Martupa,neutral,falling,middle,31.55,33.55,4
+Customer,Hmm belum lagi Mbak cabangnya itu dia ruangannya sempit lagi kalau nanti orangnya rame kan nanti kan saya jadi pengap gitu loh Mbak antrinya lama-lama lagi,negative,falling,middle,33.55,44.75,4
+Agent,Baik Bapak Martupa mohon maaf namun hal tersebut yang perlu dilakukan ketika pembukaan blokir kartu debit Pak karena hilang seperti itu,neutral,falling,middle,44.75,55.75,4
+Customer,Hmm,neutral,normal,middle,55.75,56.32,4
+silence,,neutral,none,none,56.32,57.02,4
+Agent,Oh gitu,neutral,falling,middle,0.0,0.4,5
+Customer,Aduh Mbak Mbak,negative,falling,middle,0.4,1.1,5
+Agent,Nanti Bapak Martupa ee ke cabang dengan membawa dokumen KTP buku tabungan,neutral,falling,middle,1.1,3.1,5
+Customer,Heeh,neutral,normal,middle,3.1,3.4,5
+Agent,dan ee biaya penggantian atau kalau ada ee pengerjaan kartu baru itu di Rp30.000 ya Pak ya,neutral,falling,middle,3.4,6.2,5
+Customer,Oh gede banget Mbak itu bank lain rentenir maksudnya kok Rp30.000,negative,falling,middle,6.2,8.8,5
+Agent,Ah mohon maaf Bapak itu sebagai biaya administrasi,neutral,falling,middle,8.8,10.7,5
+Customer,Biaya administrasi katanya Mbak itu gede Mbak kalau bank lain itu bisa lebih murah kalau Mbak bakal gratis,negative,falling,middle,10.7,15.5,5
+Agent,Mohon maaf Bapak saat ini untuk penerbitan kartu baru seperti itu untuk ee dari semua bank begitu Bapak,neutral,falling,middle,15.5,20.1,5
+Customer,Hmm banyak juga minta maaf maaf terus yang salah kan bukan kamu Mbak saya aja masih kesal nih karena pembukaan blokirnya itu maksud saya harus datang ke cabang kalau saya enggak punya ATM mobile itu yang membuat saya itu jadi kayak merasa enggak nyaman Mbak,negative,falling,middle,20.1,31.3,5
+Agent,Baik Bapak nanti segala keluhan Bapak Martupa akan saya sampaikan kepada tim kami ya Pak ya,neutral,falling,middle,31.3,35.8,5
+Customer,Heeh,neutral,normal,middle,35.8,36.1,5
+Customer,Seperti itu,neutral,normal,middle,0.0,0.5,6
+silence,,neutral,none,none,0.5,0.8,6
+Customer,Ah,neutral,normal,middle,0.8,1.0,6
+Customer,Ya udah deh kalau begitu Mbak,neutral,falling,middle,1.0,2.0,6
+Agent,Baik ya seperti itu Bapak Martupa,positive,normal,middle,2.0,3.2,6
+Agent,Terima kasih Bapak Martupa telah menghubungi kami ini ya,positive,falling,middle,3.2,4.7,6
+Agent,Selamat sore sukses selalu ya Pak,positive,rising,middle,4.7,6.0,6
+Customer,Iya Mbak,neutral,normal,middle,6.0,6.7,6
+silence,,neutral,none,none,6.7,7.1,6
+Customer,Pip,neutral,normal,middle,7.1,7.5,6

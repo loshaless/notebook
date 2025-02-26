@@ -1,0 +1,48 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Fanya. Bagaimana saya bisa membantu?,neutral,falling,middle,0.0,2.12,1
+Customer,"Halo, selamat sore Mbak Fanya.",neutral,falling,middle,2.12,3.36,1
+Agent,"Iya, dengan Bapak. Siapa saya bisa berbicara?",neutral,falling,middle,3.36,4.4,1
+Customer,"Eh, saya Martupa.",neutral,falling,middle,4.4,5.16,1
+Agent,Bapak Martupa. Peria akan bisa dibantu?,neutral,falling,middle,5.16,6.16,1
+Customer,"Eh, Mbak gini. Saya itu kan bukan masa jabatan saya binia-ga ya Mbak. Tapi waktu itu saya buka ekstra dana ya. Nah itu eh pengajuan saya itu di setujui atau enggak ya?",neutral,falling,middle,6.16,12.2,1
+Agent,"Baik Bapak Martupa. Untuk pengecekannya, boleh tolong disebutkan nomor-nomor kartu KTP-nya atau NIK-nya?",neutral,falling,middle,12.2,17.16,1
+Customer,"Oh, nomor KTP saya 3323",neutral,falling,middle,17.16,19.2,1
+Agent,Iya.,neutral,normal,middle,19.2,19.6,1
+Customer,0423,neutral,falling,middle,19.6,20.4,1
+Agent,Iya.,neutral,normal,middle,20.4,20.8,1
+Customer,0199,neutral,falling,middle,20.8,21.6,1
+Agent,Iya.,neutral,normal,middle,21.6,22.0,1
+Customer,0001.,neutral,falling,middle,22.0,22.8,1
+Agent,Terima kasih Bapak Martupa.,neutral,falling,middle,22.8,24.8,1
+Customer,Heem.,neutral,normal,middle,24.8,25.6,1
+silence,,neutral,none,none,25.6,27.2,1
+Customer,Mbak ini kan banyak sambil ngecek ya. Saya mau nanya aja Mbak. Itu waktu itu kan saya mengajukan ekstra dananya,neutral,falling,middle,27.2,33.6,1
+Agent,Iya.,neutral,normal,middle,33.6,34.0,1
+Customer,itu 11.567.550,neutral,normal,middle,0.0,1.25,2
+silence,,neutral,none,none,1.25,1.45,2
+Customer,baik,neutral,normal,middle,1.45,1.7,2
+Agent,Saya ulangi ya Mbak 11.567.550 Mbak itu gimana Mbak pengajuannya disetujui atau enggak ya,neutral,rising,middle,1.7,4.6,2
+silence,,neutral,none,none,4.6,4.9,2
+Agent,Baik Bapak Martupa terima kasih untuk data yang telah disebutkan untuk selanjutnya kami lakukan pengecekan terlebih dahulu ya,neutral,falling,middle,4.9,8.4,2
+silence,,neutral,none,none,8.4,8.7,2
+Customer,Heeem,neutral,normal,middle,8.7,9.0,2
+silence,,neutral,none,none,9.0,9.2,2
+Customer,Oke Mbak,neutral,normal,middle,9.2,9.7,2
+silence,,neutral,none,none,9.7,15.0,2
+Customer,Bagaimana Mbak,neutral,rising,middle,15.0,16.0,2
+silence,,neutral,none,none,16.0,16.4,2
+Agent,Bapak Martupa terima kasih atas kesabaran menunggu kami melakukan pengecekan di sini untuk pengajuan kartu kredit mohon maaf untuk pengajuan ekstra dana Bapak,neutral,falling,middle,16.4,23.3,2
+silence,,neutral,none,none,23.3,23.6,2
+Customer,Heeem,neutral,normal,middle,23.6,24.0,2
+Customer,Hmm,neutral,none,none,0.0,0.2,3
+Customer,Masih belum disetujui Bapak,neutral,falling,middle,0.2,1.1,3
+Agent,Oh gitu,neutral,falling,middle,1.1,1.5,3
+Agent,Ya sudah deh kalau gitu Bapak enggak apa-apa,neutral,falling,middle,1.5,2.7,3
+Customer,Baik,positive,falling,middle,2.7,2.9,3
+Customer,Ada lagi yang bisa dibantu Bapak Martupa,neutral,falling,middle,2.9,4.2,3
+Agent,Sudah itu aja terima kasih ya,neutral,falling,middle,4.2,5.1,3
+Customer,Terima kasih juga Bapak Martupa telah mengobati si adi niaga,positive,falling,middle,5.1,7.2,3
+Customer,Selamat sore sukses selalu,positive,falling,middle,7.2,8.1,3
+Agent,Iya,neutral,falling,middle,8.1,8.3,3
+silence,,neutral,none,none,8.3,9.0,3
+Agent,P,neutral,falling,middle,9.0,9.1,3

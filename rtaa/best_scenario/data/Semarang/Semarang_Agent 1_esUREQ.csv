@@ -1,0 +1,49 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.12,1
+Agent,"Selamat sore dengan Naira, bagaimana saya bisa membantu?",neutral,falling,middle,0.12,1.49,1
+Customer,Sore Mbak Naira,neutral,falling,middle,1.49,2.18,1
+Agent,"Sori Bu, dengan Ibu siapa saya berbicara?",neutral,falling,middle,2.18,3.07,1
+Customer,Saya Sisca,neutral,falling,middle,3.07,3.6,1
+Agent,"Baik Ibu Sisca, terial apa yang bisa saya bantu?",neutral,falling,middle,3.6,4.7,1
+Customer,"Ee Mbak, saya mau cek dong kayaknya ini ada transaksi yang enggak saya ee lakukan gitu, saya mau sanggah Mbak transaksinya, bisa enggak ya?",neutral,rising,middle,4.7,9.29,1
+Agent,"Baik, begitu ya Bu, Ibu tidak usah khawatir di sini saya akan proses untuk pengecekan data. Untuk nomor kartu kreditnya Bu bisa disebutkan?",neutral,falling,middle,9.29,14.56,1
+Customer,Nomor kartunya di 5244,neutral,falling,middle,14.56,16.11,1
+Agent,Iya,neutral,falling,middle,16.11,16.33,1
+Customer,2600,neutral,falling,middle,16.33,16.82,1
+Agent,Baik,neutral,falling,middle,16.82,17.01,1
+Customer,5160,neutral,falling,middle,17.01,17.45,1
+Agent,Iya,neutral,falling,middle,17.45,17.66,1
+Customer,9332,neutral,falling,middle,17.66,18.09,1
+Agent,Ee,neutral,falling,middle,18.09,18.26,1
+Customer,9332,neutral,falling,middle,18.26,18.7,1
+Agent,Iya,neutral,falling,middle,18.7,18.91,1
+Agent,"Baik, Ibu saya akan alihkan ke sistem untuk verifikasi PIN kartu ATM, nanti silakan",neutral,falling,middle,18.91,22.21,1
+Agent,Mbak Sisca tekan enam digit PIN kartu ATM-nya setelah terdengar instruksi kemudian diakhiri dengan tanda pagar,neutral,normal,middle,0.0,4.26,2
+silence,,neutral,none,none,4.26,4.63,2
+Customer,Saya alihkan ya Bu silakan,neutral,normal,middle,4.63,5.62,2
+silence,,neutral,none,none,5.62,5.93,2
+Customer,Oke,neutral,normal,middle,5.93,6.22,2
+silence,,neutral,none,none,6.22,6.54,2
+Agent,Baik terima kasih Mbak Sisca sudah memasukan PIN dengan benar,positive,normal,middle,6.54,8.56,2
+silence,,neutral,none,none,8.56,8.98,2
+Agent,Baik ini untuk dari nominal transaksinya Bu nominal berapa,neutral,normal,middle,8.98,11.11,2
+silence,,neutral,none,none,11.11,11.48,2
+Customer,Ee ini saya terima notifikasi untuk transaksinya nominalnya 24.500.750,neutral,normal,middle,11.48,16.28,2
+silence,,neutral,none,none,16.28,16.69,2
+Agent,Baik jika saya cek memang betul Bu di sini untuk nominal Ibu sebutkan 24.500.750 memang sudah terpotong itu dari kartu kredit Dikarenakan Ibu merasa tidak transaksi maka sekan proses untuk pembuatan laporannya ya Bu,neutral,normal,middle,16.69,24.87,2
+silence,,neutral,none,none,24.87,25.22,2
+Customer,Oke saya minta tolong ini dong Mbak di blokir aja saya mau sanggah,neutral,normal,middle,25.22,28.66,2
+silence,,neutral,none,none,28.66,28.97,2
+Agent,Baik untuk keamanan data baik ini saya blokir juga nanti tunggu ya Bu,neutral,normal,middle,28.97,32.76,2
+silence,,neutral,none,none,32.76,33.12,2
+Agent,Baik,neutral,normal,middle,33.12,33.57,2
+Customer,"Oke, eh udah Mbak? Eh laporan tanggungannya sudah dibuat untuk bulan ini?",neutral,rising,middle,0.0,2.56,3
+Agent,"Baik. Iya, sudah Bu. Ini saya sebutkan untuk nomor laporannya, di Charlie Bravo Golf Romeo Echo 1 2 3 4 5 6 7 8. Dan untuk kartu kreditnya sudah saya blokir, saya konfirmasi kan pemblokirannya pada hari ini tanggal 8 Januari 2025 dengan segera. Pemblokiran kartu kreditnya sudah diproses ya. Jika ada transaksi sebelum dari pemblokiran menjadi tanggung jawab Ibu. Ada lagi misalnya yang mau ditanyakan Bu?",neutral,normal,middle,2.56,16.12,3
+silence,,neutral,none,none,16.12,17.0,3
+Customer,"Oh, udah Mbak. Nanti untuk tanggungan transaksinya, prosesnya berapa lama ya Mbak?",neutral,rising,middle,17.0,20.36,3
+Agent,Untuk penanganannya ini berapa lama? Kurang lebih 26 hari.,neutral,normal,middle,20.36,23.44,3
+silence,,neutral,none,none,23.44,24.28,3
+Customer,"Oke, ya udah deh, itu aja Mbak.",neutral,falling,middle,24.28,26.24,3
+Agent,"Baik. Terima kasih sebelumnya Ibu. Silakan kalau mau menghubungi lagi ya. Selamat sore, sehat selalu Bu.",positive,normal,middle,26.24,31.36,3
+silence,,neutral,none,none,31.36,32.16,3
+Customer,Oke. Makasih.,positive,falling,middle,32.16,33.36,3

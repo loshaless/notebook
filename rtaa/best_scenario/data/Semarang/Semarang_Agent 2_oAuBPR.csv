@@ -1,0 +1,50 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Fanya bagaimana saya bisa membantu,neutral,rising,middle,0.0,1.6,1
+Customer,Halo selamat sore Mbak,neutral,falling,middle,1.6,2.8,1
+Agent,Iya dengan Bapak siapa saya berbicara,neutral,rising,middle,2.8,4.0,1
+Customer,Saya Martupa,neutral,falling,middle,4.0,4.8,1
+Agent,Bapak Martupa perlu hal apa yang bisa dibantu,neutral,rising,middle,4.8,6.4,1
+Customer,Ini lho Mbak saya tuh mau blokir otomobil saya Mbak soalnya handphone-nya itu hilang Mbak,neutral,falling,middle,6.4,11.2,1
+Agent,Baik,neutral,falling,middle,11.2,11.6,1
+silence,,neutral,none,none,11.6,12.6,1
+Agent,Bapak Martupa untuk kartu debitnya boleh disebutkan,neutral,rising,middle,12.6,15.6,1
+Customer,Ehm nomor kartu debit saya 5244,neutral,falling,middle,15.6,18.0,1
+Agent,6218,neutral,falling,middle,18.0,18.8,1
+Customer,Iya,neutral,falling,middle,18.8,19.2,1
+Agent,1287,neutral,falling,middle,19.2,20.0,1
+Customer,Iya,neutral,falling,middle,20.0,20.4,1
+Agent,8214,neutral,falling,middle,20.4,21.2,1
+Customer,Terima kasih Bapak Martupa,neutral,falling,middle,21.2,22.4,1
+Agent,Heeh,neutral,falling,middle,22.4,22.8,1
+silence,,neutral,none,none,22.8,23.8,1
+Agent,Karena handphone-nya hilang ya Pak,neutral,rising,middle,23.8,26.4,1
+Customer,Iya benar,neutral,falling,middle,26.4,27.6,1
+silence,,neutral,none,none,27.6,28.6,1
+Agent,Untuk waktu mobilnya sudah berah eh mohon maaf untuk nomor kartunya akan saya bantu verifikasi terlebih dahulu kartu debitnya apa sudah dilengkapi dengan PIN,neutral,rising,middle,28.6,36.4,1
+Agent,Heeh sudah,neutral,falling,middle,0.0,0.5,2
+Customer,"Akan saya alihkan Bapak ke sistem tarif, nanti setelah ter-instruksi mau ditekan dalam kode-nya ya",neutral,falling,middle,0.5,2.8,2
+Agent,Heeh,neutral,falling,middle,2.8,3.1,2
+Customer,Saya alihkan,neutral,falling,middle,3.1,3.6,2
+Agent,"Oke, Bapak sudah benar",positive,falling,middle,3.6,4.5,2
+Customer,"Terima kasih Bapak Martupa untuk verifikasinya, sudah benar",positive,falling,middle,4.5,6.4,2
+Agent,Heeh,neutral,falling,middle,6.4,6.8,2
+Customer,"Untuk selanjutnya, pembukaan blokir akan saya lakukan",neutral,falling,middle,6.8,8.3,2
+Agent,"Mohon maaf, saya ralat, pem- pemblokiran otomotif akan saya lakukan",neutral,falling,middle,8.3,10.5,2
+Customer,Heeh,neutral,falling,middle,10.5,10.8,2
+Agent,Heeh,neutral,falling,middle,10.8,11.1,2
+Agent,"Bapak Martupa, saya konfirmasi pada hari ini tepatnya tanggal 18 Januari 2025 untuk otomotif Bapak sudah berhasil diblokir",positive,falling,middle,11.1,16.7,2
+Agent,Kemudian ada lagi yang bisa dibantu?,neutral,rising,middle,16.7,18.1,2
+Customer,"Nah, itu Mbak, tadi kan eh handphone saya itu kan hilang Mbak, saya mau mattiin saldo rekening saya Mbak",neutral,falling,middle,18.1,22.2,2
+Customer,Itu eh benar nggak Mbak saldo saya sekarang itu 14.500.000,neutral,rising,middle,22.2,26.7,2
+Agent,"Untuk hal tersebut benar Bapak, saldo rekening Bapak sesuai dengan aa yang disampaikan oleh Bapak Martupa",positive,falling,middle,26.7,31.3,2
+Customer,"Heeh, 14.500.000 ya?",neutral,rising,middle,31.3,33.2,2
+Agent,Iya,neutral,falling,middle,33.2,33.7,2
+Customer,Oke deh Mbak kalau gitu,neutral,falling,middle,33.7,35.2,2
+Agent,Ada lagi yang bisa dibantu Bapak Martupa?,neutral,rising,middle,35.2,37.1,2
+Customer,"Sudah itu saja, Pak, nanti saya mau datang ke cabang saja ngurusin semuanya",neutral,falling,middle,37.1,40.8,2
+Agent,"Baik, terima kasih Bapak Martupa telah menghubungi kami",positive,falling,middle,40.8,43.4,2
+Agent,Ya,neutral,normal,middle,0.0,0.1,3
+silence,,neutral,none,none,0.1,0.5,3
+Customer,Selamat sore saja selalu,neutral,falling,middle,0.5,1.3,3
+Agent,Iya,neutral,normal,middle,1.3,1.6,3
+silence,,neutral,none,none,1.6,2.0,3

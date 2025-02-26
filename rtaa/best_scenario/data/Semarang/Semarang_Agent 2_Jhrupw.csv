@@ -1,0 +1,82 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.22,1
+Agent,Selamat sore dengan BNI bagaimana saya bisa membantu?,neutral,rising,middle,0.22,1.21,1
+silence,,neutral,none,none,1.21,1.52,1
+Customer,Halo selamat sore mau tanya,neutral,falling,middle,1.52,2.15,1
+silence,,neutral,none,none,2.15,2.33,1
+Agent,Iya dengan Bapak siapa saya berbicara?,neutral,rising,middle,2.33,2.95,1
+silence,,neutral,none,none,2.95,3.14,1
+Customer,Saya Martupa,neutral,falling,middle,3.14,3.55,1
+silence,,neutral,none,none,3.55,3.72,1
+Agent,"Bapak Martupa, periaalan apa yang bisa dibantu?",neutral,rising,middle,3.72,4.67,1
+silence,,neutral,none,none,4.67,4.91,1
+Customer,"Ee ini saya mau ini ee mau saya deposit, deposit saya",neutral,falling,middle,4.91,6.03,1
+silence,,neutral,none,none,6.03,6.27,1
+Agent,"Baik Bapak Martupa, untuk pencairan deposito boleh disebutkan nomor NIK-nya?",neutral,rising,middle,6.27,7.68,1
+silence,,neutral,none,none,7.68,7.89,1
+Customer,3323,neutral,falling,middle,7.89,8.2,1
+Agent,Iya,neutral,falling,middle,8.2,8.36,1
+Customer,0423,neutral,falling,middle,8.36,8.66,1
+Agent,Iya,neutral,falling,middle,8.66,8.82,1
+Customer,0199,neutral,falling,middle,8.82,9.11,1
+Agent,Iya,neutral,falling,middle,9.11,9.27,1
+Customer,0001,neutral,falling,middle,9.27,9.56,1
+Agent,"Terima kasih, kemudian untuk nominal pencairan depositonya berapa Pak?",neutral,rising,middle,9.56,10.9,1
+silence,,neutral,none,none,10.9,11.04,1
+Customer,Hm 15 juta,neutral,falling,middle,11.04,11.53,1
+silence,,neutral,none,none,11.53,11.66,1
+Customer,750,neutral,falling,middle,11.66,11.93,1
+silence,,neutral,none,none,11.93,12.07,1
+Customer,750,neutral,falling,middle,12.07,12.35,1
+Agent,Terima kasih Bapak Martupa,neutral,falling,middle,12.35,12.98,1
+silence,,neutral,none,none,12.98,13.15,1
+Customer,Heem,neutral,falling,middle,13.15,13.32,1
+silence,,neutral,none,none,13.32,13.49,1
+Customer,Tanggal berapa ini tanggal berapa?,neutral,rising,middle,13.49,14.22,1
+Agent,Untuk pencairan deposito ini akan kami bantu buat kan permohonan terlebih dahulu ya Pak,neutral,falling,middle,14.22,15.63,1
+silence,,neutral,none,none,15.63,15.83,1
+Customer,Oh ditunggu sebentar,neutral,falling,middle,15.83,16.38,1
+silence,,neutral,none,none,0.0,0.4,2
+Agent,Sebentar,neutral,falling,middle,0.4,0.9,2
+silence,,neutral,none,none,0.9,1.4,2
+Customer,Bapak Bapak terima kasih kesabaran menunggu di sini untuk pencairan deposito ada biaya atas pencairan deposito tersebut ya Pak sebesar Rp50.000,neutral,falling,middle,1.4,8.8,2
+silence,,neutral,none,none,8.8,9.3,2
+Customer,Enggak apa-apa Mbak,neutral,falling,middle,9.3,10.5,2
+Agent,Baik,neutral,falling,middle,10.5,10.9,2
+silence,,neutral,none,none,10.9,11.4,2
+Agent,Apakah Bapak setuju dengan nilai yang disampaikan atau dengan empat biaya tersebut Baik,neutral,falling,middle,11.4,16.4,2
+silence,,neutral,none,none,16.4,16.9,2
+Customer,Setuju,neutral,falling,middle,16.9,17.3,2
+Agent,Setuju Mbak,neutral,falling,middle,17.3,18.0,2
+silence,,neutral,none,none,18.0,18.5,2
+Agent,Untuk selanjutnya Bapak akan saya bantu verifikasi OTP ya Pak,neutral,falling,middle,18.5,22.6,2
+silence,,neutral,none,none,22.6,23.1,2
+Customer,Heeh,neutral,falling,middle,23.1,23.6,2
+Agent,Sudah saya kirimkan kode OTP-nya Bapak sudah,neutral,falling,middle,23.6,27.1,2
+silence,,neutral,none,none,27.1,27.6,2
+Customer,Oke,neutral,falling,middle,27.6,28.0,2
+Agent,Baik akan saya alihkan Bapak ke sistem untuk verifikasi OTP nanti setelah sudah instruksi mau dimasukkan enam kodenya,neutral,falling,middle,28.0,35.2,2
+Customer,Oke,neutral,normal,middle,0.0,0.3,3
+silence,,neutral,none,none,0.3,0.6,3
+Customer,Pastikan,neutral,normal,middle,0.6,1.0,3
+silence,,neutral,none,none,1.0,1.3,3
+Customer,Pascode-nya sudah masuk benar?,neutral,rising,middle,1.3,2.4,3
+Agent,Terima kasih Bapak untuk pascode-nya sudah benar,positive,normal,middle,2.4,4.1,3
+silence,,neutral,none,none,4.1,4.4,3
+Agent,Kemudian,neutral,normal,middle,4.4,4.9,3
+silence,,neutral,none,none,4.9,5.2,3
+Agent,di sini untuk nomor pelaporan,neutral,normal,middle,5.2,6.1,3
+silence,,neutral,none,none,6.1,6.4,3
+Agent,pencairan deposito-nya di 25012400 ya,neutral,rising,middle,6.4,8.3,3
+Customer,Heeem,neutral,normal,middle,8.3,8.7,3
+silence,,neutral,none,none,8.7,9.0,3
+Customer,Ada lagi yang bisa dibantu Bapak?,neutral,rising,middle,9.0,10.2,3
+Agent,Sudah itu saja Mbak,neutral,normal,middle,10.2,10.9,3
+silence,,neutral,none,none,10.9,11.2,3
+Agent,Baik jadi seperti itu Terima kasih Bapak,positive,normal,middle,11.2,12.5,3
+silence,,neutral,none,none,12.5,12.8,3
+Agent,waktu Bapak telah menghubungi SIA Bisnis,neutral,normal,middle,12.8,14.0,3
+silence,,neutral,none,none,14.0,14.3,3
+Agent,Selamat sore semoga sukses selalu,positive,falling,middle,14.3,15.7,3
+Customer,Oke,neutral,normal,middle,15.7,16.0,3
+silence,,neutral,none,none,16.0,16.3,3

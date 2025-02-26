@@ -1,0 +1,66 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.8,1
+Agent,"Selamat sore dengan Naira, bagaimana saya bisa membantu?",neutral,rising,middle,0.8,3.2,1
+silence,,neutral,none,none,3.2,3.5,1
+Customer,Sore Mbak Naira,neutral,falling,middle,3.5,4.3,1
+silence,,neutral,none,none,4.3,4.5,1
+Agent,Sore dengan Ibu siapa silakan sebutkan,neutral,rising,middle,4.5,6.4,1
+silence,,neutral,none,none,6.4,6.8,1
+Customer,Ee Intan,neutral,falling,middle,6.8,7.5,1
+silence,,neutral,none,none,7.5,7.8,1
+Agent,"Baik Ibu Intan,  perkara apa yang bisa saya bantu?",neutral,rising,middle,7.8,10.5,1
+silence,,neutral,none,none,10.5,10.9,1
+Customer,Ee Mbak saya mau batalin itu asuransi kartu kredit itu loh yang apa ya namanya ya?,neutral,rising,middle,10.9,17.1,1
+silence,,neutral,none,none,17.1,17.5,1
+Agent,Hmm Kredit Protekto,neutral,falling,middle,17.5,19.1,1
+silence,,neutral,none,none,19.1,19.4,1
+Customer,"Kredit Protekto ya, baik. Sebelumnya untuk dari alasan pembatalannya dikarnakan apa Bu?",neutral,rising,middle,19.4,25.3,1
+silence,,neutral,none,none,25.3,25.7,1
+Customer,"Ya kayaknya saya enggak butuh deh Mbak, saya sudah ada sih asuransi lain",neutral,falling,middle,25.7,30.4,1
+silence,,neutral,none,none,30.4,30.8,1
+Agent,"Baik, untuk prosesnya Ibu boleh sebutkan Ibu nomor kartu kreditnya",neutral,rising,middle,30.8,35.0,1
+silence,,neutral,none,none,35.0,35.4,1
+Customer,6336,neutral,falling,middle,35.4,36.4,1
+silence,,neutral,none,none,36.4,36.7,1
+Agent,Iya,neutral,falling,middle,36.7,37.1,1
+Customer,9334,neutral,falling,middle,37.1,38.1,1
+silence,,neutral,none,none,38.1,38.4,1
+Agent,Baik,neutral,falling,middle,38.4,39.0,1
+Customer,4789,neutral,falling,middle,39.0,40.0,1
+silence,,neutral,none,none,40.0,40.3,1
+Agent,Iya,neutral,falling,middle,40.3,40.7,1
+Customer,1456,neutral,falling,middle,40.7,41.6,1
+silence,,neutral,none,none,41.6,41.9,1
+Agent,1456,neutral,falling,middle,41.9,42.7,1
+silence,,neutral,none,none,42.7,43.0,1
+Customer,Iya,neutral,falling,middle,43.0,43.5,1
+silence,,neutral,none,none,43.5,43.8,1
+Agent,"Baik Ibu, untuk prosesnya sebelumnya ini saya akan alihkan ke sistem terlebih dahulu ya untuk verifikasi PIN kartu ATM, nanti silakan Ibu Intan tekan nomor digit PIN kartu ATM setelah terdengar instruksi",neutral,rising,middle,43.8,54.5,1
+silence,,neutral,none,none,54.5,54.9,1
+Customer,Ooh bukan kartu,neutral,falling,middle,54.9,56.6,1
+Customer,"Mohon maaf ya Mbak, ini saya mau kredit protektor ini kartu kredit saya Mbak.",neutral,normal,middle,0.0,3.0,2
+Agent,"Iya. Kartu kredit. Mohon maaf Ibu, saya bantu konfirmasi kembali ya. Saya akan analisa Ibu. Silakan nanti tekan PIN kartu kreditnya, kemudian diakhiri dengan tanda pagar ya Bu.",neutral,normal,middle,3.0,9.7,2
+Customer,Oke.,neutral,normal,middle,9.7,10.4,2
+Agent,Baik. Saya analisa.,neutral,normal,middle,10.4,11.5,2
+silence,,neutral,none,none,11.5,12.6,2
+Agent,"Baik. Terima kasih sebelumnya Ibu Intan, tolong masukkan kartu kredit dengan benar. Baik, jika untuk dari perihal pembatalan tersebut ya Bu ya, maka di sini nanti prosesnya adalah 2 hari kerja. Dan kemudian untuk premi yang sudah dibayarkan nanti tidak dapat dikembalikan ya Bu.",neutral,normal,middle,12.6,26.4,2
+Customer,"Oh, enggak bisa dibalikin ya Mbak ya? Yang sudah pernah saya eh bayarkan itu?",negative,rising,middle,26.4,33.2,2
+Agent,"Iya, betul Ibu Intan.",neutral,normal,middle,33.2,36.1,2
+Customer,"Oh, padahal barangnya saya bayar tadi protektornya banyak lho Mbak. Itu Rp2.730.000 eh ya Rp2.730.000. Itu enggak bisa dibalikin ya Mbak ya?",negative,rising,middle,36.1,48.6,2
+Agent,"Iya Ibu, jika yang sudah dibayarkan tidak bisa dibatalkan Ibu Intan. Mohon maaf.",neutral,normal,middle,48.6,55.4,2
+Customer,Maaf,neutral,falling,middle,0.0,0.4,3
+silence,,neutral,none,none,0.4,0.8,3
+Agent,"Oh ya sudah deh kalau gitu buat laporan lungsur ya di bateri aja deh, biar bulan depan saya enggak ditagih lagi",neutral,falling,middle,0.8,3.4,3
+Customer,Baik,positive,falling,middle,3.4,3.8,3
+Agent,"Baik Ibu, jika permintaannya di sini, saya akan proses ya, mau ditunggu?",neutral,rising,middle,3.8,5.5,3
+Customer,Oke,positive,falling,middle,5.5,5.9,3
+Agent,Baik,positive,falling,middle,5.9,6.2,3
+Agent,"Baik terima kasih, Bu Intan, di sini laporannya sudah saya bentuk ya, saya informasikan di Charlie Bravo Golf 1123456, dan ini membutuhkan proses maksimal 5 hari kerja ya",neutral,falling,middle,6.2,12.6,3
+Customer,Oke,positive,falling,middle,12.6,13.0,3
+Agent,"Baik, ada lagi?",neutral,rising,middle,13.0,13.6,3
+Customer,"Ada nih, 2 hari masa kan 5 hari?",neutral,rising,middle,13.6,15.3,3
+Agent,"Baik, mohon maaf ya Bu ya, untuk pelacakannya saya revisikan di 2 hari kerja ya Bu",neutral,falling,middle,15.3,19.5,3
+Customer,Oke,positive,falling,middle,19.5,19.9,3
+Agent,"Baik, ada lagi yang bisa saya bantu Bu Intan?",neutral,rising,middle,19.9,22.0,3
+Customer,"Enggak, dah gitu aja",neutral,falling,middle,22.0,23.5,3
+Agent,"Baik, sumangat terima kasih Bu Intan, selamat beristirahat di sini aja, selamat sore, sukses selalu Bu",positive,falling,middle,23.5,29.0,3

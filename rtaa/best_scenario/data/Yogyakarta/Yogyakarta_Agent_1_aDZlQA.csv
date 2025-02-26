@@ -1,0 +1,100 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Citra bagaimana saya bisa membantu,neutral,falling,middle,0.0,2.25,1
+Customer,Sore Mbak Citra aku mau tanya,neutral,falling,middle,2.25,3.33,1
+Customer,Baik Ibu Kanya ada yang bisa saya bantu,neutral,falling,middle,3.33,4.5,1
+Customer,Saya mau aktifkan kartu kredit sudah saya isi formnya tapi kok belum bisa ya Mbak,negative,falling,middle,4.5,9.16,1
+Agent,Baik Ibu Kanya sudah dipastikan untuk penulisan format SMS-nya sesuai,neutral,falling,middle,9.16,13.12,1
+Customer,Sudah Mbak saya formatnya pas saya isi formnya PIN-nya sama kasih tanggal bulan dan tahun lahirnya sudah,neutral,falling,middle,13.12,19.83,1
+Customer,Mbak kasih tanda hubung di akhir huruf kok,neutral,falling,middle,19.83,22.66,1
+Agent,Betul PIN-nya sudah huruf besar ya Bu,neutral,falling,middle,22.66,25.5,1
+Customer,Sudah,neutral,falling,middle,25.5,26.16,1
+Agent,Kemudian untuk tanggal bulan dan tahun lahirnya sudah delapan angka,neutral,falling,middle,26.16,30.33,1
+Agent,Disambung ya Bu,neutral,falling,middle,30.33,32.0,1
+Agent,SMS menggunakan nomor handphone yang aktif dan terdaftar di bank Ibu,neutral,falling,middle,32.0,36.66,1
+Customer,Sudah,neutral,falling,middle,36.66,37.33,1
+Agent,Baik,neutral,falling,middle,37.33,38.0,1
+Agent,Untuk pengecekan lebih lanjut,neutral,falling,middle,38.0,40.33,1
+Agent,Bisa diinformasikan nomor kartu kreditnya,neutral,falling,middle,40.33,43.66,1
+Customer,Nomor kartu saya 5336,neutral,falling,middle,43.66,46.83,1
+Agent,Iya,neutral,falling,middle,46.83,47.5,1
+Customer,69516,neutral,falling,middle,47.5,49.33,1
+Agent,Iya,neutral,falling,middle,49.33,50.0,1
+Customer,31 38,neutral,normal,middle,0.0,0.4,2
+Agent,Iya,neutral,normal,middle,0.4,0.6,2
+Customer,38 97,neutral,normal,middle,0.6,1.0,2
+Agent,Baik,neutral,normal,middle,1.0,1.3,2
+Agent,Saya tanyakan beberapa hal terlebih dahulu ya Bu,neutral,rising,middle,1.3,2.3,2
+Customer,Iya,neutral,normal,middle,2.3,2.5,2
+Agent,Terima kasih,positive,normal,middle,2.5,2.9,2
+Agent,Ini saya lakukan pengecekan terlebih dahulu mohon ditunggu ya Bu,neutral,rising,middle,2.9,4.2,2
+Customer,Iya,neutral,normal,middle,4.2,4.4,2
+silence,,neutral,none,none,4.4,5.2,2
+Agent,Dibuka ya,neutral,rising,middle,5.2,5.7,2
+Agent,Untuk hari ini sudah melakukan permintaan PIN berapa kali,neutral,rising,middle,5.7,7.2,2
+Customer,Sudah 3 kali,neutral,normal,middle,7.2,7.9,2
+Agent,Baik,neutral,normal,middle,7.9,8.2,2
+Agent,Saya lakukan pengecekan terlebih dahulu untuk nomor handphone Ibu bisa diinformasikan,neutral,rising,middle,8.2,10.2,2
+Customer,Nomor handphone saya 081 87,neutral,normal,middle,10.2,11.0,2
+Customer,101,neutral,normal,middle,0.0,0.3,3
+Agent,Iya,neutral,normal,middle,0.3,0.5,3
+Customer,978,neutral,normal,middle,0.5,0.9,3
+Agent,Iya,neutral,normal,middle,0.9,1.1,3
+Customer,1401,neutral,normal,middle,1.1,1.6,3
+Agent,"Baik, mohon ditunggu ya Bu",neutral,normal,middle,1.6,2.4,3
+silence,,neutral,none,none,2.4,10.5,3
+Agent,"Ibu, kan ya? Terima kasih telah bersabar menunggu. Ini setelah saya lakukan pengecekan untuk status pengiriman PIN ke nomor handphone Ibu yang terdaftar di bank sudah berhasil. Apabila Ibu tidak menerima, saya buatkan laporannya ya Bu",positive,normal,middle,10.5,19.3,3
+Customer,Oh iya Pak,neutral,normal,middle,19.3,19.9,3
+Agent,"Baik, saya konfirmasi hari ini tanggal 8 Januari 2025 dengan selisih, komplemen Ibu masuk",neutral,normal,middle,19.9,23.8,3
+Agent,Mengenai kendala permintaan tim sudah kami proses dengan nomor pelaporan Charlie Bravo Golf Romeo Echo 0801 2500 1234,neutral,normal,middle,0.0,6.4,4
+Agent,Untuk laporan tersebut membutuhkan penanganan hingga tanggal 9 Januari 2025,neutral,normal,middle,6.4,12.3,4
+Agent,Untuk pengecekan laporan bisa melalui layanan WhatsApp CS Viniaaga di nomor 08111 978 14041 dengan menyebutkan nama lengkap dan nomor pelaporan,neutral,normal,middle,12.3,23.8,4
+Agent,Untuk nomor laporannya sudah kami kirimkan melalui SMS ke nomor handphone Ibu yang terdaftar di bank ya,neutral,rising,middle,23.8,31.7,4
+silence,,neutral,none,none,31.7,32.6,4
+Agent,Ada lagi yang bisa saya bantu Ibu?,neutral,rising,middle,32.6,35.5,4
+Customer,"Iya Mbak, eh kalau tadi kan saya transaksi, eh total transaksi saya itu Rp4.356.000, tapi eh kayaknya saya kalau masukin itu, eh saldo saya kurang, Mbak. Tolong buka lagi ya Mbak?",negative,normal,middle,35.5,53.7,4
+Agent,"Baik, untuk transaksi",neutral,normal,middle,53.7,56.8,4
+Agent,Transaksi nya menggunakan otomobail ya Bu?,neutral,rising,middle,0.0,1.2,5
+Customer,Iya Pak,neutral,normal,middle,1.2,1.6,5
+Agent,Untuk pengecekan lebih lanjut bisa tolong sebutkan nomor kartu ATM atau nomor rekening tabungan?,neutral,rising,middle,1.6,4.3,5
+Customer,Nomor rekening aja ya Pak,neutral,normal,middle,4.3,5.2,5
+Agent,Baik,neutral,normal,middle,5.2,5.5,5
+Customer,Nomor rekening nya 006,neutral,normal,middle,5.5,6.7,5
+Agent,Iya,neutral,normal,middle,6.7,6.9,5
+Customer,1,neutral,normal,middle,6.9,7.1,5
+Agent,700,neutral,normal,middle,7.1,7.6,5
+Customer,06,neutral,normal,middle,7.6,7.9,5
+Agent,12,neutral,normal,middle,7.9,8.2,5
+Customer,12,neutral,normal,middle,8.2,8.5,5
+Agent,34,neutral,normal,middle,8.5,8.8,5
+Customer,34,neutral,normal,middle,8.8,9.1,5
+Agent,Terus 51,neutral,normal,middle,9.1,9.6,5
+Customer,Iya benar Pak,neutral,normal,middle,9.6,10.4,5
+Agent,"Baik, untuk rekening Ibu dilengkapi dengan kartu ATM?",neutral,rising,middle,10.4,12.3,5
+Customer,Iya,neutral,normal,middle,12.3,12.6,5
+Agent,Saya akan alihkan Ibu ke sistem untuk verifikasi PIN terlebih dahulu. Silahkan tekan enam digit PIN kartu ATM diakhiri dengan tanda pagar setelah instruksi ya Bu. Saya alihkan,neutral,falling,middle,12.6,19.2,5
+silence,,neutral,none,none,19.2,21.5,5
+Agent,Terima kasih. Untuk pembukaan blokir dari otomobail saya tanyakan beberapa hal terlebih dahulu.,neutral,falling,middle,21.5,26.6,5
+silence,,neutral,none,none,26.6,27.6,5
+Agent,Nominal transaksi terakhir?,neutral,rising,middle,27.6,29.3,5
+Customer,berapa bu?,neutral,falling,middle,0.0,0.6,6
+Agent,total nilai transaksi terakhir saya Rp4 juta,neutral,falling,middle,0.6,2.2,6
+Customer,iya,neutral,falling,middle,2.2,2.5,6
+Agent,"Rp356.000,- ya seperti yang saya sebutkan tadi bu",neutral,falling,middle,2.5,4.9,6
+Customer,baik terima kasih atas informasinya,positive,falling,middle,4.9,6.6,6
+Agent,saya akan kirimkan kode verifikasi ke nomor handphone ibu yang terdaftar,neutral,falling,middle,6.6,9.0,6
+Agent,kode verifikasinya sudah saya kirimkan melalui SMS ya bu,neutral,falling,middle,9.0,11.3,6
+Customer,iya,neutral,falling,middle,11.3,11.6,6
+Agent,apakah sudah diterima?,neutral,rising,middle,11.6,12.7,6
+Customer,sudah pak,neutral,falling,middle,12.7,13.3,6
+Agent,baik jika sudah diterima saya akan alihkan kembali ke sistem untuk input kode tersebut ya,neutral,falling,middle,13.3,17.3,6
+Agent,saya alihkan,neutral,falling,middle,17.3,18.0,6
+silence,,neutral,none,none,18.0,20.1,6
+Agent,terima kasih untuk,positive,falling,middle,20.1,21.2,6
+Agent,kode OTP sudah sesuai,neutral,falling,middle,21.2,22.8,6
+Agent,selanjutnya eh okto mobile ibu sudah kami buka blokir,neutral,falling,middle,22.8,26.2,6
+Agent,ibu bisa menggunakan okto mobile nya dalam waktu 5 menit ke depan,neutral,falling,middle,26.2,29.7,6
+Agent,ada lagi yang bisa dibantu?,neutral,rising,middle,29.7,31.4,6
+Customer,enggak pak,neutral,falling,middle,31.4,32.4,6
+Agent,"baik terima kasih bu,  kan jalan-jalan siang ini ya, selamat sore, selamat beraktivitas kembali ya bu",positive,falling,middle,32.4,37.5,6
+Customer,"iya, sama-sama pak",positive,falling,middle,37.5,39.1,6
+silence,,neutral,none,none,39.1,40.1,6

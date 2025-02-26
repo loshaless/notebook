@@ -1,0 +1,82 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fira, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.0,1
+Customer,"Iya, halo Mbak Fira. Mbak Fira, ini saya mau tanya, kemarin saya kan ngajuin pembukaan ini ya, program ekstra dana, saya nasabah baru sih Mbak, bisa dicek enggak ya dari Mbak Fira?",neutral,falling,middle,2.0,11.0,1
+Agent,"Iya, bisa Ibu sebutkan dengan Ibu siapa saya berbicara? Saya dengan Nina Mbak, Ibu Nina ya.",neutral,falling,middle,11.0,16.8,1
+Customer,Iya.,neutral,falling,middle,16.8,17.4,1
+Agent,Boleh disebutkan nomor rekeningnya Ibu?,neutral,falling,middle,17.4,19.6,1
+Customer,"Eh, nomor rekeningnya belum ada Mbak.",neutral,falling,middle,19.6,22.4,1
+Agent,Adanya nomor apa ya? Saya kan nasabah baru tuh.,neutral,falling,middle,22.4,26.3,1
+Customer,"Baik, boleh disebutkan nomor KTP Ibu terlebih dahulu.",neutral,falling,middle,26.3,30.3,1
+Agent,"KTP-nya saja ya? Iya, boleh. Ini ada di 3323",neutral,falling,middle,30.3,34.8,1
+Customer,Iya.,neutral,falling,middle,34.8,35.3,1
+Agent,0423,neutral,falling,middle,35.3,37.0,1
+Customer,Iya.,neutral,falling,middle,37.0,37.6,1
+Agent,0199,neutral,falling,middle,37.6,39.3,1
+Customer,Iya.,neutral,falling,middle,39.3,39.9,1
+Agent,0001.,neutral,falling,middle,39.9,41.6,1
+Agent,"Saya ulang ya Ibu, 3323",neutral,falling,middle,41.6,44.8,1
+Customer,"Eh, eh",neutral,falling,middle,44.8,45.9,1
+Agent,0423,neutral,falling,middle,45.9,47.5,1
+Customer,"Eh, eh",neutral,falling,middle,47.5,48.5,1
+Agent,0199,neutral,falling,middle,48.5,50.1,1
+Customer,"Eh, eh",neutral,falling,middle,50.1,51.1,1
+Agent,0001.,neutral,falling,middle,51.1,52.8,1
+Customer,Iya.,neutral,falling,middle,52.8,53.4,1
+silence,,neutral,none,none,53.4,54.6,1
+Agent,"Baik, Ibu Nina, saya akan cek dulu ya, saya mohon menunggu sebentar.",neutral,falling,middle,54.6,59.4,1
+Customer,Oke.,neutral,falling,middle,59.4,60.1,1
+silence,,neutral,none,none,60.1,62.4,1
+Agent,"Ibu Nina, saya mohon maaf ya, untuk program ekstra dana ini, Ibu belum bisa mengajukan karena Ibu belum menjadi nasabah aktif.",neutral,falling,middle,62.4,72.9,1
+Customer,"Oh ya, berarti saya harus aktifkan dulu ya?",neutral,rising,middle,72.9,77.2,1
+Agent,"Iya, Ibu harus aktifkan dulu ya, Ibu bisa datang ke kantor cabang terdekat, atau Ibu bisa menghubungi customer service kami di nomor ini.",neutral,falling,middle,77.2,85.7,1
+Customer,"Oke, oke, baik. Terima kasih ya Mbak Fira.",positive,falling,middle,85.7,90.7,1
+Agent,"Sama-sama, Ibu Nina. Selamat sore.",neutral,falling,middle,90.7,94.5,1
+Customer,Selamat sore.,neutral,falling,middle,94.5,96.2,1
+Customer,690001,neutral,normal,middle,0.0,0.7,2
+Agent,Iya betul,neutral,normal,middle,0.7,1.3,2
+Customer,Baik mohon ditunggu terlebih dahulu Ibu Nina 18 detik,neutral,falling,middle,1.3,3.2,2
+Agent,Oke,neutral,normal,middle,3.2,3.5,2
+Agent,Iya,neutral,normal,middle,3.5,3.8,2
+silence,,neutral,none,none,3.8,12.8,2
+Agent,Ibu Nina terima kasih atas kesabaran menunggu ini kami masih melakukan pengecekan ya Ibu mohon ditunggu kembali,neutral,falling,middle,12.8,19.4,2
+Customer,Iya,neutral,normal,middle,19.4,19.8,2
+Agent,Ibu Nina terima kasih atas pesanan menunggu untuk proses pembukaan ekstra dana tadi kan Ibu sudah menginformasikan jika memang eh Ibu di sini bukan nasabah Sejahtera ini ya Ibu,neutral,falling,middle,0.0,8.31,3
+Customer,Iya betul saya baru ngajuin kemarin itu saya ngajuin ekstra dananya itu nominalnya ini Mbak eh boleh dicatat ya Mbak,neutral,falling,middle,8.31,16.11,3
+Agent,Iya,neutral,normal,middle,16.11,16.48,3
+Customer,Di 11 juta,neutral,falling,middle,16.48,17.42,3
+Agent,11 juta 567 ribu,neutral,falling,middle,17.42,18.49,3
+Customer,Iya,neutral,normal,middle,18.49,18.78,3
+Agent,550,neutral,falling,middle,18.78,19.18,3
+Agent,Saya ulang ya Ibu di 11 juta 567 ribu 550 ribu,neutral,falling,middle,19.18,22.88,3
+Customer,Iya betul,neutral,falling,middle,22.88,23.75,3
+Agent,Saya lakukan pengecekan kembali Ibu,neutral,falling,middle,23.75,26.29,3
+Customer,Iya masih ini masih proses atau sudah disetujui atau belum disetujui gitu ya Mbak,neutral,falling,middle,26.29,31.84,3
+Agent,Baik mohon ditunggu aja berapa lama,neutral,falling,middle,31.84,34.54,3
+silence,,neutral,none,none,34.54,35.05,3
+Agent,Lakukan analisis,neutral,falling,middle,35.05,36.03,3
+Agent,Saya harus tunggu gitu,neutral,falling,middle,0.0,1.1,4
+Customer,Baik,neutral,falling,middle,1.1,1.5,4
+Agent,Oke,neutral,falling,middle,1.5,1.8,4
+silence,,neutral,none,none,1.8,2.6,4
+Customer,Ibu Nina terima kasih atas kesabaran menunggu ya Ibu,positive,falling,middle,2.6,5.6,4
+Agent,Heeem,neutral,falling,middle,5.6,5.9,4
+Customer,Ini kan eh Ibu sebelumnya pengajuannya eh baru beberapa hari yang lalu ya Ibu,neutral,falling,middle,5.9,10.5,4
+Agent,Heeem betul,neutral,falling,middle,10.5,11.3,4
+Agent,Baik untuk proses pengajuannya itu paling cepatnya 2 minggu jadi paling kami sarankan Ibu Nina bisa menghubungi kami kembali atau nanti ditunggu kurang lebih 2 minggu Ibu seperti itu atau 14 hari gitu,neutral,falling,middle,11.3,22.1,4
+Customer,Heeem,neutral,falling,middle,22.1,22.5,4
+Customer,Heeem,neutral,falling,middle,22.5,22.8,4
+Customer,Oh oh 14 oh 2 minggunya berarti hitungannya hari kerja ya,neutral,rising,middle,22.8,28.3,4
+Agent,Iya betul,neutral,falling,middle,28.3,29.1,4
+Customer,14 hari kerja Mbak oh 14 hari kerja mungkin sekitar 3 mingguan ya,neutral,falling,middle,29.1,35.5,4
+Agent,Iya sekitar itu,neutral,falling,middle,35.5,37.0,4
+Customer,Betul Ibu oh,neutral,falling,middle,37.0,38.5,4
+Customer,Mungkin akhir bulan kali saya telepon ya,neutral,falling,middle,38.5,42.2,4
+Agent,Iya betul Ibu,neutral,falling,middle,42.2,43.8,4
+Customer,Oh gitu ya sudah oke deh Mbak,neutral,falling,middle,43.8,47.5,4
+Agent,Baik ada lagi Ibu Nina yang bisa saya bantu,neutral,falling,middle,47.5,50.9,4
+Customer,Iya eh itu aja Mbak,neutral,falling,middle,50.9,53.2,4
+Agent,Baik terima kasih Ibu Nina sudah menghubungi kami ya selamat sore sehat selalu ya Ibu,positive,falling,middle,53.2,60.2,4
+Customer,Iya,neutral,falling,middle,60.2,60.6,4
+Customer,Iya terima kasih Mbak,positive,falling,middle,60.6,63.0,4
+Agent,Sama-sama Ibu,neutral,falling,middle,63.0,64.5,4
+silence,,neutral,none,none,64.5,65.2,4

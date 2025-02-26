@@ -1,0 +1,51 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Naira, bagaimana saya bisa membantu?",neutral,rising,middle,0.0,2.12,1
+Customer,Sore Mbak Naira,neutral,falling,middle,2.12,2.86,1
+Agent,"Selamat sore Bu, dengan Ibu siapa sebelumnya saya berbicara?",neutral,rising,middle,2.86,4.52,1
+Customer,Saya Afaya,neutral,falling,middle,4.52,5.1,1
+Agent,"Ibu Afaya,  terkait apa yang bisa saya bantu?",neutral,rising,middle,5.1,6.34,1
+Customer,"Saya mau daftarin eh statement dong Mbak, biar lembaran tagihannya dikirimkan via email gitu",neutral,falling,middle,6.34,9.68,1
+Agent,"Baik,  begitu ya Bu. Untuk permintaannya,  di bantu verifikasi PIN kartu ATM. Nomor kartunya silakan disebutkan Ibu Afaya",neutral,falling,middle,9.68,14.34,1
+Customer,5336,neutral,falling,middle,14.34,14.84,1
+Customer,5336,neutral,falling,middle,14.84,15.36,1
+Customer,6740,neutral,falling,middle,15.36,15.92,1
+Customer,6740,neutral,falling,middle,15.92,16.44,1
+Customer,9011,neutral,falling,middle,16.44,17.04,1
+Customer,9011,neutral,falling,middle,17.04,17.52,1
+Agent,"Oke Mbak, saya ulangi ya nomor kartunya ya",neutral,falling,middle,17.52,19.16,1
+Customer,Iya,neutral,falling,middle,19.16,19.52,1
+Agent,5336,neutral,falling,middle,19.52,20.0,1
+Customer,Iya,neutral,falling,middle,20.0,20.36,1
+Agent,7409,neutral,falling,middle,20.36,20.88,1
+Customer,Iya,neutral,falling,middle,20.88,21.2,1
+Agent,0117,neutral,falling,middle,21.2,21.72,1
+Customer,Iya,neutral,falling,middle,21.72,22.0,1
+Agent,2626,neutral,falling,middle,22.0,22.56,1
+Agent,"Baik, saya kenali kan Ibu ke sistem untuk verifikasi",neutral,falling,middle,22.56,25.08,1
+Agent,Pin kartu ATM,neutral,normal,middle,0.0,0.56,2
+Agent,Nanti silakan Ibu afaya tekan enam digit pin kartu ATM-nya setelah terdengar instruksi kemudian diakhiri dengan tanda pagar ya Bu,neutral,normal,middle,0.56,3.2,2
+Customer,Oke,positive,normal,middle,3.2,3.56,2
+Customer,Baik,neutral,normal,middle,3.56,3.8,2
+Agent,Terima kasih Bu afaya sudah mencantumkan pin dengan benar ya Bu,positive,normal,middle,3.8,6.32,2
+Agent,Baik ini untuk dari pelaporan statement-nya sudah saya proses untuk dari pembuatan laporan,neutral,normal,middle,6.32,10.24,2
+Agent,Saya sebutkan ya Bu di Charlie Bravo Bravo Golf Nano Charlie Romeo Echo 1123456,neutral,normal,middle,10.24,15.28,2
+Customer,Oke Mbak mau ini dong mau mastiin saldo saya itu benar masih ada 1.250.500,neutral,normal,middle,15.28,21.2,2
+Customer,Benar enggak ya Mbak,neutral,rising,middle,21.2,22.8,2
+Agent,1.250.000,neutral,normal,middle,22.8,24.8,2
+Customer,500,neutral,normal,middle,24.8,25.44,2
+Agent,Bukan saldo Mbak sorry,neutral,normal,middle,25.44,27.68,2
+Agent,Sisa limit sih itu,neutral,normal,middle,27.68,29.6,2
+Agent,Lebih tepatnya,neutral,normal,middle,29.6,30.8,2
+Agent,Baik sisa limit ya Bu,neutral,normal,middle,30.8,33.2,2
+Customer,Iya,neutral,normal,middle,33.2,33.6,2
+Agent,Baik jika saya cek dari data kami betul ya Bu ya untuk sisa limit itu di 1.250.000,neutral,normal,middle,33.6,40.8,2
+Customer,"200.000 rupiah, Bu",neutral,falling,middle,0.0,1.1,3
+Agent,"Oke. Ya udah deh, itu dulu aja Mbak.",neutral,falling,middle,1.1,2.5,3
+Customer,Baik.,neutral,falling,middle,2.5,2.8,3
+Customer,Ada jalan kembalian bisa saya bantu Bu?,neutral,rising,middle,2.8,4.2,3
+Agent,"Enggak ada, itu aja.",neutral,falling,middle,4.2,5.0,3
+Customer,Baik.,neutral,falling,middle,5.0,5.3,3
+Customer,"Terima kasih Bu, saya talang hubungi ya. Selamat pagi, selamat sore, sehat selalu.",positive,falling,middle,5.3,7.9,3
+Agent,Sama-sama.,neutral,falling,middle,7.9,8.4,3
+Customer,Thank you.,positive,falling,middle,8.4,9.0,3
+silence,,neutral,none,none,9.0,9.3,3

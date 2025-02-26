@@ -1,0 +1,64 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat hari dengan Naira, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.2,1
+Customer,Selamat sore Mbak Naira.,neutral,falling,middle,2.2,3.3,1
+Agent,Selamat sore dengan Ibu. Siapa sebelumnya saat tadi bicara?,neutral,falling,middle,3.3,5.4,1
+Customer,Saya Irma.,neutral,falling,middle,5.4,6.2,1
+Agent,"Baik Ibu Irma, perhal apa yang bisa saya bantu Bu?",neutral,falling,middle,6.2,8.5,1
+Customer,"Eh Mbak, saya mau ngajuin kenaikan limit dong.",neutral,falling,middle,8.5,11.5,1
+Agent,"Baik, begitu ya.",neutral,falling,middle,11.5,12.6,1
+Customer,Yang sementara aja ya Mbak.,neutral,falling,middle,12.6,14.8,1
+Agent,Untuk sementara? Baik.,neutral,falling,middle,14.8,16.7,1
+Agent,Untuk saat ini sebelumnya untuk dari kartu kredit Ibu limitnya berapa?,neutral,falling,middle,16.7,21.1,1
+Customer,Eh nomor kartu saya ya Mbak?,neutral,rising,middle,21.1,23.5,1
+Agent,Iya.,neutral,falling,middle,23.5,24.0,1
+Customer,Di 5244.,neutral,falling,middle,24.0,25.8,1
+Agent,Iya.,neutral,falling,middle,25.8,26.3,1
+Customer,6218.,neutral,falling,middle,26.3,27.6,1
+Agent,Iya.,neutral,falling,middle,27.6,28.1,1
+Customer,1124.,neutral,falling,middle,28.1,29.4,1
+Agent,Baik.,neutral,falling,middle,29.4,29.9,1
+Customer,3453.,neutral,falling,middle,29.9,31.2,1
+Agent,Baik.,neutral,falling,middle,31.2,31.8,1
+Agent,"Baik Ibu, untuk dari limit kartu kredit Ibu saat ini, itu di nominal berapa Bu?",neutral,falling,middle,31.8,37.4,1
+Customer,"Eh, mohon verifikasi dulu Mbak.",neutral,rising,middle,37.4,39.8,1
+Agent,"Iya, mohon maaf ya Bu ya. Baik ini untuk proses buka data saya akan nalikan Ibu Irma ke sistem untuk verifikasi PIN kartu ATM, nanti",neutral,falling,middle,39.8,48.6,1
+Customer,Silakan Ibu tekan PIN kemudian diakhiri dengan tanda pagar.,neutral,normal,middle,0.0,2.6,2
+Agent,Saya alihkan ya Bu.,neutral,normal,middle,2.6,3.5,2
+silence,,neutral,none,none,3.5,3.8,2
+Agent,"Baik terima kasih Bu, gimana untuk verifikasi datanya sudah sesuai ya?",neutral,normal,middle,3.8,6.9,2
+Customer,Heeh.,neutral,normal,middle,6.9,7.4,2
+Agent,Baik. Terkait dari hal saya cek di sini untuk dari informasi limitnya di angka 1 juta betul ya Bu ya?,neutral,normal,middle,7.4,13.5,2
+Customer,Iya limit saya eh yang sekarang itu di 100 juta Mbak.,neutral,normal,middle,13.5,18.3,2
+Agent,"100 juta baik. Terkait dari pen- kenaikan limit sementara, jadi Ibu nanti yang dapat diajukan 50% dari limit awal. Kemudian untuk jangka waktu limit sementara maksimal 2 siklus ya Bu atau 2 bulan, dan bisa diperpanjang 1 bulan. Dan untuk dari perihal efektifnya Bu ya itu jika di hari kerja efektif di hari yang sama, tapi jika hari di luar jam kerja",neutral,normal,middle,18.3,35.2,2
+Customer,Heeh.,neutral,normal,middle,35.2,35.7,2
+Agent,itu maka efektifnya di hari kerja berikutnya Ibu.,neutral,normal,middle,35.7,40.2,2
+Customer,Oh kalau misalnya saya mau ngajuin itu kan tadi katanya 50% ya Mbak? Itu berarti kan 50 juta ya? Kalau misalnya saya mau ngajuin 35 juta,neutral,normal,middle,40.2,52.3,2
+Agent,Iya.,neutral,normal,middle,52.3,52.8,2
+Customer,bisa?,neutral,rising,middle,52.8,53.7,2
+Customer,Itu 500.650 itu bisa enggak Mbak?,neutral,falling,middle,0.0,2.0,3
+Agent,Baik,neutral,falling,middle,2.0,2.5,3
+Customer,Jika untuk terima pembayarannya sudah mencpai Bu jadi sudah bisa ya Bu ya?,neutral,rising,middle,2.5,5.3,3
+Agent,Oke bisa ya,positive,falling,middle,5.3,6.0,3
+Customer,Iya,neutral,falling,middle,6.0,6.3,3
+Customer,Tadi efektifnya di hari yang sama ya Mbak?,neutral,rising,middle,6.3,8.5,3
+Agent,Iya kita di hari kerja ya Bu ya di hari yang sama,neutral,falling,middle,8.5,11.4,3
+Customer,Oke terus saya mau ini dong Mbak mau nanya lagi kalau misalnya mau ee tagihannya itu dikirim via email caranya gimana ya Mbak ya?,neutral,rising,middle,11.4,18.5,3
+Agent,Harus daftar dulu atau saya datang ke cabang?,neutral,rising,middle,18.5,21.2,3
+Customer,Iya baik berarti untuk dari e-statement-nya dikirimkan ke email itu betul Ibu harus pendaftaran Ibu tidak usah khawatir ini pendaftarannya saya akan proses ya Bu ya?,neutral,falling,middle,21.2,29.0,3
+Agent,Oke baik alamat email saya Mbak,neutral,falling,middle,29.0,31.0,3
+Agent,Iya silakan disebutkan,neutral,falling,middle,31.0,32.6,3
+Customer,Di Irma Irma 123 123@gmail.com,neutral,falling,middle,32.6,37.6,3
+Agent,@gmail.com,neutral,falling,middle,37.6,39.0,3
+Customer,Oke berarti pendaftarannya ini bisa langsung dari contact center ya Mbak ya?,neutral,falling,middle,0.0,3.38,4
+Agent,Iya Bu,neutral,falling,middle,3.38,3.74,4
+Customer,Untuk eh daftar pengirimannya itu di berapa hari Mbak untuk pendaftarannya?,neutral,falling,middle,3.74,7.74,4
+Agent,Untuk pengiriman statement Bu pendaftarannya itu memakan waktu kurang lebih 7 hari kerja,neutral,falling,middle,7.74,14.42,4
+Customer,Oh berarti di bulan eh itu efektifnya kapan ya Mbak ya di bulan ini atau di bulan depan?,neutral,falling,middle,14.42,20.58,4
+Agent,Di bulan depan Bu baru efektif untuk pengirimannya,neutral,falling,middle,20.58,25.46,4
+Customer,Oke ya udah deh kalau gitu itu aja ya Mbak,neutral,falling,middle,25.46,29.82,4
+Agent,Baik ada hal lain yang bisa saya bantu Ibu Irma?,neutral,falling,middle,29.82,34.5,4
+Customer,Enggak ada itu aja,neutral,falling,middle,34.5,37.06,4
+Agent,Baik terima kasih Ibu Irma telah menghubungi kami ya selamat sore semoga selalu sehat ya Bu,positive,falling,middle,37.06,44.98,4
+Customer,Oke terima kasih,neutral,falling,middle,44.98,47.64,4
+silence,,neutral,none,none,47.64,49.86,4
+Customer,Selamat sore,neutral,falling,middle,49.86,52.26,4

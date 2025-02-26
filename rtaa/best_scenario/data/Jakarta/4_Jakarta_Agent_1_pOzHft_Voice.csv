@@ -1,0 +1,46 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Grasela bagaimana saya bisa membantu,neutral,falling,middle,0.0,2.23,1
+Customer,Iya selamat sore Mbak eh bisa tolong eh blokir oto mobile saya Mbak ini handphone saya hilang nih Mbak,neutral,falling,middle,2.23,7.2,1
+Agent,Begitu dengan Bapak siapa yang sedang berbicara Pak,neutral,falling,middle,7.2,9.13,1
+Customer,Doni Doni,neutral,falling,middle,9.13,9.77,1
+Agent,Bapak Doni,neutral,falling,middle,9.77,10.3,1
+Customer,Iya,neutral,falling,middle,10.3,10.54,1
+Agent,Nomor eh nomor keninya apakah masih diingat Pak,neutral,falling,middle,10.54,12.37,1
+Customer,Nomor keninya ada nomor kartu ya Mbak boleh nomor kartu ATM,neutral,falling,middle,12.37,15.61,1
+Agent,5244,neutral,falling,middle,15.61,16.14,1
+Customer,Iya,neutral,falling,middle,16.14,16.35,1
+Agent,6218,neutral,falling,middle,16.35,16.89,1
+Customer,Kemudian,neutral,falling,middle,16.89,17.27,1
+Agent,1287,neutral,falling,middle,17.27,17.79,1
+Customer,Iya,neutral,falling,middle,17.79,18.0,1
+Agent,8214,neutral,falling,middle,18.0,18.53,1
+Agent,Saya ulang kembali 5244,neutral,falling,middle,18.53,19.74,1
+Customer,Iya,neutral,falling,middle,19.74,19.96,1
+Agent,6218,neutral,falling,middle,19.96,20.49,1
+Customer,1287,neutral,falling,middle,20.49,21.02,1
+Agent,1287 8214,neutral,falling,middle,21.02,21.84,1
+Customer,Iya,neutral,falling,middle,21.84,22.06,1
+Agent,Jadi untuk dari handphone-nya hilang ya Pak,neutral,falling,middle,22.06,23.73,1
+Customer,Iya handphone-nya hilang Mbak,neutral,falling,middle,23.73,25.13,1
+Agent,Baik saya proses pemblokiran terlebih dahulu di tunggu sebentar ya Pak,neutral,falling,middle,25.13,28.59,1
+Customer,Iya,neutral,falling,middle,28.59,28.82,1
+silence,,neutral,none,none,28.82,30.09,1
+Agent,Bapak Doni terima kasih atas,neutral,falling,middle,30.09,31.45,1
+Customer,Sama enggak Mbak?,neutral,falling,middle,0.0,0.7,3
+Agent,Baik. Untuk informasi saldo saya tanyakan beberapa hal terlebih dahulu. Silakan disebutkan tanggal lahir.,neutral,falling,middle,0.7,3.3,3
+Customer,19 September 87,neutral,falling,middle,3.3,4.8,3
+Agent,Apakah Bapak memiliki jenis rekening lain di CIMB Niaga selain yang disebutkan tadi?,neutral,falling,middle,4.8,8.0,3
+Customer,Enggak ada Mbak.,neutral,falling,middle,8.0,8.8,3
+Agent,Nominal transaksi terakhir Bapak berapa? Salah satunya nominalnya saja.,neutral,falling,middle,8.8,12.4,3
+Customer,100.000,neutral,falling,middle,12.4,13.2,3
+Agent,"Baik, verifikasi data sudah sesuai. Untuk saldo saat ini sesuai Pak di 14.500.000. Jadi masih aman.",positive,falling,middle,13.2,18.6,3
+Customer,Masih sama ya?,neutral,rising,middle,18.6,19.7,3
+Agent,Iya.,neutral,falling,middle,19.7,20.1,3
+Customer,Berarti enggak ada pemakaian apa-apa ya Mbak?,neutral,rising,middle,20.1,22.8,3
+Agent,"Iya, setelah itu tidak ada pemakaian apa pun.",neutral,falling,middle,22.8,26.2,3
+Customer,Oke deh kalau gitu.,neutral,falling,middle,26.2,27.6,3
+Agent,"Baik, ada lagi bisa saya bantu?",neutral,rising,middle,27.6,29.5,3
+Customer,Eh itu aja Mbak cukup.,neutral,falling,middle,29.5,31.4,3
+Agent,"Terima kasih Bapak, dan ini telah menghubungi CIMB Niaga. Selamat sore, sehat selalu.",positive,falling,middle,31.4,36.2,3
+Customer,Iya.,neutral,falling,middle,36.2,36.9,3
+silence,,neutral,none,none,36.9,38.1,3

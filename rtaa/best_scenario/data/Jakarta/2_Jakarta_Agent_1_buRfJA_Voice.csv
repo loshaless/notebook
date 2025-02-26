@@ -1,0 +1,81 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Grasella, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.06,1
+Customer,Selamat sore,neutral,falling,middle,2.06,2.65,1
+Agent,"Sore, silakan, apa yang bisa saya bantu?",neutral,falling,middle,2.65,3.6,1
+Customer,"Mbak, eh kalau saya minta dibantu blokir kartu debit saya, hilang nih, Mbak",neutral,falling,middle,3.6,6.36,1
+Agent,"Begitu ya, Pak, dengan Bapak siapa saya berbicara?",neutral,falling,middle,6.36,7.7,1
+Customer,"Saya dengan Doni, Mbak",neutral,falling,middle,7.7,8.44,1
+Agent,Bapak Doni?,neutral,rising,middle,8.44,8.99,1
+Agent,"Baik, untuk pemblokiran kartu debit, Bapak masih mengingat nomor rekeningnya?",neutral,falling,middle,8.99,11.56,1
+Customer,"Rekeningnya, ada, kayaknya kartunya saya masih ada nih",neutral,falling,middle,11.56,13.27,1
+Agent,"Boleh, silakan",neutral,falling,middle,13.27,13.73,1
+Customer,5336,neutral,falling,middle,13.73,14.2,1
+Agent,Iya,neutral,falling,middle,14.2,14.4,1
+Customer,4000,neutral,falling,middle,14.4,14.87,1
+Agent,Iya,neutral,falling,middle,14.87,15.06,1
+Customer,1224,neutral,falling,middle,15.06,15.54,1
+Agent,Iya,neutral,falling,middle,15.54,15.73,1
+Customer,1995,neutral,falling,middle,15.73,16.2,1
+Agent,Saya ulang kembali 5336 4000 1224 1995,neutral,falling,middle,16.2,18.39,1
+Customer,Iya,neutral,falling,middle,18.39,18.58,1
+Agent,"Baik, kalau kami proseskan data terlebih dahulu, mohon ditunggu sebentar ya, Pak",neutral,falling,middle,18.58,21.66,1
+Customer,Iya iya,neutral,falling,middle,21.66,22.24,1
+Customer,"Agak cepat ya, Mbak, ini kartunya soalnya eh takut ada pemakaian nih",negative,falling,middle,22.24,25.54,1
+Agent,"Baik, sebentar ya, Pak",neutral,falling,middle,25.54,26.63,1
+silence,,neutral,none,none,26.63,29.35,1
+Agent,Bapak Doni terima kasih atas kesabarannya menunggu,neutral,falling,middle,0.0,1.64,2
+Agent,Perkonfirmasi hari ini dengan saya Gracella tanggal 8 Januari 2025,neutral,falling,middle,1.64,3.68,2
+Agent,melakukan pemblokiran kartu debit Bapak Doni karena hilang,neutral,falling,middle,3.68,5.8,2
+Agent,untuk transaksi yang terjadi sebelum pemblokiran dilakukan merupakan tanggung jawab nasabah,neutral,falling,middle,5.8,9.16,2
+silence,,neutral,none,none,9.16,9.84,2
+Customer,Ee Mbak Mbak ee terakhir itu kan saya transaksi 3.467.750,neutral,falling,middle,9.84,13.04,2
+Agent,Iya,neutral,falling,middle,13.04,13.4,2
+Customer,Habis itu ada transaksi lagi enggak,neutral,rising,middle,13.4,14.8,2
+Agent,Baik untuk pengecekan transaksi saya tanyakan beberapa hal,neutral,falling,middle,14.8,17.2,2
+Agent,Silakan disebutkan tanggal lahir,neutral,falling,middle,17.2,18.6,2
+Customer,9 Januari 1988,neutral,falling,middle,18.6,20.44,2
+Agent,9 Januari 1988,neutral,falling,middle,20.44,22.04,2
+Agent,Apakah Bapak memiliki jenis rekening lain di sini di BNI selain yang disebutkan tadi,neutral,falling,middle,22.04,25.44,2
+Customer,Satu Mbak,neutral,falling,middle,25.44,26.24,2
+Agent,Nominal transaksi terakhir tadi Bapak sebutkan 3.467.750 rupiah ya,neutral,rising,middle,26.24,29.64,2
+Customer,Iya 3.467.750,neutral,falling,middle,29.64,31.48,2
+Agent,Baik selangkan pemeriksaan mohon ditunggu ya Pak,neutral,falling,middle,31.48,34.0,2
+silence,,neutral,none,none,0.0,0.27,3
+Agent,Bapak Doni terima kasih atas kesabaran yang menunggu untuk transaksi yang Bapak sebutkan di 3 juta 467.75 rupiah ini ada Pak transaksinya di tanggal 8 Januari,neutral,falling,middle,0.27,4.01,3
+Customer,Itu ya iya,neutral,falling,middle,4.01,4.74,3
+Agent,Ada ya jadi setelah itu enggak ada transaksi lagi ya Pak,neutral,falling,middle,4.74,6.11,3
+Customer,Setelah itu tidak ada transaksi,neutral,falling,middle,6.11,7.12,3
+Agent,Iya Mbak sekalian ini eh blokir Otomotif saya Mbak ini hilang juga handphone saya,neutral,falling,middle,7.12,9.78,3
+Agent,Baik untuk jadi Otomotifnya akan saya bantu pemblokiran sebelumnya Otomotifnya aktif tidak Pak kami bantu pemblokiran juga untuk keamanan,neutral,falling,middle,9.78,14.64,3
+Customer,Iya Mbak saya pakai Otomotif saja Otomotif saja ya,neutral,falling,middle,14.64,17.18,3
+Agent,Baik mohon ditunggu sebentar ya Pak,neutral,falling,middle,17.18,18.86,3
+silence,,neutral,none,none,18.86,20.01,3
+Agent,Bapak Doni terima kasih atas kesabaran yang menunggu saya konfirmasi kembali hari ini dengan saya Grace Ella tanggal 8 Januari 2025 melakukan pemblokiran Otomotif Bapak Doni,neutral,falling,middle,20.01,28.34,3
+Agent,"Transaksi yang terjadi sebelum pemblokiran dilakukan merupakan tanggung jawab nasabah. Dan saya informasikan untuk pergantian kartu kartu debit dan pengaktifan untuk ATM mobile Bapak, nanti Bapak bisa ke kantor cabang terdekat dengan membawa KTP asli, buku tabungannya jika ada, dan nanti pergantian kartu akan dikenakan Rp30.000 ya.",neutral,falling,middle,0.0,12.76,4
+Customer,"Loh, kena biaya ya, Mbak?",neutral,rising,middle,12.76,15.2,4
+Agent,"Iya benar Pak, saat ini dikenakan biaya Rp30.000 karena kartu Bapak hilang. ",neutral,falling,middle,15.2,20.44,4
+Customer,Terus saya harus datang ke cabang juga?,neutral,rising,middle,20.44,22.88,4
+Agent,Bisa langsung ke kantor cabang terdekat Pak.,neutral,falling,middle,22.88,25.44,4
+Customer,Enggak bisa dikirim aja ke saya?,negative,falling,middle,25.44,28.0,4
+Agent,"Mohon maaf sekali Bapak, saat ini jika untuk pergantian kartu hilang dan pengaktifan ATM mobile, itu langsung ke kantor cabang terdekat.",neutral,falling,middle,28.0,36.8,4
+Customer,"Ya mana sempat saya, Mbak, jam kerja gini kan saya harus kerja, saya enggak mungkinlah datang-datang ke cabang. Saya minta dikirim aja lah, Mbak.",negative,falling,middle,36.8,48.8,4
+Agent,"Begitu, namun mohon maaf sekali Bapak, saat ini ketentuannya jika misalnya untuk pengiriman, kami itu hanya untuk pergantian kartu karena expired atau sebelum expired. Jika untuk dari hilang, berarti untuk pengaktifannya memang hanya ke kantor cabang Bapak.",neutral,falling,middle,48.8,67.44,4
+Customer,"Kok gitu, saya repot lho, saya enggak bisa kalau harus ke kantor.",negative,falling,middle,67.44,74.4,4
+Customer,Cabang ini tolonglah,neutral,falling,middle,0.0,1.1,5
+Agent,Mohon maaf sekali ya Pak untuk jadi ketentuannya memang saat ini untuk pergantian kartu hilang itu bisa dilakukan ke kantor cabang terdekat begitu,neutral,falling,middle,1.1,5.4,5
+Customer,Jika misalnya Bapak saat ini sedang bekerja Bapak juga bisa pergantian kartunya ke Digital Lounge yang ada di mall Pak jam operasinya sampai jam 8 malam,neutral,falling,middle,5.4,11.2,5
+Customer,Saya jauh dari Digital Lounge Mbak saya eh enggak ke cabang juga sebenarnya jauh cuman kalau lagi saya kerja kan susah kalau dekat sih enggak apa-apa Mbak,neutral,falling,middle,11.2,19.4,5
+Agent,Begitu namun mohon maaf sekali Bapak untuk eh pergantian kartu hilang memang saat ini masih di kantor cabang terdekat begitu,neutral,falling,middle,19.4,26.2,5
+Customer,Enggak bisa dibantu dikirim gitu Mbak Bank-bank lain kan ada bisa kok dikirim masa sih ini ke bank besar aja enggak bisa dikirim,negative,falling,middle,26.2,35.2,5
+Agent,Mohon maaf sekali ya Pak untuk ketentuan yang kami terima saat ini jika untuk kartu hilang dan pengaktifan ATM yang terblokir karena hilang memang hanya kantor cabang terdekat terlebih dahulu,neutral,falling,middle,35.2,47.9,5
+Customer,Kok gitu ya pelayanannya jelek banget ya Mbak ya,negative,falling,middle,47.9,53.1,5
+Agent,Mohon maaf sekali Bapak Doni nanti kami sampaikan ke tim terkait kami kembali ya Pak,neutral,falling,middle,53.1,58.4,5
+Customer,Ya saya sih enggak apa-apa sih,neutral,falling,middle,58.4,61.4,5
+Customer,Hmm enggak bagus ini saya eh kasih masukan ya itu,negative,falling,middle,61.4,66.3,5
+Customer,Loh kalau kayak gitu-gitu tuh jangan disusah-susahin lah Sabar lah dikasih kemudahan yang yang gampang gitu loh ngurus-ngurusnya,neutral,falling,middle,0.0,6.4,6
+Agent,Baik terima kasih untuk menerima masukannya Bapak Doni dan nanti kami akan sampaikan kembali Namun saat ini untuk dapat ditentukan tetap harus ke kantor cabang ya Pak,neutral,falling,middle,6.4,15.5,6
+Customer,Ya ya ya sudah lah kalau gitu lah,neutral,falling,middle,15.5,19.3,6
+Agent,Baik ada lagi bisa saya bantu Bapak Doni,neutral,rising,middle,19.3,22.5,6
+Customer,Gitu aja,neutral,falling,middle,22.5,24.2,6
+Agent,Terima kasih Bapak Doni telah menghubungi kami Selamat sore ya sehat selalu Ya,positive,falling,middle,24.2,31.6,6
+silence,,neutral,none,none,31.6,32.4,6

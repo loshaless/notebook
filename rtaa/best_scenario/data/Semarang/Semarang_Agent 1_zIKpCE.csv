@@ -1,0 +1,57 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,Selamat sore dengan Naira bagaimana saya bisa membantu,neutral,falling,middle,0.0,2.38,1
+Customer,Sore Mbak Naira,neutral,falling,middle,2.38,3.05,1
+Agent,Sore Ibu siapa ya sebelumnya saya bicara,neutral,falling,middle,3.05,4.06,1
+Customer,Saya dengan Intan,neutral,falling,middle,4.06,4.77,1
+Agent,Baik Ibu Intan ada apa yang bisa saya bantu,neutral,falling,middle,4.77,6.08,1
+Customer,Saya mau blokir kartu debit saya dong Mbak,neutral,falling,middle,6.08,7.36,1
+Agent,Baik begitu ya Ibu  sebentar saya akan mencarikan proses untuk pemblokirannya  dan untuk data pemblokiran bisa disebutkan nomor kartu ATM nya Bu,neutral,falling,middle,7.36,11.78,1
+Customer,5336,neutral,falling,middle,11.78,12.26,1
+Agent,5336,neutral,falling,middle,12.26,12.75,1
+Customer,4000,neutral,falling,middle,12.75,13.21,1
+Agent,4000,neutral,falling,middle,13.21,13.7,1
+Customer,1224,neutral,falling,middle,13.7,14.17,1
+Agent,1224,neutral,falling,middle,14.17,14.65,1
+Customer,1995,neutral,falling,middle,14.65,15.12,1
+Agent,1995,neutral,falling,middle,15.12,15.6,1
+Customer,Iya,neutral,falling,middle,15.6,15.92,1
+Agent,Baik Ibu saya akan alihkan ke sistem ya Bu untuk proses pemblokirannya nanti silakan Ibu tekan PIN kemudian diakhiri dengan tanda pagar  saya alihkan ya Bu,neutral,falling,middle,15.92,21.41,1
+Customer,Oke,neutral,falling,middle,21.41,21.73,1
+Agent,Baik terima kasih Bu Intan setelah memasukkan PIN dengan benar ya Bu  dan ini untuk data pemblokiran kartu ATM,neutral,falling,middle,21.73,26.46,1
+Agent,"ATM-nya sudah saya proses, saya konfirmasi kan pada hari ini tanggal 8 Januari 2025 dengan saya nya untuk pemblokiran kartu ATM-nya sudah diproses.",neutral,falling,middle,0.0,6.0,2
+Agent,Jika ada transaksi sebelumnya dari pemblokiran menjadi tanggung jawab dari Ibu Intan.,neutral,falling,middle,6.0,10.3,2
+Agent,Untuk proses penggantian nanti bisa melalui cabang terdekat ya Bu ya.,neutral,falling,middle,10.3,13.6,2
+Agent,Membawa identitas buku tabungan jika ada.,neutral,falling,middle,13.6,17.2,2
+silence,,neutral,none,none,17.2,18.5,2
+Customer,"Oke, eh Mbak saya juga mau nanya dong.",neutral,falling,middle,18.5,21.5,2
+Customer,Kalau misalnya kartunya ini kan suka hilang-hilangan gitu ya.,neutral,falling,middle,21.5,26.3,2
+Customer,Kalau misalnya ketemu itu kartunya bisa dibuka blokir lagi enggak Mbak?,neutral,rising,middle,26.3,31.3,2
+silence,,neutral,none,none,31.3,32.8,2
+Agent,Baik.,neutral,falling,middle,32.8,33.6,2
+Agent,Ibu enggak usah khawatir jika untuk dari pembukaan blokirnya itu bisa beberapa cara Bu.,neutral,falling,middle,33.6,39.2,2
+Agent,"Bisa melalui kami 14041, OctoMobile dan OctoClick ya Bu ya.",neutral,falling,middle,39.2,45.2,2
+silence,,neutral,none,none,45.2,47.1,2
+Customer,Hmm ribet banget sih Mbak.,negative,falling,middle,47.1,50.4,2
+Customer,Ini kartunya enggak bisa saya langsung aktifin aja gitu ya.,neutral,falling,middle,50.4,55.8,2
+Customer,Di eh cabang itu bisa enggak Mbak?,neutral,rising,middle,55.8,59.5,2
+silence,,neutral,none,none,59.5,60.9,2
+Agent,Baik.,neutral,falling,middle,60.9,61.8,2
+Agent,Untuk proses buka blokir di cabang juga bisa Bu.,neutral,falling,middle,61.8,66.4,2
+Agent,Atau jika memang Ibu ada OctoMobile ataupun OctoClick atau juga memiliki kami juga bisa.,neutral,falling,middle,66.4,73.5,2
+Customer,Canggih ya prosesnya?,neutral,rising,middle,0.0,1.0,3
+Agent,"Mmm, kalau buka ke cabang harus saya atau bisa diwakilkan, Mbak?",neutral,rising,middle,1.0,3.2,3
+Customer,"Baik, mana Ibu untuk dari kartu debit pemblokiran harus dengan Ibu sendiri, tidak bisa diwakilkan?",neutral,falling,middle,3.2,6.3,3
+Agent,"Kok pemblokiran sih, Mbak? Kan saya, Mbak, nanyanya tadi buka blokir.",neutral,rising,middle,6.3,9.4,3
+Customer,"Iya, mohon maaf Ibu pembukaan blokirnya.",neutral,falling,middle,9.4,11.6,3
+Agent,"Oke, eh Mbak, saya mau mastiin aja, mau nyamenein aja, eh sisa saldo saya yang di rekening itu ada 3.467.750.",neutral,rising,middle,11.6,18.5,3
+Customer,"Benar enggak, Mbak?",neutral,rising,middle,18.5,19.8,3
+Agent,"Baik, saya pastikan terlebih dahulu ya, Bu.",neutral,falling,middle,19.8,22.5,3
+Customer,Oke.,neutral,falling,middle,22.5,23.3,3
+Agent,"Baik, Bintang, kita saya pastikan di sini betul untuk saldo Ibu di angka 3.467.750 rupiah.",neutral,falling,middle,23.3,31.8,3
+Customer,"Oke, ya udah deh, itu dijalanin, Mbak.",neutral,falling,middle,31.8,35.1,3
+Agent,"Baik, ada lain sebelumnya, Bu Bintang, yang bisa saya bantu?",neutral,rising,middle,35.1,38.8,3
+Customer,"Enggak ada, Mbak, itu aja.",neutral,falling,middle,38.8,41.2,3
+Agent,"Baik, terima kasih, Bu Bintang, telah menghubungi kami.",positive,falling,middle,41.2,45.1,3
+Customer,"Ya, ya, selamat sore, Bu, selamat selalu",neutral,falling,middle,0.0,1.5,4
+Agent,Thank you,neutral,falling,middle,1.5,2.2,4
+silence,,neutral,none,none,2.2,2.8,4

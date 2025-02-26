@@ -1,0 +1,28 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Customer,"Terus, kami proses, ada lagi yang bisa dibantu Bu?",neutral,falling,middle,0.0,2.28,2
+silence,,neutral,none,none,2.28,2.74,2
+Customer,"Ee, aku mau nanya saldo Bu. Aku cek lagi itu benar enggak sih tanggalnya?",neutral,falling,middle,2.74,6.36,2
+Customer,30.467.750,neutral,falling,middle,6.36,7.92,2
+Customer,Ditkurangi enggak saldo itu?,neutral,rising,middle,7.92,9.12,2
+Agent,"Baik. Untuk pengecekan saldo, saya tanyakan beberapa hal terlebih dahulu ya Bu?",neutral,falling,middle,9.12,12.64,2
+Customer,"Silakan Mbak, saya dibolehin enggak?",neutral,falling,middle,12.64,14.56,2
+Agent,Baik.,neutral,falling,middle,14.56,15.12,2
+silence,,neutral,none,none,15.12,15.88,2
+Agent,"Dibukanya, untuk saat ini saldo Ibu masih ada di nominal Rp30.467.750.",neutral,falling,middle,15.88,22.04,2
+Customer,Itu kok bisa enggak bisa ngeluarin ya Mbak ya?,neutral,rising,middle,22.04,24.96,2
+Agent,Iya Ibu.,neutral,falling,middle,24.96,25.96,2
+Customer,Oke Mbak. Ada lagi yang bisa dibantu Bu?,neutral,falling,middle,25.96,28.64,2
+silence,,neutral,none,none,28.64,29.56,2
+Customer,"Ee, ada lagi Mbak ya?",neutral,falling,middle,29.56,31.6,2
+Customer,"Karena, ee, kalau hari ini boleh baca emailnya?",neutral,falling,middle,31.6,35.6,2
+Customer,Halo saya mau cek saldo,neutral,normal,middle,0.0,1.15,3
+Agent,Baik untuk saldo Ibu hari ini di tanggal 8 Januari nominal 3.467.750,neutral,normal,middle,1.15,4.37,3
+Customer,Tidak ada uang masuk hari ini enggak Pak?,neutral,rising,middle,4.37,6.08,3
+Agent,Untuk uang masuknya tidak ada ya Ibu,neutral,normal,middle,6.08,7.15,3
+Customer,Tidak ada Pak,neutral,normal,middle,7.15,7.77,3
+Agent,Ada lagi yang bisa dibantu?,neutral,rising,middle,7.77,8.44,3
+Customer,Tidak ada Pak,neutral,normal,middle,8.44,9.15,3
+Agent,Baik terima kasih bukannya telah fungsi yang diminta selamat sore selamat beraktivitas kembali ya Ibu,positive,falling,middle,9.15,12.78,3
+Customer,Kembali ya,neutral,normal,middle,12.78,13.48,3
+Agent,Hai,neutral,normal,middle,13.48,13.81,3
+silence,,neutral,none,none,13.81,14.16,3

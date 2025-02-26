@@ -1,0 +1,61 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Fanya, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.4,1
+Customer,"Halo, selamat sore Mbak",neutral,falling,middle,2.4,3.9,1
+Agent,"Iya, dengan Bapak, siapa saya berbicara?",neutral,falling,middle,3.9,5.3,1
+Customer,Saya Martupa,neutral,falling,middle,5.3,6.1,1
+Agent,"Bapak Martupa, perihal apa yang bisa dibantu?",neutral,falling,middle,6.1,8.2,1
+Customer,"Ee ini saya mau ee ini Mbak, mau pembatalan kredit protektor saya Mbak, mau dibatalin aja",neutral,falling,middle,8.2,14.8,1
+Customer,kredit protektornya,neutral,falling,middle,14.8,17.1,1
+Agent,"Baik Bapak Martupa, nomor kartu kreditnya boleh tolong disebutkan?",neutral,falling,middle,17.1,21.3,1
+Customer,Ee 5336,neutral,falling,middle,21.3,23.4,1
+Agent,Iya,neutral,falling,middle,23.4,23.9,1
+Customer,9334,neutral,falling,middle,23.9,25.5,1
+Agent,Iya,neutral,falling,middle,25.5,26.0,1
+Customer,4789,neutral,falling,middle,26.0,27.8,1
+Agent,Iya,neutral,falling,middle,27.8,28.3,1
+Customer,1456,neutral,falling,middle,28.3,29.9,1
+Agent,"Terima kasih Bapak Martupa, untuk kartunya apakah sudah dilengkapi dengan PIN?",neutral,falling,middle,29.9,34.7,1
+Customer,Ee sudah,neutral,falling,middle,34.7,36.0,1
+Agent,Akan saya alihkan ke sistem untuk verifikasi PIN untuk pembatalan kredit protektornya,neutral,falling,middle,36.0,42.8,1
+Customer,Heeh,neutral,falling,middle,42.8,43.8,1
+Agent,"Nah, saya alihkan ya Pak ya?",neutral,rising,middle,43.8,46.9,1
+Customer,Oke,neutral,falling,middle,46.9,47.9,1
+silence,,neutral,none,none,47.9,50.2,1
+Agent,Ini anda masukkan benar,neutral,falling,middle,50.2,52.8,1
+Agent,"Terima kasih Bapak, untuk PIN-nya sudah benar, kemudian untuk",neutral,falling,middle,52.8,57.8,1
+Agent,alasan pembatalan kredit protektor,neutral,falling,middle,57.8,61.0,1
+Customer,Protektoenya dikarenakan apa Bapak Martupa?,neutral,falling,middle,0.0,2.37,2
+Agent,"Ee, kegedean Mbak. Soalnya kan kalau di lembar tagihan itu yang sekarang itu bayangin aja Mbak, masa ee dari protektor yang harus saya bayarkan itu Rp2.730.000",negative,falling,middle,2.37,10.32,2
+Customer,Hmm.,neutral,none,none,10.32,10.6,2
+Agent,"Kemudian itu Mbak, kebesaran itu Mbak. Masa premi nya Rp2.730.000?",negative,falling,middle,10.6,15.46,2
+Customer,"Baik. Bapak Martupa, ini keberatan dengan premi yang ditagihkan di asuransi kredit protektornya ya?",neutral,rising,middle,15.46,21.48,2
+Agent,Heeh.,neutral,none,none,21.48,21.87,2
+Customer,"Heeh, heeh.",neutral,none,none,21.87,22.49,2
+Agent,"Baik, Bapak Martupa untuk pem-nda-mohon maaf untuk pembatalan kredit protektornya akan kami bantu buat kan pelaporan melalui contact center ya Pak. Mohon ditunggu sebentar.",positive,falling,middle,22.49,31.16,2
+Customer,Heeh.,neutral,none,none,31.16,31.52,2
+Customer,Heeh.,neutral,none,none,31.52,31.81,2
+Customer,Berarti Mbak yang premi nya sekarang ini Rp2.730.000 ini harus saya bayarin ya Mbak ya?,neutral,rising,middle,31.81,39.19,2
+Agent,Iya Bapak. Karena untuk premi yang sudah ditagihkan tidak bisa dihapuskan.,neutral,falling,middle,39.19,45.51,2
+Customer,Ooh.,neutral,none,none,45.51,45.8,2
+Customer,"Ya sudah, enggak apa-apa. Kecil kok ini bagi saya.",positive,falling,middle,45.8,51.75,2
+Agent,"Baik, Bapak Martupa.",neutral,falling,middle,51.75,54.48,2
+Agent,Untuk pembatalan kredit protektor sudah saya kirimkan ke dua verifikasi oleh,neutral,falling,middle,54.48,59.93,2
+Customer,OTP apakah sudah diterima?,neutral,falling,middle,0.0,1.23,3
+Agent,Sudah.,neutral,falling,middle,1.23,1.56,3
+Agent,"Baik. Saya alihkan ke sistem verifikasi OTP-nya. Nanti setelah di verifikasi saya tekankan kode-nya ya, Pak.",neutral,falling,middle,1.56,4.29,3
+Customer,Saya alihkan.,neutral,falling,middle,4.29,4.84,3
+silence,,neutral,none,none,4.84,5.38,3
+Agent,Pasword yang Anda masukkan benar.,neutral,falling,middle,5.38,6.56,3
+Agent,Terima kasih Bapak Martupa untuk pasword-nya sudah benar.,positive,falling,middle,6.56,8.27,3
+Agent,Untuk pembatalan kredit protektor sudah kami bantu buatkan laporan.,neutral,falling,middle,8.27,10.36,3
+Agent,Saya konfirmasi pada hari ini tempatnya tanggal 8 Januari 2025 dengan saya-nya permintaan Bapak Martupa terkait pembatalan kredit protektor kami terima dengan nomor pelaporan,neutral,falling,middle,10.36,16.39,3
+Agent,Charlie Bravo Golf Romeo Echo,neutral,falling,middle,16.39,18.46,3
+Agent,2491,neutral,falling,middle,18.46,19.03,3
+Customer,Oke.,neutral,falling,middle,19.03,19.35,3
+Agent,2511.,neutral,falling,middle,19.35,19.89,3
+Customer,Heeh.,neutral,falling,middle,19.89,20.32,3
+Agent,"Oke, Pak.",neutral,falling,middle,20.32,20.87,3
+Agent,"Ada lagi yang bisa dibantu, Pak?",neutral,rising,middle,20.87,21.89,3
+Customer,"Sudah, itu saja. Terima kasih.",positive,falling,middle,21.89,23.46,3
+Agent,"Baik. Ya sudah itu. Terima kasih Bapak Martupa telah menghubungi BNIaga. Selamat sore, sukses selalu.",positive,falling,middle,23.46,27.37,3
+Customer,Oke.,neutral,falling,middle,27.37,27.69,3

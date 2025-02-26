@@ -1,0 +1,73 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+silence,,neutral,none,none,0.0,0.6,1
+Agent,"Halo, selamat siang Bapak.",neutral,falling,middle,0.6,1.7,1
+Customer,"Iya, dengan Bapak siapa saya berbicara?",neutral,falling,middle,1.7,2.8,1
+Agent,Saya Martupa.,neutral,falling,middle,2.8,3.4,1
+Customer,"Bapak Martupa,  prihal apa bisa dibantu?",neutral,rising,middle,3.4,4.6,1
+Agent,"Ee saya mau daftar tagihan Pak, sebentar lagi biar tagihan kartu kredit saya itu dikirimkan Pak melalui email.",neutral,falling,middle,4.6,7.8,1
+Customer,"Baik. Bapak Martupa, boleh disebutkan nomor kartu kreditnya?",neutral,falling,middle,7.8,9.4,1
+Agent,5336,neutral,falling,middle,9.4,9.9,1
+Customer,Iya.,neutral,falling,middle,9.9,10.2,1
+Agent,7409,neutral,falling,middle,10.2,10.7,1
+Customer,Iya.,neutral,falling,middle,10.7,11.0,1
+Agent,0117,neutral,falling,middle,11.0,11.5,1
+Customer,Iya.,neutral,falling,middle,11.5,11.8,1
+Agent,2626.,neutral,falling,middle,11.8,12.3,1
+Customer,"Terima kasih Bapak Martupa, untuk kartu kreditnya apakah sudah dilengkapi dengan PIN?",neutral,rising,middle,12.3,14.5,1
+Agent,Sudah.,neutral,falling,middle,14.5,14.9,1
+Customer,"Akan saya alihkan Bapak Martupa ke sistem untuk verifikasi PIN, nanti setelah terdengar instruksi mohon dimasukkan enam PIN kartu kreditnya diakhiri dengan tanda pagar ya?",neutral,falling,middle,14.9,20.2,1
+Agent,Oke.,neutral,falling,middle,20.2,20.5,1
+Customer,Saya alihkan.,neutral,falling,middle,20.5,21.0,1
+silence,,neutral,none,none,21.0,21.8,1
+Agent,PIN-nya dimasukkan benar.,neutral,falling,middle,21.8,22.8,1
+Customer,Terima kasih Bapak Martupa untuk PIN-nya sudah benar.,positive,falling,middle,22.8,25.2,1
+Agent,Untuk selanjutnya akan saya bantu verifikasi tambahan Bapak Martupa.,neutral,falling,middle,25.2,27.8,1
+Customer,Pa ya untuk pendaftaran lembar tagihannya,neutral,falling,middle,0.0,1.6,2
+Agent,Oke,neutral,falling,middle,1.6,1.9,2
+Agent,Bole disebutkan nomor handphone yang terdaftar di bank,neutral,falling,middle,1.9,3.3,2
+Customer,Nomor handphone saya 0851,neutral,falling,middle,3.3,4.2,2
+Agent,Iya,neutral,falling,middle,4.2,4.4,2
+Customer,5900,neutral,falling,middle,4.4,4.8,2
+Agent,Iya,neutral,falling,middle,4.8,5.0,2
+Customer,5950,neutral,falling,middle,5.0,5.4,2
+Agent,Iya terima kasih,positive,falling,middle,5.4,6.0,2
+silence,,neutral,none,none,6.0,6.6,2
+Agent,Untuk selanjutnya kami bantu buatkan pelaporannya terlebih dahulu ya Pak mohon ditunggu sebentar,neutral,falling,middle,6.6,10.0,2
+silence,,neutral,none,none,10.0,10.4,2
+Customer,Baik,neutral,falling,middle,10.4,10.8,2
+silence,,neutral,none,none,10.8,11.6,2
+Agent,Sudah Pak mohon ditunggu Pak di sini akan saya,neutral,falling,middle,11.6,13.4,2
+Agent,tanyakan ke,neutral,falling,middle,13.4,13.9,2
+Agent,Kembali Bapak Martupa Apakah sebelumnya ada melakukan pembayaran?,neutral,falling,middle,0.0,2.32,3
+Customer,Oh iya saya baru bayar Mbak eh ini baru saya bayar tagihan saya nominalnya itu 1.250.500,neutral,falling,middle,2.32,7.28,3
+Agent,Iya,neutral,normal,middle,7.28,7.56,3
+Agent,Baik,neutral,falling,middle,7.56,7.92,3
+Agent,1.250.500 ya,neutral,falling,middle,7.92,8.76,3
+Customer,Baik Pak,neutral,falling,middle,8.76,9.12,3
+Agent,Heem,neutral,normal,middle,9.12,9.4,3
+silence,,neutral,none,none,9.4,10.12,3
+Customer,Mbak ini sebentar dulu ya Mbak ya,neutral,falling,middle,10.12,11.28,3
+Agent,Baik Bapak,neutral,falling,middle,11.28,11.76,3
+silence,,neutral,none,none,11.76,12.92,3
+Customer,Baik Bapak Martupa,neutral,falling,middle,12.92,13.72,3
+Agent,"Ya, Mbak, soalnya Mbak, ya gimana?",neutral,rising,middle,0.0,1.0,4
+Customer,"Baik, Mbak, matur suwun, terima kasih atas bantuannya, Bu, untuk pendaftaran lembar tagihan e-statement-nya sudah dilakukan, ya?",positive,falling,middle,1.0,5.2,4
+Agent,Heeh.,neutral,normal,middle,5.2,5.7,4
+Agent,Kemudian ada lagi yang bisa dibantu?,neutral,rising,middle,5.7,7.5,4
+Customer,"Sudah, Mbak, itu aja. Ini yang pembayaran saya tadi Rp1.250.000 itu sudah masuk ya?",neutral,falling,middle,7.5,13.0,4
+Agent,"Sudah, Bapak.",neutral,normal,middle,13.0,13.9,4
+Customer,"Oke, sudah, itu aja, Mbak. Terima kasih.",positive,falling,middle,13.9,16.4,4
+Agent,"Sama-sama, Bapak, matur suwun, Pak. Terima kasih juga telah memilih dan menyapa, selamat sore, sukses selalu.",positive,falling,middle,16.4,22.3,4
+Customer,Iya.,neutral,normal,middle,22.3,22.8,4
+silence,,neutral,none,none,22.8,27.1,4
+Customer,Kenapa?,neutral,rising,middle,27.1,27.6,4
+Customer,"Kenapa, Mbak?",neutral,rising,middle,27.6,28.3,4
+Customer,"Kok, saya kok gak ada suara, Mbak?",negative,rising,middle,28.3,31.2,4
+Agent,"Iya, Bapak, coba Bapak, ini, ya, teleponnya didekatkan ke telinga, ya?",neutral,falling,middle,31.2,35.5,4
+Customer,"Iya, ini sudah didekatkan, Mbak.",neutral,falling,middle,35.5,37.8,4
+Agent,"Coba, Bapak, ini, ya, mungkin, ya, ada gangguan sinyal, ya, Bapak, ya?",neutral,falling,middle,37.8,42.2,4
+Customer,"Iya, mungkin, ya, Mbak.",neutral,falling,middle,42.2,44.0,4
+Agent,"Oke, Bapak. Coba, ya, Bapak, hubungi lagi, ya, Bapak, ya?",neutral,falling,middle,44.0,47.6,4
+Customer,"Iya, Mbak. Terima kasih.",positive,falling,middle,47.6,49.6,4
+Agent,"Sama-sama, Bapak.",neutral,normal,middle,49.6,50.8,4
+silence,,neutral,none,none,50.8,54.4,4

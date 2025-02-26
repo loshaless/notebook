@@ -1,0 +1,38 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Cita, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.2,1
+Customer,"Eh, sore Mbak. Aku Kanya.",neutral,falling,middle,2.2,3.6,1
+Agent,"Selamat sore Ibu Kanya, ada yang bisa saya bantu?",neutral,falling,middle,3.6,5.3,1
+Customer,"Iya Mbak. Aku tuh kan sudah daftar ke kredit protektor. Aku mau batalin aja nih, Mbak.",neutral,falling,middle,5.3,9.8,1
+Agent,Baik. Untuk kredit protektor sendiri ini kan memberikan manfaat yang luar biasa untuk Ibu. Apakah tidak sayang jika dilaukan pembatalan?,neutral,falling,middle,9.8,16.7,1
+Customer,"Enggak Mbak, orang udah punya asuransi juga sih.",neutral,falling,middle,16.7,20.2,1
+Agent,"Baik. Ibu saya akan pengacakan terlebih dahulu untuk pembatalan kredit protektornya. Bisa disebutkan nomor kartu kreditnya, Bu?",neutral,falling,middle,20.2,27.4,1
+Customer,"Iya. Eh nomor kartu saya, 5336",neutral,falling,middle,27.4,30.1,1
+Agent,Iya.,neutral,normal,middle,30.1,30.6,1
+Customer,5334,neutral,falling,middle,30.6,31.8,1
+Agent,Iya.,neutral,normal,middle,31.8,32.2,1
+Customer,789,neutral,falling,middle,32.2,33.2,1
+Agent,Iya.,neutral,normal,middle,33.2,33.6,1
+Customer,1456,neutral,falling,middle,33.6,35.1,1
+Agent,Apakah kartu Ibu sudah dilengkapi dengan PIN?,neutral,falling,middle,35.1,38.2,1
+Customer,Sudah Mbak.,neutral,falling,middle,38.2,39.5,1
+Agent,"Jika sudah, saya akan alihkan ke sistem untuk verifikasi PIN terlebih dahulu. Silakan tekan enam digit PIN diakhiri dengan tanda pagar setelah instruksi ya, Bu.",neutral,falling,middle,39.5,48.5,1
+Customer,Iya.,neutral,normal,middle,48.5,49.3,1
+Agent,1978 14041,neutral,normal,middle,0.0,0.65,3
+Agent,dengan menyebutkan nama lengkap dan juga nomor laporan,neutral,normal,middle,0.65,1.95,3
+Agent,Untuk nomor laporannya sudah dilengkapi dengan Untuk nomor laporannya juga kami kirimkan melalui SMS ya Bu,neutral,normal,middle,1.95,4.0,3
+Agent,Ada lagi yang bisa dibantu?,neutral,rising,middle,4.0,4.7,3
+silence,,neutral,none,none,4.7,5.1,3
+Customer,Iya iya Mbak eh aku mau tanya Mbak tagihan saya bulan kemarin tagihan terakhir itu kan 2.730.000 Mbak,neutral,normal,middle,5.1,8.3,3
+Customer,Ini muncul biaya 15.015 itu buat apa Mbak untuk apa fungsinya?,neutral,rising,middle,8.3,11.75,3
+Agent,Iya,neutral,normal,middle,11.75,11.95,3
+Agent,"Baik untuk kredit protektor di kartu Syariah ini biaya kontribusinya di 0,55% dari total tagihan tertunggak ya Bu",neutral,normal,middle,11.95,15.95,3
+Agent,eh jika tagihan Ibu di nominal 2.730.000 maka untuk biaya kontribusinya di 15.015 rupiah,neutral,normal,middle,15.95,20.2,3
+Customer,Oh sudah jelas ya,neutral,rising,middle,20.2,21.05,3
+Agent,Iya Ibu ini sudah sesuai,neutral,normal,middle,21.05,22.15,3
+Customer,Bisa dihapuskan ya Mbak,neutral,rising,middle,22.15,23.25,3
+Agent,Untuk dihapuskan eh untuk tagihan yang sudah muncul di lembar tagihan sudah tidak bisa diajukan penghapusan ya Bu,neutral,normal,middle,23.25,28.0,3
+Customer,Halo,neutral,rising,middle,0.0,0.3,4
+Agent,"Baik, ada lagi yang saya dibantu Ibu?",neutral,falling,middle,0.3,1.4,4
+Customer,"Sudah, Mbak",neutral,falling,middle,1.4,2.2,4
+Agent,"Baik, terima kasih Ibu,  kanya telah menghubungi Niagara. Selamat sore, selamat beraktifitas kembali.",positive,falling,middle,2.2,5.1,4
+silence,,neutral,none,none,5.1,5.9,4

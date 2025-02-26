@@ -1,0 +1,42 @@
+speaker,transcript,sentiment,intonation,pitch range,start_time,end_time,chunk
+Agent,"Selamat sore dengan Naira, bagaimana saya bisa membantu?",neutral,falling,middle,0.0,2.28,1
+Customer,Selamat sore Mbak Naira,neutral,falling,middle,2.28,3.39,1
+Agent,"Sore Bu, dengan Ibu siapa saya berbicara?",neutral,falling,middle,3.39,4.58,1
+Customer,Saya dengan Nina,neutral,falling,middle,4.58,5.43,1
+Agent,"Baik, Ibu Nina, apa yang bisa saya bantu?",neutral,falling,middle,5.43,6.61,1
+Customer,"Ee Mbak, saya mau ee blokir Oppo mobile saya bisa enggak ya?",neutral,rising,middle,6.61,9.03,1
+Agent,"Baik, pemblokirannya dikarenakan apa Bu?",neutral,falling,middle,9.03,10.23,1
+Customer,Ee handphone saya hilang Mbak,neutral,falling,middle,10.23,11.18,1
+Agent,"Baik, begitu ya. Ibu tidak usah khawatir, saya akan proses untuk pemblokirannya. Nomor kartu ATM-nya bisa disebutkan Ibu Nina?",neutral,falling,middle,11.18,15.05,1
+Customer,5244,neutral,falling,middle,15.05,15.65,1
+Agent,Iya,neutral,falling,middle,15.65,15.95,1
+Customer,6218,neutral,falling,middle,15.95,16.49,1
+Agent,Baik,neutral,falling,middle,16.49,16.78,1
+Customer,1287,neutral,falling,middle,16.78,17.32,1
+Agent,Iya,neutral,falling,middle,17.32,17.62,1
+Customer,8214,neutral,falling,middle,17.62,18.16,1
+Agent,"Baik, cuma ditunggu saya akan alihkan Ibu ke sistem untuk pemblokirannya ya. Nanti silakan Ibu tekan-tekan kemudian diakhiri dengan tanda pagar ya Bu",neutral,falling,middle,18.16,22.11,1
+Customer,Oke,neutral,falling,middle,22.11,22.41,1
+Agent,"Baik, terima kasih Ibu Nina. Selamat sore",neutral,falling,middle,22.41,23.94,1
+Agent,Saya memasukan PIN dengan benar.,neutral,normal,middle,0.0,1.3,2
+Agent,"Saya konfirmasi untuk pemblokiran otomobilnya pada hari ini ya Bu, tanggal 8 Januari 2025 dengan saya Naira, untuk pemblokiran otomobilnya sudah dilakukan.",neutral,normal,middle,1.3,5.6,2
+Agent,"Kemudian jika ada transaksi sebelum dari pemblokiran, mencantumkan daftar Ibu Ninik.",neutral,normal,middle,5.6,8.6,2
+Agent,Untuk proses pembukaannya nanti bisa datang ke cabang terdekat membawa KTP dan buku tabungan jika ada ya Bu?,neutral,rising,middle,8.6,13.4,2
+Customer,Sudah sudah.,neutral,normal,middle,13.4,14.2,2
+Customer,Oh berarti buka blokirnya nanti langsung ke ATM ya Mbak?,neutral,rising,middle,14.2,17.1,2
+Agent,"Eh ke cabang ATM ke cabang ya Mbak, sorry.",neutral,normal,middle,17.1,19.8,2
+Customer,Iya betul iya.,neutral,normal,middle,19.8,21.2,2
+Customer,Terus eh Mbak saya mau eh cek transaksi terakhir saya itu yang transfer benar enggak ya nominalnya Rp14.500.000?,neutral,rising,middle,21.2,29.1,2
+Customer,Tolong dicek dong Mbak.,neutral,normal,middle,29.1,30.7,2
+Agent,Baik Ibu.,neutral,normal,middle,30.7,31.7,2
+Agent,Baik ini saya cek datanya.,neutral,normal,middle,31.7,34.1,2
+Agent,"Untuk dari transaksi transfernya betul ya Bu ya, nominalnya Rp14.500.000 Bu?",neutral,rising,middle,34.1,40.5,2
+Customer,Oh sudah betul ya.,neutral,normal,middle,40.5,42.5,2
+Customer,"Sudah, kalau gitu saya mau Naira terima kasih ya.",positive,normal,middle,42.5,47.2,2
+Agent,Baik.,neutral,normal,middle,47.2,48.0,2
+Agent,Ada hal lain yang bisa saya bantu?,neutral,rising,middle,48.0,50.4,2
+Customer,"Enggak ada Mbak, itu saja.",neutral,normal,middle,50.4,52.6,2
+Agent,"Baik, terima kasih Bu Ninik.",positive,normal,middle,52.6,55.2,2
+Agent,"Selamat malam Senin ya,  selamat sore, selamat selalu.",neutral,falling,middle,0.0,2.24,3
+Customer,Terima kasih.,positive,falling,middle,2.24,2.96,3
+silence,,neutral,none,none,2.96,3.52,3
